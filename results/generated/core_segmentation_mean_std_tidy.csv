@@ -1,0 +1,9 @@
+group,metric,n_seeds,mean,std
+segmentation_only,val_positive_dice,3,0.5808983282668088,0.006151858854452455
+segmentation_only,val_positive_iou,3,0.46194398150381755,0.009534255117269241
+segmentation_only,val_malignant_dice,3,0.5440939739552918,0.03315891390557936
+segmentation_only,val_normal_mean_foreground_percent,3,3.0486022534013606,0.9074842001405934
+multitask,val_positive_dice,3,0.6076496867361872,0.0019258533889692914
+multitask,val_positive_iou,3,0.4904112612256377,0.006096460079682534
+multitask,val_malignant_dice,3,0.5798007867160263,0.012216903644783648
+multitask,val_normal_mean_foreground_percent,3,1.8030698607568028,0.10967085674757734

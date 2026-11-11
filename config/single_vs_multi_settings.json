@@ -1,0 +1,77 @@
+{
+  "version": "1.0.0",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "modes": {
+    "classification_only": [
+      "classification"
+    ],
+    "segmentation_only": [
+      "segmentation"
+    ],
+    "multitask": [
+      "classification",
+      "segmentation"
+    ]
+  },
+  "fixed_epochs_per_run": 30,
+  "early_stopping": false,
+  "runs": 9,
+  "batch_size": 8,
+  "optimizer": "fresh Adam",
+  "learning_rate": 0.0001,
+  "clipnorm": 1.0,
+  "initialization": "CNN ImageNet only; freshly seeded Transformer/heads; common per-seed template cloned independently",
+  "no_previously_BUSI_trained_weights": true,
+  "CNN": "MobileNetV2 alpha=1, frozen including BN",
+  "Transformer": "shared 49x128 tokens; four heads; FFN 256; zero-initialized residual projection",
+  "heads": "independent GAP+Dense classifier and attention-gated segmentation decoder; unused head physically pruned in ST",
+  "LPRM": false,
+  "adaptive_task_weights": false,
+  "class_cost_weights": [
+    1,
+    1,
+    1
+  ],
+  "task_loss_weights": [
+    1,
+    1
+  ],
+  "classification_loss": "mean plain CE",
+  "segmentation_loss": "mean BCE_all + Dice_on_positive_images",
+  "preprocessing": "PIL RGB bilinear 224 uint8 -> float32 raw pixels; model rescales to [-1,1] for MobileNetV2",
+  "old_normalization": "saved train Z-score is undone before this study; not applied twice",
+  "augmentation": "identical stateless epoch shuffle and paired horizontal flips p=.5 across modes",
+  "classification_selection": [
+    "max malignant BA",
+    "max macro F1",
+    "min NLL"
+  ],
+  "segmentation_selection": [
+    "max positive hard Dice",
+    "min BCE+positive soft-Dice validation loss",
+    "min normal foreground area"
+  ],
+  "MTL_selection": "two separate task-selected checkpoints; no splicing their metrics into one model",
+  "initial_checkpoint_included": true,
+  "mask_threshold": 0.5,
+  "class_prediction": "argmax",
+  "manifest_sha256": "cafadff2cb11e0eaebe0eb428bba3768a5c179f3702341c3021f314556ef2d3d",
+  "source_config_sha256": "f649d9400885159fb5f167d82d315f395589f2514ed8defc451e156c0e7d05ad",
+  "frozen_protocol_sha256": "bb45fa7b9d787f8d5eb096eee71610f88defc9023e6992f7be15ab27d0cdf55e",
+  "source_directory": "/content/drive/MyDrive/BUSI_EXPERIMENTS/proposed_model_20261018T141244_200658Z",
+  "test_evaluated": false,
+  "similarity_groups": "no verified patient-ID claim",
+  "interpretation": "controlled core comparison with unit loss weights, not a re-estimate of historical full-model performance",
+  "test_history": "test has already been inspected in earlier experiments; this is exploratory validation only",
+  "resume": "committed epoch and optimizer resume; dropout replay after interruption is not bit exact",
+  "versions": {
+    "tensorflow": "2.21.0",
+    "keras": "3.13.2",
+    "numpy": "2.4.6",
+    "python": "3.13.16"
+  }
+}

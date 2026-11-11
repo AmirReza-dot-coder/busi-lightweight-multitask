@@ -1,0 +1,116 @@
+{
+  "version": "1.0.0",
+  "purpose": "train-only augmentation correction; no claim of guaranteed error removal",
+  "source_initial": "/content/drive/MyDrive/BUSI_EXPERIMENTS/proposed_model_20261018T141244_200658Z/initial.keras",
+  "source_initial_sha256": "f5802adf15b70de26fba86a427115e0450666e13403f49bce101a49ca7c0c22c",
+  "frozen_protocol_sha256": "bb45fa7b9d787f8d5eb096eee71610f88defc9023e6992f7be15ab27d0cdf55e",
+  "split_sha256": "cafadff2cb11e0eaebe0eb428bba3768a5c179f3702341c3021f314556ef2d3d",
+  "source_config_sha256": "f649d9400885159fb5f167d82d315f395589f2514ed8defc451e156c0e7d05ad",
+  "controls": [
+    {
+      "seed": 42,
+      "model_sha256": "b0cacda59ba93dd299a4b281c2aeb74cf7ba9d3b24287f23c93c28dddc4b4fab",
+      "config_sha256": "dfc7890b5796088c1cfece226e2e5fc3be10f2e38004fc8cab459bca3cea8486"
+    },
+    {
+      "seed": 43,
+      "model_sha256": "b8ed5b21de9ebe2902d2884e4fbf8538ea489e8281934b8f1da780f61176cfe8",
+      "config_sha256": "41639116fbdaad1ae94f69b78d5487ec18640706bb5db1efdf92c041339092de"
+    },
+    {
+      "seed": 44,
+      "model_sha256": "76d725b702d3ad97290c51dbb312c2a601412b87822cbf0529719416a667a418",
+      "config_sha256": "bc1ea725f4d95db1026e9ec9df569ea670c91e416e31cea5ad9f6151e1eb03ed"
+    }
+  ],
+  "class_order": [
+    "normal",
+    "benign",
+    "malignant"
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "normalization": {
+    "mean": [
+      83.76726531982422,
+      83.76726531982422,
+      83.76726531982422
+    ],
+    "std": [
+      55.80641555786133,
+      55.80641555786133,
+      55.80641555786133
+    ]
+  },
+  "augmentation": {
+    "horizontal_flip_probability": 0.5,
+    "rotation_probability": 0.5,
+    "rotation_degrees": [
+      -10.0,
+      10.0
+    ],
+    "crop_probability": 0.5,
+    "crop_side_fraction": [
+      0.95,
+      1.0
+    ],
+    "brightness_probability": 0.5,
+    "brightness_offset_255": [
+      -12.75,
+      12.75
+    ],
+    "contrast_probability": 0.5,
+    "contrast_factor": [
+      0.9,
+      1.1
+    ],
+    "speckle_probability": 0.5,
+    "speckle_sigma": [
+      0.0,
+      0.05
+    ],
+    "gaussian_probability": 0.5,
+    "gaussian_sigma_255": [
+      0.0,
+      2.55
+    ],
+    "image_interpolation": "PIL BILINEAR",
+    "mask_interpolation": "PIL NEAREST",
+    "rotation_fill": 0,
+    "noise_channels": "one shared noise field across RGB",
+    "geometry_guard": "revert geometry if it removes every lesion pixel",
+    "scope": "training only; independently resampled each epoch",
+    "parameter_origin": "augmentation types from proposal; numerical ranges are declared experimental choices"
+  },
+  "architecture": "unchanged full_lprm_v1; shared_encoder frozen",
+  "optimizer": "Adam",
+  "learning_rate": 0.0001,
+  "clipnorm": 1.0,
+  "batch_size": 8,
+  "epochs": 30,
+  "patience": 8,
+  "class_cost_ratio": [
+    1,
+    1,
+    2
+  ],
+  "loss": "unchanged BCE+positive Dice / weighted CE / learned task weights",
+  "selection": [
+    "malignant_vs_other_balanced_accuracy",
+    "positive_Dice",
+    "macro_F1"
+  ],
+  "comparison": "same saved initial network and seed-specific original full-model controls; warm-start continuation seeds",
+  "test_history": "earlier test results have already been inspected; this is an exploratory follow-up, not a new independent test",
+  "test_images_loaded": false,
+  "resume": "optimizer and epoch state resume; dropout randomness is not restored bit-for-bit",
+  "versions": {
+    "tensorflow": "2.21.0",
+    "keras": "3.13.2",
+    "numpy": "2.1.3",
+    "python": "3.13.16"
+  }
+}

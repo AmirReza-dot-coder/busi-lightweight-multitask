@@ -1,0 +1,11 @@
+{
+  "python_files_parsed": 6,
+  "notebooks_parsed": 11,
+  "code_cells_parsed": 70,
+  "source_syntax_issues": [],
+  "archive_crc_checks": 6,
+  "broken_local_markdown_links": [],
+  "checkpoint_export_synthetic_copy_hash_dedup_missing_checks": "passed",
+  "training_run": false,
+  "neural_network_inference_run": false
+}

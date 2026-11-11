@@ -1,0 +1,9 @@
+group,metric,n_seeds,mean,std
+classification_only,val_accuracy,3,0.8231884057971014,0.032921207801740716
+classification_only,val_macro_f1,3,0.7926916183984978,0.0302832961335837
+classification_only,val_malignant_recall,3,0.8476190476190476,0.04364357804719843
+classification_only,val_malignant_balanced_accuracy,3,0.8779761904761906,0.01675941455392987
+multitask,val_accuracy,3,0.8115942028985508,0.026565656202642517
+multitask,val_macro_f1,3,0.7812244032591452,0.02670174959414559
+multitask,val_malignant_recall,3,0.8761904761904763,0.04364357804719848
+multitask,val_malignant_balanced_accuracy,3,0.8860119047619048,0.011889871640141778

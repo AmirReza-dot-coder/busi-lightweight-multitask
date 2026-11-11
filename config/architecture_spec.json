@@ -1,0 +1,15 @@
+{
+  "status": "initialized_not_trained",
+  "source_hybrid": "/content/drive/MyDrive/BUSI_EXPERIMENTS/mtl_transformer_20261018T140040_460198Z/best.keras",
+  "components": [
+    "MobileNetV2",
+    "shared_transformer",
+    "attention_gates",
+    "classification_head",
+    "segmentation_head",
+    "learnable_prediction_refinement"
+  ],
+  "total_parameters": 3278928,
+  "cost_sensitive_loss_configured": false,
+  "learnable_task_balance_configured": false
+}

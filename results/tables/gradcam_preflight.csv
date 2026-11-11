@@ -1,0 +1,4 @@
+variant,seed,selected_epoch,parameters,feature_layer,native_cam_shape,logit_source,gradient_connected,all_target_gradients_zero
+cnn_only,42,2,2736532,hybrid_shared_features,"(7, 7)",Dense linear score: classification_coarse,True,False
+cnn_transformer,42,30,3204372,hybrid_shared_features,"(7, 7)",Dense linear score: classification_coarse,True,False
+full_lprm_v1,42,13,3278928,hybrid_shared_features,"(7, 7)",Pre-softmax tensor: classification,True,False

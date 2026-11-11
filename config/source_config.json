@@ -1,0 +1,51 @@
+{
+  "experiment": "mtl_cnn_control",
+  "stage": "train_heads_with_frozen_encoder",
+  "encoder": "MobileNetV2_ImageNet",
+  "encoder_trainable": false,
+  "decoder_filters": [
+    128,
+    64,
+    32,
+    16
+  ],
+  "classification_dense": 128,
+  "classification_dropout": 0.3,
+  "input": "training_zscore_then_inverse_and_imagenet_scaling",
+  "normalization": {
+    "mean": [
+      83.76726531982422,
+      83.76726531982422,
+      83.76726531982422
+    ],
+    "std": [
+      55.80641555786133,
+      55.80641555786133,
+      55.80641555786133
+    ]
+  },
+  "label_map": {
+    "normal": 0,
+    "benign": 1,
+    "malignant": 2
+  },
+  "learning_rate": 0.001,
+  "batch_size": 8,
+  "max_epochs": 30,
+  "early_stopping_patience": 7,
+  "classification_loss": "sparse_categorical_crossentropy",
+  "segmentation_loss": "BCE_all_plus_Dice_loss_positive",
+  "loss_weights": {
+    "classification": 1.0,
+    "segmentation": 1.0
+  },
+  "augmentation": "paired_horizontal_flip_probability_0.5",
+  "checkpoint_selection": "minimum_total_validation_loss",
+  "transformer": false,
+  "attention_gates": false,
+  "cost_sensitive": false,
+  "learnable_task_balance": false,
+  "lprm": false,
+  "seed": 42,
+  "source_run": "/content/drive/MyDrive/BUSI_PAPER_SETTINGS/reconstruction_d91245a7a6546baf"
+}

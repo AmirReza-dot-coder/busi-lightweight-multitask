@@ -1,0 +1,12 @@
+{
+  "numeric_checks": 288,
+  "numeric_checks_passed": 288,
+  "fixed_split_hash_verified": true,
+  "images": 761,
+  "similarity_groups": 582,
+  "original_closure_status": "REVIEW_REQUIRED",
+  "original_closure_flags": 2,
+  "weights_or_raw_images_used": false,
+  "training_or_inference_performed": false,
+  "scope": "independent numerical recomputation from archived class probabilities, packed hard masks, and reference masks; does not verify training reproduction or original model bytes"
+}

@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "expected_checkpoints": 27,
+  "checked_checkpoints": 27,
+  "matching_checkpoints": 25,
+  "failed_or_different_checkpoints": 2,
+  "metric_checks": 660,
+  "metric_differences": 2,
+  "new_core_test_evaluated": false,
+  "historical_test_rechecked": true,
+  "any_training_performed": false,
+  "independent_no_lprm_retraining": false,
+  "lprm_coarse_final_records": 3,
+  "all_lprm_coarse_final_verified": true,
+  "inference_profiles": 9,
+  "all_requested_profiles_measured": true,
+  "all_historical_initial_sources_present": true,
+  "training_reproduction_verified": false,
+  "mask_probabilities_archived": false,
+  "hard_masks_and_ground_truth_archived": true,
+  "class_order": [
+    "normal",
+    "benign",
+    "malignant"
+  ],
+  "mask_threshold": 0.5,
+  "note": "Frozen historical test is rechecked, not an untouched independent test. No model selection or tuning occurs.",
+  "status": "REVIEW_REQUIRED"
+}

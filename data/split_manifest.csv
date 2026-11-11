@@ -1,0 +1,762 @@
+class_name,image,mask,width,height,image_hash,mask_values,foreground_fraction,pair_ok,group_id,split
+normal,normal/images/normal (10).png,normal/masks/normal (10)_mask.png,224,224,75bccc1735e8a31a54880688c293ce79d577ecfe84e72dc9636c6c1312dd370c,[0],0.0,True,group_0491,train
+normal,normal/images/normal (100).png,normal/masks/normal (100)_mask.png,224,224,e9a764f0c49a67f341ac562510c075390e46a54a113fdd20266e48f62d9dd659,[0],0.0,True,group_0492,test
+normal,normal/images/normal (101).png,normal/masks/normal (101)_mask.png,224,224,b333d57c416cd2a863fff532498af3faac4c6d77597e05db8c17fa41e6b40646,[0],0.0,True,group_0493,train
+normal,normal/images/normal (102).png,normal/masks/normal (102)_mask.png,224,224,ab3861db68393fff11a1d0d57830a56361818e752a0be88b2ac856b0808af826,[0],0.0,True,group_0494,train
+normal,normal/images/normal (103).png,normal/masks/normal (103)_mask.png,224,224,66fffc842910d041dada68b8ab0340f02525cb115eb96faac18d9638c336b3ef,[0],0.0,True,group_0495,train
+normal,normal/images/normal (104).png,normal/masks/normal (104)_mask.png,224,224,24c38a03627b38c57db8fd0a86798a3d500ed8d150e41e2f072bae2fe8134f90,[0],0.0,True,group_0496,train
+normal,normal/images/normal (105).png,normal/masks/normal (105)_mask.png,224,224,cdc7854ba05fe2e8bedaa82dffc13c17d0b2257ab9162ead9032c0beb8abbde8,[0],0.0,True,group_0497,test
+normal,normal/images/normal (106).png,normal/masks/normal (106)_mask.png,224,224,63d1335f6b932fab724964373016bc4abeed93775b31cb6e2b2a93aca3286ec8,[0],0.0,True,group_0498,test
+normal,normal/images/normal (107).png,normal/masks/normal (107)_mask.png,224,224,86bc19931387d859d410dc3a4c21879a8de53a6a871ed7a0506862ce9e27f349,[0],0.0,True,group_0496,train
+normal,normal/images/normal (108).png,normal/masks/normal (108)_mask.png,224,224,557873e96dca38556e26c59dcef147ad06807990c79e8c05cde85e87b6d522b3,[0],0.0,True,group_0499,train
+normal,normal/images/normal (109).png,normal/masks/normal (109)_mask.png,224,224,08a56c4daebdb31424e336e38fed84677c75af7317f92485a33ca708a62f5c2e,[0],0.0,True,group_0500,train
+normal,normal/images/normal (11).png,normal/masks/normal (11)_mask.png,224,224,3299f1a8567a17844ae226c042fa6cab40d673266cec986b160c5109befde55b,[0],0.0,True,group_0501,train
+normal,normal/images/normal (110).png,normal/masks/normal (110)_mask.png,224,224,4271ad49512b903c65bc8eae45c34d319dbea36a1fd09dd831de823cec9e59ce,[0],0.0,True,group_0502,test
+normal,normal/images/normal (111).png,normal/masks/normal (111)_mask.png,224,224,2f0ef7a0c9ed44a0c7aad9eebb9fd942f66bde457f2ca7616fac5dfb999a4a9b,[0],0.0,True,group_0503,val
+normal,normal/images/normal (112).png,normal/masks/normal (112)_mask.png,224,224,41e3f6b8e3a58a8735d48f9799a62872400eeaa826c25327c77afc5aa19536a8,[0],0.0,True,group_0504,train
+normal,normal/images/normal (113).png,normal/masks/normal (113)_mask.png,224,224,f27e8b236fc557d97de1e7ec141284c0e23fd69f0d3c6b0691ddd956fec34b0a,[0],0.0,True,group_0505,train
+normal,normal/images/normal (114).png,normal/masks/normal (114)_mask.png,224,224,e220ea68c13386e7135a1b26e300dc22292f9bbbd42915d327f91b8f91b4e384,[0],0.0,True,group_0506,train
+normal,normal/images/normal (115).png,normal/masks/normal (115)_mask.png,224,224,27902ddf8fd267e7567e7454f54078d5b7469ed88bfaac8d3221bf010e234bc4,[0],0.0,True,group_0507,train
+normal,normal/images/normal (116).png,normal/masks/normal (116)_mask.png,224,224,611002cd50db95d5da771cea3491a88401cf554d46f9434fd04fbab4a51c83a8,[0],0.0,True,group_0508,train
+normal,normal/images/normal (117).png,normal/masks/normal (117)_mask.png,224,224,417d272148fbf60c360459174af9c0526e7f1141ca40bc20b78cfd34582fa432,[0],0.0,True,group_0509,val
+normal,normal/images/normal (118).png,normal/masks/normal (118)_mask.png,224,224,b3c08ddb56c01e616f6f500ceed9df8de57aac91e182487b3af3f155ff0e833a,[0],0.0,True,group_0510,val
+normal,normal/images/normal (119).png,normal/masks/normal (119)_mask.png,224,224,941b73e03649805b3ee085b9947e1bd6fa7584b64ff3ee4e02760d280221994f,[0],0.0,True,group_0511,test
+normal,normal/images/normal (12).png,normal/masks/normal (12)_mask.png,224,224,281283b9a66b11d85ca12815b4106a46e4fc1c94e40b44f3faeab81ecfa3ed18,[0],0.0,True,group_0512,train
+normal,normal/images/normal (120).png,normal/masks/normal (120)_mask.png,224,224,620fa2e384719b41cb17975245690f0771a1133b732e842a9d34a26c41d30ea2,[0],0.0,True,group_0513,train
+normal,normal/images/normal (121).png,normal/masks/normal (121)_mask.png,224,224,1072b8a198aa45f8840244995ef602b10ecd8afddbab1513dfd0d06ee0b81645,[0],0.0,True,group_0514,train
+normal,normal/images/normal (122).png,normal/masks/normal (122)_mask.png,224,224,87d5406e08ec14f3f133370083b5c6e899a001310b33965645452a3fb70fffe0,[0],0.0,True,group_0515,train
+normal,normal/images/normal (123).png,normal/masks/normal (123)_mask.png,224,224,a317e1ba1458faa8908151a364fffa136169901486e7bd5ce8c595609fa052d4,[0],0.0,True,group_0516,test
+normal,normal/images/normal (124).png,normal/masks/normal (124)_mask.png,224,224,0237aaa37d261c7db7526cdab833cdccd02d3960da57f2c8dc037d30ed25623a,[0],0.0,True,group_0517,train
+normal,normal/images/normal (125).png,normal/masks/normal (125)_mask.png,224,224,a63a6e869971187b0b3833e71ce2aa8ef18fd8a57ae6a41c71f3b7e4a7b6ceb4,[0],0.0,True,group_0518,train
+normal,normal/images/normal (126).png,normal/masks/normal (126)_mask.png,224,224,ba13cf646fdb8ec702e3f383cf2a3b523a6ea031ea96a829716c110b9ddc0218,[0],0.0,True,group_0519,test
+normal,normal/images/normal (127).png,normal/masks/normal (127)_mask.png,224,224,a13e73cb11c3f9b84d16ad1e17f0152f3c6221c1cc5210a95c65d3b577387724,[0],0.0,True,group_0520,train
+normal,normal/images/normal (128).png,normal/masks/normal (128)_mask.png,224,224,acc47bb5e59e75f74aae05d39d3242270b07e05bd5ad54c492af46251e3689e4,[0],0.0,True,group_0521,train
+normal,normal/images/normal (129).png,normal/masks/normal (129)_mask.png,224,224,85017c5ff23d2833f9acf72ebfeae1b9b7d395443d941111bfd481dd090eaf84,[0],0.0,True,group_0522,val
+normal,normal/images/normal (13).png,normal/masks/normal (13)_mask.png,224,224,eefc67c59d05fb252e74ce23434db046df126b6b8e26dcdadbd340fce98585e0,[0],0.0,True,group_0523,train
+normal,normal/images/normal (130).png,normal/masks/normal (130)_mask.png,224,224,805a59a9eab4377ecc81f3f4afbb7da852a6f180df1ae17e82410a0f9aa7ccf6,[0],0.0,True,group_0524,test
+normal,normal/images/normal (131).png,normal/masks/normal (131)_mask.png,224,224,3d5465a992df4fcb8b7379be948be2e163b766ccb8b3f8685f90d5b586e540ef,[0],0.0,True,group_0525,test
+normal,normal/images/normal (132).png,normal/masks/normal (132)_mask.png,224,224,4e1df56585d4a43f7e9418c2b36d59875c958f95eed65c3279064f503fbb156e,[0],0.0,True,group_0526,test
+normal,normal/images/normal (133).png,normal/masks/normal (133)_mask.png,224,224,6dff43ed0871ef10e87d48af23d182193c80a9ab092a11219c4fdfe3130d0c1c,[0],0.0,True,group_0527,val
+normal,normal/images/normal (14).png,normal/masks/normal (14)_mask.png,224,224,8c12ede06721574b716958005dc23e62ce9b4fb787beaf1fad56625cf28f2709,[0],0.0,True,group_0528,val
+normal,normal/images/normal (15).png,normal/masks/normal (15)_mask.png,224,224,f45e334e98fbaeb7546ad9234655ae91472e796412de2a182203ff28521e574b,[0],0.0,True,group_0529,train
+normal,normal/images/normal (16).png,normal/masks/normal (16)_mask.png,224,224,b742b9020d8c1098bb7b47fd093c5172d026345df1bb64c60a5a135b438fd06c,[0],0.0,True,group_0530,train
+normal,normal/images/normal (17).png,normal/masks/normal (17)_mask.png,224,224,681c09b77c4dbcd3f74325e9110fe7c113d4457aac0f5f0423e4031a0fb06ecd,[0],0.0,True,group_0531,val
+normal,normal/images/normal (18).png,normal/masks/normal (18)_mask.png,224,224,e955e6315d748c3e42957d381a63975c50da70208e32a904fb04da089d72e670,[0],0.0,True,group_0532,train
+normal,normal/images/normal (19).png,normal/masks/normal (19)_mask.png,224,224,20d0bda9b672d18c7c85afb2e297511c435afb7385d21e498531ab5d355cbd3b,[0],0.0,True,group_0525,test
+normal,normal/images/normal (2).png,normal/masks/normal (2)_mask.png,224,224,7fb14cc2d4ee539fe34bd615280926767344de6272e09e8b5dc9c42a1211fd30,[0],0.0,True,group_0533,train
+normal,normal/images/normal (20).png,normal/masks/normal (20)_mask.png,224,224,4e96dc940bbaee77ce7187e73dc8ef19afe5a8e825e009a97e79bed00eed90ad,[0],0.0,True,group_0526,test
+normal,normal/images/normal (21).png,normal/masks/normal (21)_mask.png,224,224,c7d898e1264daf7e2c4cea4668565052a2fcc64bb88324980a52aaefb86b10db,[0],0.0,True,group_0534,train
+normal,normal/images/normal (22).png,normal/masks/normal (22)_mask.png,224,224,8004eb2d6c7844b92134660acc320dcc0ce2e339bb8e8d67a1bd1f85eb9ef6be,[0],0.0,True,group_0518,train
+normal,normal/images/normal (23).png,normal/masks/normal (23)_mask.png,224,224,06334a035498331f57ab61720afc50ef111ff1145a8383ab9c7b9d7c18054251,[0],0.0,True,group_0535,train
+normal,normal/images/normal (24).png,normal/masks/normal (24)_mask.png,224,224,950b63e7b6d41988af43ee23418754d5dce141a0a00d9bcb98ed9f3ace76ee49,[0],0.0,True,group_0521,train
+normal,normal/images/normal (25).png,normal/masks/normal (25)_mask.png,224,224,34876b6cba809932d34d44f87ae65cf116c6798acf9f79c7b3af630bcab240b2,[0],0.0,True,group_0515,train
+normal,normal/images/normal (26).png,normal/masks/normal (26)_mask.png,224,224,5d572b5602acc120ea427a943cf03eeee9ca55338eb2640e7554e046bc21b8af,[0],0.0,True,group_0524,test
+normal,normal/images/normal (27).png,normal/masks/normal (27)_mask.png,224,224,712ec6e4cb2aa270c8c3568e8b915ec13cf20f2fdd776a1617c3238e45f8f600,[0],0.0,True,group_0517,train
+normal,normal/images/normal (28).png,normal/masks/normal (28)_mask.png,224,224,0e2cb3de08545fda76a6d5175ab9e567d58564fd9db7daac65ac7e68ca5fadca,[0],0.0,True,group_0519,test
+normal,normal/images/normal (29).png,normal/masks/normal (29)_mask.png,224,224,5709561b500d5b5c2ccde8f51b6d6614cf1a566d2f85a230112df5947cd9278d,[0],0.0,True,group_0516,test
+normal,normal/images/normal (3).png,normal/masks/normal (3)_mask.png,224,224,d77def992077a3236a87b02a53c6f5c6c383661ca542e4d4f6bc053eae812379,[0],0.0,True,group_0536,test
+normal,normal/images/normal (30).png,normal/masks/normal (30)_mask.png,224,224,9212706be37824b7bf884386400b5ca69fcf9ee39e27ec792575dda8cb204b50,[0],0.0,True,group_0511,test
+normal,normal/images/normal (31).png,normal/masks/normal (31)_mask.png,224,224,56817f3c9df0e0825293cf202410339dc2aa82f6340198472d90ec15078f8835,[0],0.0,True,group_0514,train
+normal,normal/images/normal (32).png,normal/masks/normal (32)_mask.png,224,224,81d368e68aa11edae4215fc4ad26a4a159b815391d5e63e1acf27255fe8a3ad5,[0],0.0,True,group_0520,train
+normal,normal/images/normal (33).png,normal/masks/normal (33)_mask.png,224,224,c24be5c69bb8b0b4465829532477ab5ecd87f631ea8c13c12ecc4b727e393ef4,[0],0.0,True,group_0513,train
+normal,normal/images/normal (35).png,normal/masks/normal (35)_mask.png,224,224,e243cc52ab8d3d1772200355e4e46a029df41590d880dba5a651373ed6f5e4a5,[0],0.0,True,group_0522,val
+normal,normal/images/normal (36).png,normal/masks/normal (36)_mask.png,224,224,245286bafb265089890b0d58039279ac3faf250235c6722f099028f5b8b7026e,[0],0.0,True,group_0537,train
+normal,normal/images/normal (37).png,normal/masks/normal (37)_mask.png,224,224,05497b295ed57f52dedabd13218c2d4738e0930c381ec61012d93e7bbdf24ed8,[0],0.0,True,group_0538,train
+normal,normal/images/normal (38).png,normal/masks/normal (38)_mask.png,224,224,7733c43dad1f37f5024d51d11acf62dc45e81e575ea6022bab2e459db8ca8865,[0],0.0,True,group_0539,train
+normal,normal/images/normal (39).png,normal/masks/normal (39)_mask.png,224,224,51526d6c8595ac9db02be3a6378c58b022020b593447ca94f064ceb5fd0fff1b,[0],0.0,True,group_0540,train
+normal,normal/images/normal (4).png,normal/masks/normal (4)_mask.png,224,224,b837aad57b6ff77d9a2d33c864afc9e26286adc7e5e4e084e9e4b022729c21cc,[0],0.0,True,group_0541,train
+normal,normal/images/normal (40).png,normal/masks/normal (40)_mask.png,224,224,7685624a8cd2fb4f8a119b1a62e591e0a83b90281efc27f8e49529317450ce88,[0],0.0,True,group_0542,train
+normal,normal/images/normal (41).png,normal/masks/normal (41)_mask.png,224,224,5203d91384632810b70b7c7881a24e3628d1a7ad0361664a898f54e714c3a8f4,[0],0.0,True,group_0543,train
+normal,normal/images/normal (42).png,normal/masks/normal (42)_mask.png,224,224,31e9db171403cf9efe8468f21601712e3bd5b410cde5632e0bb68f920aef437d,[0],0.0,True,group_0544,train
+normal,normal/images/normal (43).png,normal/masks/normal (43)_mask.png,224,224,76f62b0bde4058e86bb444fafeb7b79d78701f2580736c1f85b5b285f548646e,[0],0.0,True,group_0539,train
+normal,normal/images/normal (44).png,normal/masks/normal (44)_mask.png,224,224,744a96757ea5df4bdb85ba47b7700b234507486caa41ac52ce47f47e5827a160,[0],0.0,True,group_0543,train
+normal,normal/images/normal (45).png,normal/masks/normal (45)_mask.png,224,224,740d5493cf19918857411deb7d382b3c01095c83b54721dfd18f369b09f14e60,[0],0.0,True,group_0544,train
+normal,normal/images/normal (46).png,normal/masks/normal (46)_mask.png,224,224,05e3e8c7d2ebd2e7527e8a1966c5623f44dd562a81c0cf1f23b11e67b12460bd,[0],0.0,True,group_0542,train
+normal,normal/images/normal (47).png,normal/masks/normal (47)_mask.png,224,224,11a480419af436060b93e3d5473ceb7d5447278ed31254c7612ad327eeea4c88,[0],0.0,True,group_0543,train
+normal,normal/images/normal (48).png,normal/masks/normal (48)_mask.png,224,224,d497596c37dd0790bf2359142fbbf441bf8c02656975fa5ab613ea4fe350670e,[0],0.0,True,group_0540,train
+normal,normal/images/normal (49).png,normal/masks/normal (49)_mask.png,224,224,6cb7ad5c1188d4dd0bbbb8e1ae9d2b0b58823ad06b602933f3199d0a648d3d35,[0],0.0,True,group_0544,train
+normal,normal/images/normal (5).png,normal/masks/normal (5)_mask.png,224,224,d13eac07afbbe04e3929c99feb78b3f7a82deb4928065d1581bfc28671f3b200,[0],0.0,True,group_0523,train
+normal,normal/images/normal (50).png,normal/masks/normal (50)_mask.png,224,224,e556a296fc9742226427199d8154ec7222f1f59121c1717708b3234cf0cd8736,[0],0.0,True,group_0539,train
+normal,normal/images/normal (51).png,normal/masks/normal (51)_mask.png,224,224,f2fef46ca8ad50877d0dc3fbfd3f5915aa6c057239ab38bc7f4b5bd973d814c6,[0],0.0,True,group_0545,train
+normal,normal/images/normal (52).png,normal/masks/normal (52)_mask.png,224,224,7341d0ae0f3ba47154935761d500fbc743088bb3738a9fb076b0cc3bc6b6cf9e,[0],0.0,True,group_0545,train
+normal,normal/images/normal (53).png,normal/masks/normal (53)_mask.png,224,224,3dbe48b43f24ff2eb509f8cac85a6c8a3f7013c01c4fce87f8a29b243f1d1926,[0],0.0,True,group_0539,train
+normal,normal/images/normal (54).png,normal/masks/normal (54)_mask.png,224,224,001907c7a95350d61e7c097abfe120865ac29afebad7039b7e5629157079d9eb,[0],0.0,True,group_0545,train
+normal,normal/images/normal (55).png,normal/masks/normal (55)_mask.png,224,224,0ac067294af247090abb8caf82d76e5597d4a5ce000177b481fb5547a0e78b91,[0],0.0,True,group_0546,train
+normal,normal/images/normal (56).png,normal/masks/normal (56)_mask.png,224,224,ea3f38589da9d63837dbe296fe82b76652d6187d381e80b9cbc2813652b824bf,[0],0.0,True,group_0540,train
+normal,normal/images/normal (57).png,normal/masks/normal (57)_mask.png,224,224,dddff53503ce2d6c41cc0c2a51db8362f20418ebf544ca7114f34549740ca504,[0],0.0,True,group_0546,train
+normal,normal/images/normal (58).png,normal/masks/normal (58)_mask.png,224,224,12e89e741062042055c6b971371ae15ff37629d09798e61c0117a3b5fd243a96,[0],0.0,True,group_0547,train
+normal,normal/images/normal (59).png,normal/masks/normal (59)_mask.png,224,224,61cacf455267240fa86893e3a2032af1a2b4ea43635ee3d2dbf62ddfa3a7146f,[0],0.0,True,group_0542,train
+normal,normal/images/normal (6).png,normal/masks/normal (6)_mask.png,224,224,f297ae612af3748dfcea12651239086be359ae453e4dce7b0e2ecb315d4d0628,[0],0.0,True,group_0548,test
+normal,normal/images/normal (60).png,normal/masks/normal (60)_mask.png,224,224,d063f5b0f481b7aae4f57b8c0c67a2e0cdcc379144e2df01b6c96c917d87793b,[0],0.0,True,group_0547,train
+normal,normal/images/normal (61).png,normal/masks/normal (61)_mask.png,224,224,d88bd973ea17e2778846f379eea5d77fe413f106bb4b17158bceaef7d12435d1,[0],0.0,True,group_0543,train
+normal,normal/images/normal (62).png,normal/masks/normal (62)_mask.png,224,224,c1f35993f0ef89301bde7feab5f41e638d64a7d2bb11b0493af8437ee4f4de6e,[0],0.0,True,group_0544,train
+normal,normal/images/normal (63).png,normal/masks/normal (63)_mask.png,224,224,6594e19f34a7bc3493bb8e716eaceed2d2e02034bd9bbea900b374a513ceb176,[0],0.0,True,group_0534,train
+normal,normal/images/normal (64).png,normal/masks/normal (64)_mask.png,224,224,4202d04fc43e541da14cc6173fd8e4f13e8af742fdc9e2044213a40787c27413,[0],0.0,True,group_0534,train
+normal,normal/images/normal (65).png,normal/masks/normal (65)_mask.png,224,224,5b0583b1ec7faf14a55caf93e4b525f1fe65cd83132989a2a11c71e160bc266e,[0],0.0,True,group_0549,train
+normal,normal/images/normal (66).png,normal/masks/normal (66)_mask.png,224,224,f24b277789a0f706746f1612d5521952ee83e839de1c657aadb1b6b613833b3d,[0],0.0,True,group_0550,val
+normal,normal/images/normal (67).png,normal/masks/normal (67)_mask.png,224,224,a904f4f8150ae0cc7a2b852ed4b6b6985ed2ec6b1eda46331d5bbfc100d95838,[0],0.0,True,group_0546,train
+normal,normal/images/normal (68).png,normal/masks/normal (68)_mask.png,224,224,3bd1eb6e8a1dbad2e82db45a8e33bed4565fbce4f793e7e9e264f86d876824cb,[0],0.0,True,group_0546,train
+normal,normal/images/normal (69).png,normal/masks/normal (69)_mask.png,224,224,614f3cdcf93964eecad3ad091d49f801365e2ef052257af827727461d4946f90,[0],0.0,True,group_0547,train
+normal,normal/images/normal (7).png,normal/masks/normal (7)_mask.png,224,224,df2408ac750abaa35b31c4d9dd2d635fe6db19555f31d1ec94951eaf181e982a,[0],0.0,True,group_0551,train
+normal,normal/images/normal (70).png,normal/masks/normal (70)_mask.png,224,224,6ed6f51b5a2be49901d6f9c9a3904d5746ed765ad6154520256f6ce54827573e,[0],0.0,True,group_0552,train
+normal,normal/images/normal (71).png,normal/masks/normal (71)_mask.png,224,224,a201e22855be5cb026ff7b159c6e063adf7c51ecb9216b5dc77d327f948654e7,[0],0.0,True,group_0553,train
+normal,normal/images/normal (72).png,normal/masks/normal (72)_mask.png,224,224,531d982b1e6049a2a2073f67ceff4717819216b8f62da6c083119e2754610559,[0],0.0,True,group_0554,train
+normal,normal/images/normal (73).png,normal/masks/normal (73)_mask.png,224,224,d892d1fadeed7de56b5f3253c9cb737df0c622b360a0ad5154e62ec85843f887,[0],0.0,True,group_0555,train
+normal,normal/images/normal (74).png,normal/masks/normal (74)_mask.png,224,224,9ca1d0d440911fcf0b6f508ef44670c9f8b27a36ac5ff277695b93f67a818a0d,[0],0.0,True,group_0556,val
+normal,normal/images/normal (75).png,normal/masks/normal (75)_mask.png,224,224,dbfd9ed3ea98e37a81c32e9aec5164a71df97bbe3530b563aa741bc8b69b5258,[0],0.0,True,group_0557,train
+normal,normal/images/normal (76).png,normal/masks/normal (76)_mask.png,224,224,f9b83d80bd98ce00483e8b83b99be11053173e7f001fcbef9f273067de32687c,[0],0.0,True,group_0558,test
+normal,normal/images/normal (77).png,normal/masks/normal (77)_mask.png,224,224,2bef4371e45009ac9adfbe2067a1f294006c88f95d9443680c11f97a4721c3fa,[0],0.0,True,group_0559,train
+normal,normal/images/normal (78).png,normal/masks/normal (78)_mask.png,224,224,c37cc512134ebafd7f6902513d9fb95ccd2da6ae84c23a3ce2e023bab7cbdd74,[0],0.0,True,group_0560,train
+normal,normal/images/normal (79).png,normal/masks/normal (79)_mask.png,224,224,3f525397b348bc56c17d1cc788ed8cb786f4cdd0880708c36d39168d148620ff,[0],0.0,True,group_0561,train
+normal,normal/images/normal (8).png,normal/masks/normal (8)_mask.png,224,224,35c4ed35fc8652914d7d583353ce8ca04bce5416897359c75ab6c27474730d3d,[0],0.0,True,group_0562,val
+normal,normal/images/normal (80).png,normal/masks/normal (80)_mask.png,224,224,0084a6d19c18805fca1e53882ab3c4eadcb9c29533fc496ed106d7888a76607d,[0],0.0,True,group_0563,train
+normal,normal/images/normal (81).png,normal/masks/normal (81)_mask.png,224,224,aa0a7872b08acd97cab118872a2cf837de7752f5cd3be2305370323bbf8c9793,[0],0.0,True,group_0535,train
+normal,normal/images/normal (82).png,normal/masks/normal (82)_mask.png,224,224,bd8f62942d479275880559b18453cff6854eacc3c780354a9ea07fcb006592d0,[0],0.0,True,group_0564,test
+normal,normal/images/normal (83).png,normal/masks/normal (83)_mask.png,224,224,a3e84b88aa9d2c943e081c51c03f9947a2e483cc38732de56c9a2c3c82725bda,[0],0.0,True,group_0565,test
+normal,normal/images/normal (84).png,normal/masks/normal (84)_mask.png,224,224,abd294b44ae99a78a383b557b7990055d17acda52a2f30a8a3866d513baa5922,[0],0.0,True,group_0566,test
+normal,normal/images/normal (85).png,normal/masks/normal (85)_mask.png,224,224,a946aca1a9422b53bb7c4692b96487148f1d535e75fa50300b3280ccce8c9165,[0],0.0,True,group_0567,val
+normal,normal/images/normal (86).png,normal/masks/normal (86)_mask.png,224,224,93d6139acbd1b944dc36ce44a0cff5df02429458296ce054614abefade2ceee3,[0],0.0,True,group_0568,train
+normal,normal/images/normal (87).png,normal/masks/normal (87)_mask.png,224,224,08d9cb4e90b6e3adcfdcf1c24f313bd62bdb9d15eb72f9ba2dfbfc473da57569,[0],0.0,True,group_0569,val
+normal,normal/images/normal (88).png,normal/masks/normal (88)_mask.png,224,224,7ffa91e32c292762075d9aacf15155fd1e29b9b1f9d77bc2439d35c196fd1098,[0],0.0,True,group_0570,train
+normal,normal/images/normal (89).png,normal/masks/normal (89)_mask.png,224,224,9b4645587b7cb5bd7dfcd1dcbca3f2a59b86b0fabfb3868dfc475f05f4791b4e,[0],0.0,True,group_0571,test
+normal,normal/images/normal (9).png,normal/masks/normal (9)_mask.png,224,224,1814aefb128382eaff4a06d4a8a29729b8e0d1a8d643413f8781125f3fed35ab,[0],0.0,True,group_0572,val
+normal,normal/images/normal (90).png,normal/masks/normal (90)_mask.png,224,224,7cf97697519b19379e42506d3bd98c4cbfd0587fd3609181417b95199285640f,[0],0.0,True,group_0573,val
+normal,normal/images/normal (91).png,normal/masks/normal (91)_mask.png,224,224,c661999bbef773b814148c1c479725afa1ac539ebfcddc3fb208917d94ca10c1,[0],0.0,True,group_0574,val
+normal,normal/images/normal (92).png,normal/masks/normal (92)_mask.png,224,224,204fea4b562e6901c7ac3b1c0d2c0eab7110b74ef0da64adb5131420fef84290,[0],0.0,True,group_0575,train
+normal,normal/images/normal (93).png,normal/masks/normal (93)_mask.png,224,224,f78ee1a2177714e24e438801688ce1183100ae235f79bb3c902c79a0ca1a9368,[0],0.0,True,group_0576,train
+normal,normal/images/normal (94).png,normal/masks/normal (94)_mask.png,224,224,a695fc668b9cce6133269d84bbc5f5f5b4e4ce16e069aaa93f7d9f2f4b76a86b,[0],0.0,True,group_0577,test
+normal,normal/images/normal (95).png,normal/masks/normal (95)_mask.png,224,224,c249f256f99ed3fc44b73a72ebb95d201626883813c4a4805ddd2739bd4930c6,[0],0.0,True,group_0578,train
+normal,normal/images/normal (96).png,normal/masks/normal (96)_mask.png,224,224,0e28cfc4946fbbaafe54625bb015f63f9007221819d6df25e0dc7b5096de79c7,[0],0.0,True,group_0579,train
+normal,normal/images/normal (97).png,normal/masks/normal (97)_mask.png,224,224,90cbf3646c70f07b2ba1a17c6c91111bc480899264dc48e28811d1634209d172,[0],0.0,True,group_0580,train
+normal,normal/images/normal (98).png,normal/masks/normal (98)_mask.png,224,224,a91ef740aec684a80104631541daed2d92270697f242903a34a395cedddf12a0,[0],0.0,True,group_0580,train
+normal,normal/images/normal (99).png,normal/masks/normal (99)_mask.png,224,224,7ddd019f23e48b37046c97b53558f631630e0e854199ba7c7db432eb3f0fdf7c,[0],0.0,True,group_0581,train
+benign,benign/images/benign (1).png,benign/masks/benign (1)_mask.png,224,224,81c4bf1b0a4c5192fd53bf674e82e0e5dd99bbb678d020fc41a7903c0f094e67,"[0, 255]",0.0038863201530612247,True,group_0000,train
+benign,benign/images/benign (10).png,benign/masks/benign (10)_mask.png,224,224,339a9e370d7908667bd9548ab7651e8d37bce359f3b6cccd16645463e9186afc,"[0, 255]",0.08270886479591837,True,group_0001,test
+benign,benign/images/benign (100).png,benign/masks/benign (100)_mask.png,224,224,70441c1f0dca35675a22caaae051ccecc993f9588ebbbe037ec3262d83e911e8,"[0, 255]",0.06552933673469388,True,group_0002,val
+benign,benign/images/benign (101).png,benign/masks/benign (101)_mask.png,224,224,f881d3a787f7e805d5405235e61d67494e2106a548298e6e165c993ea017cd33,"[0, 255]",0.015625,True,group_0003,train
+benign,benign/images/benign (102).png,benign/masks/benign (102)_mask.png,224,224,63622d319a624a8775d99a682fe2bb79d4f009989f3e73209139e86e3873a651,"[0, 255]",0.048708545918367346,True,group_0004,train
+benign,benign/images/benign (103).png,benign/masks/benign (103)_mask.png,224,224,88fc4de83899a506e8aa7f7f80eaa2a153dcf0287b4987c94dd60ba39fd97afb,"[0, 255]",0.1106704400510204,True,group_0005,train
+benign,benign/images/benign (104).png,benign/masks/benign (104)_mask.png,224,224,b6a0fd6c6c983d10724b66a505e20f6885cad7c7d620a308f677cf3fc234c39e,"[0, 255]",0.00882892219387755,True,group_0006,train
+benign,benign/images/benign (105).png,benign/masks/benign (105)_mask.png,224,224,25ee22f3c24b3f3ce6a5f2d247aad20a8dc33057d6fc8985e91af1dbd166edf4,"[0, 255]",0.01739875637755102,True,group_0007,train
+benign,benign/images/benign (106).png,benign/masks/benign (106)_mask.png,224,224,a1edff7c768fee650c06681852462e8f111f83bee2ed9a5d48a77ee225854cd6,"[0, 255]",0.020069355867346938,True,group_0008,train
+benign,benign/images/benign (107).png,benign/masks/benign (107)_mask.png,224,224,3f315dbacf04861c0741f895f016b649db4720387f951841f62d0aac1373869c,"[0, 255]",0.020946269132653062,True,group_0009,train
+benign,benign/images/benign (108).png,benign/masks/benign (108)_mask.png,224,224,d01523136e0077db26ff4ddf744f307109ba4befd0f37ffed2691789f21fc71d,"[0, 255]",0.030731823979591837,True,group_0010,train
+benign,benign/images/benign (109).png,benign/masks/benign (109)_mask.png,224,224,c76ba67fa42524f3254aed17c1d2d9f79ed1926feb2b6080802e085493a066a6,"[0, 255]",0.10766103316326531,True,group_0011,train
+benign,benign/images/benign (11).png,benign/masks/benign (11)_mask.png,224,224,440f2c2753845fb9018a7e4a10e4ab03a8f0b197e311ff93c0dec084daa22afa,"[0, 255]",0.004743303571428571,True,group_0012,val
+benign,benign/images/benign (110).png,benign/masks/benign (110)_mask.png,224,224,9c8f16b4b789e7098f06222c5232d36b89b7c7a682d7dc030726359a8c4762ec,"[0, 255]",0.14554767219387754,True,group_0013,test
+benign,benign/images/benign (111).png,benign/masks/benign (111)_mask.png,224,224,b5787678d199f120941929d6675b493309f4dff462944e4c5205233f47b397e7,"[0, 255]",0.01558514030612245,True,group_0014,test
+benign,benign/images/benign (112).png,benign/masks/benign (112)_mask.png,224,224,e2c395f7bcc7996b38fdb468f27aa104902f0ffd54685c8ee27c59b62be57de6,"[0, 255]",0.012555803571428572,True,group_0015,train
+benign,benign/images/benign (113).png,benign/masks/benign (113)_mask.png,224,224,495665cebb4438ba05bbf868df63febe4085ee7183f61ce911ddff75a41db46d,"[0, 255]",0.03810586734693878,True,group_0016,train
+benign,benign/images/benign (114).png,benign/masks/benign (114)_mask.png,224,224,5957c653b91a57bbe91902107e0b6829df9db39c00a8a9a2ae78e0b2103cca4f,"[0, 255]",0.05036272321428571,True,group_0010,train
+benign,benign/images/benign (115).png,benign/masks/benign (115)_mask.png,224,224,0dc0d6225b0977eee0bdae0399c855d42f137e524d65b3d8b8b9e83e6e769ec3,"[0, 255]",0.016561702806122448,True,group_0017,val
+benign,benign/images/benign (116).png,benign/masks/benign (116)_mask.png,224,224,2d5f09946f14904f6e85b561505ed4818ec8e8612b07108e3df7d6c6e28952d2,"[0, 255]",0.012137276785714286,True,group_0010,train
+benign,benign/images/benign (117).png,benign/masks/benign (117)_mask.png,224,224,4234f646943ecea5d28909434aa15d02b667745a4f712af8966e5dcb610fd229,"[0, 255]",0.024453922193877552,True,group_0018,train
+benign,benign/images/benign (118).png,benign/masks/benign (118)_mask.png,224,224,5e8e3a65d163077dfd95cafaf12ba1b30c75a41134103c9e6ca4a6fe766f6a79,"[0, 255]",0.017059948979591837,True,group_0019,train
+benign,benign/images/benign (119).png,benign/masks/benign (119)_mask.png,224,224,0e0ae9df322522ec4ac4b0e572f05c6eea75aca8b85c078834db4ba39df50309,"[0, 255]",0.011439732142857142,True,group_0010,train
+benign,benign/images/benign (12).png,benign/masks/benign (12)_mask.png,224,224,d2b07349db34b7de3ca8b34e5e07402f42e227921415ba18363f83d4361f526f,"[0, 255]",0.007533482142857143,True,group_0020,test
+benign,benign/images/benign (120).png,benign/masks/benign (120)_mask.png,224,224,cea0880f0626430d36cde26f00af2930df1c77d027c30ad000abe43e8da9c062,"[0, 255]",0.0033880739795918366,True,group_0021,test
+benign,benign/images/benign (121).png,benign/masks/benign (121)_mask.png,224,224,a43cf35b477f661527284f9bb2c2f71b7c9f371546d26e20f318c37115617139,"[0, 255]",0.045200892857142856,True,group_0022,train
+benign,benign/images/benign (122).png,benign/masks/benign (122)_mask.png,224,224,5734d74a63025058a4237a37d36d8bf2efe075955cba1e444c839ce092b6f51f,"[0, 255]",0.031728316326530615,True,group_0010,train
+benign,benign/images/benign (123).png,benign/masks/benign (123)_mask.png,224,224,99641e460ac1b225b17c139228b878800f7778b2715ef2ac580054094ee3f62d,"[0, 255]",0.056560905612244895,True,group_0023,train
+benign,benign/images/benign (124).png,benign/masks/benign (124)_mask.png,224,224,2463b2704c974c5d592aaf9b9e8e352c82d093d4d506ab82d7efa6870a2905f3,"[0, 255]",0.01891342474489796,True,group_0024,val
+benign,benign/images/benign (125).png,benign/masks/benign (125)_mask.png,224,224,5b14c056ed7da2e078b3f0fd28ad6b239fb2408ab7c529065b6e4b8bb05a2696,"[0, 255]",0.01136001275510204,True,group_0025,train
+benign,benign/images/benign (126).png,benign/masks/benign (126)_mask.png,224,224,eafa87638f63db6e8b9018eea72097c259fd9b6a4dba73ca07a1fbbad90b6cfd,"[0, 255]",0.012814891581632654,True,group_0025,train
+benign,benign/images/benign (127).png,benign/masks/benign (127)_mask.png,224,224,c67bdafb79636b69b30feb79411e7f68af08e2638e52c2bbb53f45a219bd3b2e,"[0, 255]",0.01620296556122449,True,group_0026,train
+benign,benign/images/benign (128).png,benign/masks/benign (128)_mask.png,224,224,f56b54580d5003db069fb367e70d4c640757e3651b9b6e4ecd67360235d87fe3,"[0, 255]",0.014847735969387755,True,group_0027,train
+benign,benign/images/benign (129).png,benign/masks/benign (129)_mask.png,224,224,06e49544505b2309f851a69b22611e9cac2ba8a038362e6e55fb3fcf3e314fe5,"[0, 255]",0.014170121173469387,True,group_0028,train
+benign,benign/images/benign (13).png,benign/masks/benign (13)_mask.png,224,224,5aeea0626a3d177f7210ad9db8f709ae1fe8fb76207cafac384c1b2e94bd187d,"[0, 255]",0.13542330994897958,True,group_0029,train
+benign,benign/images/benign (130).png,benign/masks/benign (130)_mask.png,224,224,5ed57d1fc3975ffcbc6f42efd6cc9e7148916d628e185b1eb0f8aaf3d1e42564,"[0, 255]",0.05658083545918367,True,group_0030,train
+benign,benign/images/benign (132).png,benign/masks/benign (132)_mask.png,224,224,d4ec0c9d44eec3ff6e5d791b6396f548333bff979e2b57d419884aafaa8ece21,"[0, 255]",0.024254623724489797,True,group_0031,val
+benign,benign/images/benign (133).png,benign/masks/benign (133)_mask.png,224,224,7e11979dcb55e29b4c3043f8f05f686744ffb65cba3eba72224c03bb69eedf7b,"[0, 255]",0.009526466836734694,True,group_0032,val
+benign,benign/images/benign (134).png,benign/masks/benign (134)_mask.png,224,224,0bb9289d4118fc3520c1b34c65e4f464ba583b509c2e21d63b5d5ab814066191,"[0, 255]",0.00980548469387755,True,group_0033,train
+benign,benign/images/benign (135).png,benign/masks/benign (135)_mask.png,224,224,8f199eb929a7d5d3a0028789fdfca128f413b8d6644a648fdbae1e83d2b5c0aa,"[0, 255]",0.024473852040816327,True,group_0034,test
+benign,benign/images/benign (136).png,benign/masks/benign (136)_mask.png,224,224,dcd08c653d38149030b88e036fcf41698de288725c0eeaf6288a69696c560853,"[0, 255]",0.03170838647959184,True,group_0035,train
+benign,benign/images/benign (137).png,benign/masks/benign (137)_mask.png,224,224,e3e1847e16c786932146cf4f9310b0368b26b5629bbb2bea5b1c7ab8206a48cb,"[0, 255]",0.012276785714285714,True,group_0036,train
+benign,benign/images/benign (138).png,benign/masks/benign (138)_mask.png,224,224,25d25575598e5678b7baf9ce781628cb0700e7db9617ac53229defc781259afc,"[0, 255]",0.004384566326530612,True,group_0037,val
+benign,benign/images/benign (139).png,benign/masks/benign (139)_mask.png,224,224,1c11f0b74c92adbc245d0acfdce7b320bd123c00df6e9f3a4baa847fe134a874,"[0, 255]",0.039381377551020405,True,group_0038,train
+benign,benign/images/benign (14).png,benign/masks/benign (14)_mask.png,224,224,43c46eb2be52db77413c1f7ff1affaa5efc21b41bf524bca497a8a5eca11a87e,"[0, 255]",0.011937978316326531,True,group_0039,train
+benign,benign/images/benign (140).png,benign/masks/benign (140)_mask.png,224,224,d49a32fd8bb440bb34c1998197f0c395dec6c5106fe3929dd23e47e1792fd74f,"[0, 255]",0.1947345344387755,True,group_0040,val
+benign,benign/images/benign (141).png,benign/masks/benign (141)_mask.png,224,224,be523f6aff33b1e7c7e6ae343ba95fb4723731ad8f4cf112d552fc7e9b270fbe,"[0, 255]",0.5132732780612245,True,group_0041,train
+benign,benign/images/benign (142).png,benign/masks/benign (142)_mask.png,224,224,04ba9d7e2c698cf159cc3b14399f287a76d3d59f5181e937082c4a9dd745bc99,"[0, 255]",0.009865274234693877,True,group_0042,train
+benign,benign/images/benign (143).png,benign/masks/benign (143)_mask.png,224,224,3f938a834e8bf5c41270f5de0548cc3ca3b2527dc8997e303b9b44b00a204997,"[0, 255]",0.005381058673469388,True,group_0043,test
+benign,benign/images/benign (144).png,benign/masks/benign (144)_mask.png,224,224,843569c684dac0ed8dfe8b86c68767db655c8c4b94de03df4a25007d7fb669bc,"[0, 255]",0.0028698979591836736,True,group_0044,train
+benign,benign/images/benign (145).png,benign/masks/benign (145)_mask.png,224,224,60a0ae263b2ab0f02dfd5b407a02d16e762133b380eac57db604d62ff704f957,"[0, 255]",0.019292091836734693,True,group_0045,train
+benign,benign/images/benign (146).png,benign/masks/benign (146)_mask.png,224,224,a5f4580f5fa02b3b82f39f93eabbac5bf0abd2c4b3bb19959aa2765729f14ce7,"[0, 255]",0.005580357142857143,True,group_0046,train
+benign,benign/images/benign (147).png,benign/masks/benign (147)_mask.png,224,224,a345412e939aba04805bdec6a5b329258d4690c0c8ea484e3a3fb90ae7b1d7f0,"[0, 255]",0.014130261479591837,True,group_0047,test
+benign,benign/images/benign (148).png,benign/masks/benign (148)_mask.png,224,224,1ba81fb37731da0b7f9f94c47371577622ea507c2424dbb41527316af4ed59bc,"[0, 255]",0.043267697704081634,True,group_0048,test
+benign,benign/images/benign (149).png,benign/masks/benign (149)_mask.png,224,224,61a3b4987060fcad75d03ebe6abdfd3c71f12d212594180834a1f12b77a950cf,"[0, 255]",0.03463807397959184,True,group_0049,test
+benign,benign/images/benign (15).png,benign/masks/benign (15)_mask.png,224,224,4c998766f2f4b46f03736f15cb91f34622fb71da9c851e7aa225aeffd4889f56,"[0, 255]",0.008231026785714286,True,group_0050,test
+benign,benign/images/benign (150).png,benign/masks/benign (150)_mask.png,224,224,9e935e97061b5bd0880f702c7202f4a2674f0f6336b770fae13da973794a9169,"[0, 255]",0.0047831632653061226,True,group_0051,train
+benign,benign/images/benign (151).png,benign/masks/benign (151)_mask.png,224,224,2760610d777507cfabecec25627be93726ec078c171ba949aef383ade52cf572,"[0, 255]",0.008689413265306123,True,group_0052,test
+benign,benign/images/benign (152).png,benign/masks/benign (152)_mask.png,224,224,72c7bc9049f039222f440df9b806cc0ba3452879640ced50866319dd725f91be,"[0, 255]",0.23555086096938777,True,group_0053,test
+benign,benign/images/benign (153).png,benign/masks/benign (153)_mask.png,224,224,0bf5ccbe0a5c13450753884b9120abb527b6c3ca8deb8ea3d1092e99dc96f2bb,"[0, 255]",0.006297831632653061,True,group_0054,test
+benign,benign/images/benign (154).png,benign/masks/benign (154)_mask.png,224,224,69456c559687863743a126af0857a59e7f1c54f7272e4cce3cf652fdc8d3be0c,"[0, 255]",0.008091517857142858,True,group_0055,train
+benign,benign/images/benign (155).png,benign/masks/benign (155)_mask.png,224,224,64fbfe9713018da34fc735c9632269a57a34116893e923d7891915073ee436b7,"[0, 255]",0.13293207908163265,True,group_0056,train
+benign,benign/images/benign (156).png,benign/masks/benign (156)_mask.png,224,224,d301655e473744519da8ca00efafb147d62f3ef20203bc47b7094d2780008086,"[0, 255]",0.018714126275510203,True,group_0007,train
+benign,benign/images/benign (157).png,benign/masks/benign (157)_mask.png,224,224,7bd833d3883d3e4280a101cd86ab1d2cb8b8a5d34cb5ab08bb24ab245fe50559,"[0, 255]",0.04153380102040816,True,group_0038,train
+benign,benign/images/benign (158).png,benign/masks/benign (158)_mask.png,224,224,a47fa1c1d5ea23efac96308b54c8526bc7f9ac26b3d246f59a4dd5f5aabdfd8e,"[0, 255]",0.14150191326530612,True,group_0013,test
+benign,benign/images/benign (159).png,benign/masks/benign (159)_mask.png,224,224,37169611dd58ec1367040bf6932bf3f4b2303d0f617ab8121d807793d52d0fc0,"[0, 255]",0.008270886479591837,True,group_0057,val
+benign,benign/images/benign (16).png,benign/masks/benign (16)_mask.png,224,224,b013aa2680a2e2c2a77e9af71bece5c34a4f7403756ecbe47ce253fae8413271,"[0, 255]",0.0087890625,True,group_0052,test
+benign,benign/images/benign (160).png,benign/masks/benign (160)_mask.png,224,224,13baee376c123a9c4e27e8686c714807caec3eb1f7689cb7d99dc96d9e09473f,"[0, 255]",0.009905133928571428,True,group_0058,test
+benign,benign/images/benign (161).png,benign/masks/benign (161)_mask.png,224,224,ccdfe6054a6d9f2c011cfaa8e1a4935151255114a4169ef1b3390453c3c004f8,"[0, 255]",0.011798469387755101,True,group_0059,train
+benign,benign/images/benign (162).png,benign/masks/benign (162)_mask.png,224,224,9f49271b3b66e23a9b08f498d626aa53eb23cd073cc9ec54dd20f538c3fbe705,"[0, 255]",0.0048828125,True,group_0060,train
+benign,benign/images/benign (163).png,benign/masks/benign (163)_mask.png,224,224,55f6adbbc3036515d144d798f599ea4d08e1fcac77afdb6b61db8e45b3400e09,"[0, 255]",0.010224011479591837,True,group_0061,val
+benign,benign/images/benign (165).png,benign/masks/benign (165)_mask.png,224,224,67733b8f904df79f3e0a593169b4d0482be0126d51fc159feb6948d3463af6a8,"[0, 255]",0.006198182397959184,True,group_0062,train
+benign,benign/images/benign (166).png,benign/masks/benign (166)_mask.png,224,224,d05fffd79939df19a460c149a6276695edf16d32d01d033a31a458d04f2f6ac9,"[0, 255]",0.011200573979591837,True,group_0063,val
+benign,benign/images/benign (167).png,benign/masks/benign (167)_mask.png,224,224,3817d21a1f76df1c5239dcc30bc2ef0dc6302c2d3218d890cd8eae5954a2c197,"[0, 255]",0.009825414540816327,True,group_0064,train
+benign,benign/images/benign (168).png,benign/masks/benign (168)_mask.png,224,224,5d9d49a0a6205aeefa173b9f91122d17c90766c32a097ff0bdb08b82bbe003ab,"[0, 255]",0.047373246173469385,True,group_0065,train
+benign,benign/images/benign (169).png,benign/masks/benign (169)_mask.png,224,224,16244f2a2896d282bf9b697b8abfb05fe5dec5dd579c624a6464c883d9e234d9,"[0, 255]",0.005161830357142857,True,group_0066,train
+benign,benign/images/benign (17).png,benign/masks/benign (17)_mask.png,224,224,293ea0b100a553a483c94d25387fd1692b025742faba65e8adaab55c9ebae4bf,"[0, 255]",0.019650829081632654,True,group_0067,train
+benign,benign/images/benign (170).png,benign/masks/benign (170)_mask.png,224,224,df709b07c46d915161e2129b41660f23ee8f34ffedf1d33142b815ec5c627ab4,"[0, 255]",0.04741310586734694,True,group_0068,train
+benign,benign/images/benign (171).png,benign/masks/benign (171)_mask.png,224,224,1c62514f0f79a60b3a1d07c0116cbdda78f8f8b00fb3e4ce0885dec7a10a65ba,"[0, 255]",0.005440848214285714,True,group_0069,train
+benign,benign/images/benign (172).png,benign/masks/benign (172)_mask.png,224,224,3d3a2a442ccc2e7d89ff7622a51f4e1d85553aca4cb53a60ad7405dbfc275e39,"[0, 255]",0.02405532525510204,True,group_0070,train
+benign,benign/images/benign (173).png,benign/masks/benign (173)_mask.png,224,224,26474b8e9ffb9c9553840a58baa039181848828d4cd6f4049f7225b1063a4723,"[0, 255]",0.10168207908163265,True,group_0071,test
+benign,benign/images/benign (174).png,benign/masks/benign (174)_mask.png,224,224,0653400b9e0088295394189c125f4d22406ffa199eedc64c79dfb57876f53cca,"[0, 255]",0.09420838647959184,True,group_0072,train
+benign,benign/images/benign (175).png,benign/masks/benign (175)_mask.png,224,224,9384395c11223b782d8d0531115ebf1aa3dfd5ccbfa54c9d563dda41b4df93b1,"[0, 255]",0.05123963647959184,True,group_0073,train
+benign,benign/images/benign (176).png,benign/masks/benign (176)_mask.png,224,224,3032e65e0b237112cd107340ce7e8f73be0a12860bd4e83605c783f24b0154e9,"[0, 255]",0.014269770408163265,True,group_0074,train
+benign,benign/images/benign (177).png,benign/masks/benign (177)_mask.png,224,224,bbd743306da794bace4da370655a2e194ca4360cf9cb0e0731c0cf34a93c349e,"[0, 255]",0.010762117346938776,True,group_0075,val
+benign,benign/images/benign (178).png,benign/masks/benign (178)_mask.png,224,224,7595855f7fff5aaae4bd2cdf366fd262494c76de7869bfd668e13ef0dd655c32,"[0, 255]",0.07252471301020408,True,group_0076,train
+benign,benign/images/benign (179).png,benign/masks/benign (179)_mask.png,224,224,3ad770ccd3e73ffeda1e814a4a9eb9a734f34b5d4de02b4c84d4df050d457d98,"[0, 255]",0.0048828125,True,group_0077,train
+benign,benign/images/benign (18).png,benign/masks/benign (18)_mask.png,224,224,a78a36fd20c76e56a9702cd9e7883bc8c62c7bd1c1e786e7cc88bddb8d84a01a,"[0, 255]",0.19834183673469388,True,group_0053,test
+benign,benign/images/benign (180).png,benign/masks/benign (180)_mask.png,224,224,4cb05261d7a74358b099ed1beac90960928dbb8bb31fdcbd288775b4779fedf3,"[0, 255]",0.024952168367346938,True,group_0078,train
+benign,benign/images/benign (181).png,benign/masks/benign (181)_mask.png,224,224,9d07af6ed7afcc6a82dc72c9bc09d9a56adf05bb4ffa29aed9c3f9284974236f,"[0, 255]",0.08075573979591837,True,group_0079,train
+benign,benign/images/benign (182).png,benign/masks/benign (182)_mask.png,224,224,6c9e2b945b7905d5a32ea326f5c038119b4019ab81cc552f4ede0cf5f884836e,"[0, 255]",0.011937978316326531,True,group_0080,test
+benign,benign/images/benign (183).png,benign/masks/benign (183)_mask.png,224,224,6d0bbc7279a7f9e74c2c377d3ed192f31c9390cf8893ec6d886fe595e81711ad,"[0, 255]",0.00759327168367347,True,group_0081,val
+benign,benign/images/benign (184).png,benign/masks/benign (184)_mask.png,224,224,b5cc39a36f9640c6da521dd0220f3284680246cebe749b4043d30c621f09ed8c,"[0, 255]",0.14299665178571427,True,group_0082,train
+benign,benign/images/benign (185).png,benign/masks/benign (185)_mask.png,224,224,bcec8162294c4c4844d333b0a134bc1b028550b90e3a6fc6743235e2178a0e14,"[0, 255]",0.007513552295918368,True,group_0083,train
+benign,benign/images/benign (186).png,benign/masks/benign (186)_mask.png,224,224,1b915dfd2250b0660f28d64c1aa86a7d43a8c76222b7e9d8b793438ca11a0ac7,"[0, 255]",0.07862324617346939,True,group_0084,train
+benign,benign/images/benign (187).png,benign/masks/benign (187)_mask.png,224,224,847df8e276570cf019c9f6deed6456901506f0955643c91257814775b6522991,"[0, 255]",0.015644929846938774,True,group_0085,train
+benign,benign/images/benign (188).png,benign/masks/benign (188)_mask.png,224,224,487a34ce2055be9ee211f7defa2a4993d2a29610d0febba22251cba5d875b08c,"[0, 255]",0.4489795918367347,True,group_0086,val
+benign,benign/images/benign (189).png,benign/masks/benign (189)_mask.png,224,224,6a96180fa416e1210cfe9413183760127d49d46480a4a2a83fb3ebf764dd2cff,"[0, 255]",0.009167729591836735,True,group_0087,test
+benign,benign/images/benign (19).png,benign/masks/benign (19)_mask.png,224,224,0bce1b7ec38b75fb4894b00ee051cfee11a4bb7d02e303cf11838f19d7cb4afe,"[0, 255]",0.004862882653061225,True,group_0051,train
+benign,benign/images/benign (190).png,benign/masks/benign (190)_mask.png,224,224,1929320b451a431afd85256b2e1527d6f9a196210dd0f1d88757cf268d40b172,"[0, 255]",0.08912627551020408,True,group_0088,test
+benign,benign/images/benign (191).png,benign/masks/benign (191)_mask.png,224,224,c52c3bb5de580460e5e42a1088943f8ddcfcd01b73de5d9103d28b3f5304ece4,"[0, 255]",0.015963807397959183,True,group_0089,train
+benign,benign/images/benign (192).png,benign/masks/benign (192)_mask.png,224,224,07298898e06b1c2a5ef256077c944d814c98cea0df99053c5557cee246c9a041,"[0, 255]",0.03089126275510204,True,group_0090,val
+benign,benign/images/benign (193).png,benign/masks/benign (193)_mask.png,224,224,d38b1af279adc62c52d81be391b52f30c0dcd9c45d2e6f9898730eab88c80bc9,"[0, 255]",0.01016422193877551,True,group_0091,test
+benign,benign/images/benign (194).png,benign/masks/benign (194)_mask.png,224,224,31fc27bb42ed3e9badca2070b68998415896efe67b6739c3ef5227704dfffbbf,"[0, 255]",0.03053252551020408,True,group_0092,val
+benign,benign/images/benign (195).png,benign/masks/benign (195)_mask.png,224,224,59b1a2f06cca248cdcbc40ed7e5c73a21cb90df3c6cff9e000858885ab9e330c,"[0, 255]",0.35120376275510207,True,group_0093,val
+benign,benign/images/benign (196).png,benign/masks/benign (196)_mask.png,224,224,554cb0e7b84e2072482a82f1a61728aff221235990649b3254660913f530f644,"[0, 255]",0.03441884566326531,True,group_0094,test
+benign,benign/images/benign (197).png,benign/masks/benign (197)_mask.png,224,224,0f34df692cf8fcd4a11dd7333ab58f142f5f7c4fa360128a4ea8837c2c778a76,"[0, 255]",0.014269770408163265,True,group_0095,train
+benign,benign/images/benign (198).png,benign/masks/benign (198)_mask.png,224,224,84189459c8791c864c424783eb321ede359867ba029ad11ff25de164eed0d935,"[0, 255]",0.09518494897959184,True,group_0096,train
+benign,benign/images/benign (199).png,benign/masks/benign (199)_mask.png,224,224,125813d2d04b5482980d0d7743b67e2e055f7222c1f3ce8b42735e11608fe8af,"[0, 255]",0.1853874362244898,True,group_0097,train
+benign,benign/images/benign (2).png,benign/masks/benign (2)_mask.png,224,224,762b75ffbba1cf50e5e172c5bb480c652b210153d9af97a08340b9092d495306,"[0, 255]",0.03571428571428571,True,group_0098,train
+benign,benign/images/benign (20).png,benign/masks/benign (20)_mask.png,224,224,f1addb967e86b7fad328e8c968589475a2761cc23d68a35d81381d2de9d0d4aa,"[0, 255]",0.04294882015306122,True,group_0099,test
+benign,benign/images/benign (200).png,benign/masks/benign (200)_mask.png,224,224,40fc9204113a1ea49eca012a8b29fb99c48efe22d4c4cad47e18f313967ab87b,"[0, 255]",0.12904575892857142,True,group_0100,train
+benign,benign/images/benign (201).png,benign/masks/benign (201)_mask.png,224,224,c504b3824b101e83429c89ed49b952a367d377587e042b90f9828bf1cb4b68f1,"[0, 255]",0.0244937818877551,True,group_0101,val
+benign,benign/images/benign (202).png,benign/masks/benign (202)_mask.png,224,224,7c4df09c431258f225b9c0e90c323a940cd36a84580f00d007942705d0a8f21e,"[0, 255]",0.006198182397959184,True,group_0102,test
+benign,benign/images/benign (203).png,benign/masks/benign (203)_mask.png,224,224,d9fa664fe6168b493e01e147f2b6a50075260926e4f8e41e6c6c1e0e68f992d7,"[0, 255]",0.10218032525510204,True,group_0103,train
+benign,benign/images/benign (204).png,benign/masks/benign (204)_mask.png,224,224,40139c23111f401f07c992da39deb39db5b92a31f9b82c365597744859d28f81,"[0, 255]",0.053013392857142856,True,group_0104,train
+benign,benign/images/benign (205).png,benign/masks/benign (205)_mask.png,224,224,9824f94cf7bb09a7ce62b25066076bcb3badd22c14f61fb5da2f3ac1d755e54f,"[0, 255]",0.2256457270408163,True,group_0105,test
+benign,benign/images/benign (206).png,benign/masks/benign (206)_mask.png,224,224,fbb81c9beb61bd1523fffc0edc6fe669ca1bb97cf7d1a60a6c7c4ef07e224167,"[0, 255]",0.05375079719387755,True,group_0106,test
+benign,benign/images/benign (207).png,benign/masks/benign (207)_mask.png,224,224,eb8e5eb7f8c53a128b658ecb1a9c16216c5a846f206f80c9d0ffcc7834bb0470,"[0, 255]",0.12288743622448979,True,group_0107,train
+benign,benign/images/benign (208).png,benign/masks/benign (208)_mask.png,224,224,7459fcb9a9f2ba41f4c2d489a50cabecebbb678247ee8e4a51a6882d047c8d9a,"[0, 255]",0.011957908163265306,True,group_0108,train
+benign,benign/images/benign (209).png,benign/masks/benign (209)_mask.png,224,224,4b97c2261104ff61326b81ed33837c2860b2a93088d0647d7c9bfda634c497f2,"[0, 255]",0.028918207908163265,True,group_0109,train
+benign,benign/images/benign (21).png,benign/masks/benign (21)_mask.png,224,224,864516fbc3572ee912814b40d2419363951757cc7a72b3608e05dbd880bd4645,"[0, 255]",0.007294323979591837,True,group_0055,train
+benign,benign/images/benign (210).png,benign/masks/benign (210)_mask.png,224,224,1b9b64b296ada018dce1d235ffe07901a3657501c3e96d051eca66c02fbaaa34,"[0, 255]",0.08027742346938775,True,group_0110,train
+benign,benign/images/benign (211).png,benign/masks/benign (211)_mask.png,224,224,6abddfa0a128815da1657288713854a5070c29e7c1355cb084302097e53c3f07,"[0, 255]",0.01735889668367347,True,group_0111,train
+benign,benign/images/benign (212).png,benign/masks/benign (212)_mask.png,224,224,1f0da664553e6a912de49d72b53c8eb2f1894e7caa767826235288be092fb25c,"[0, 255]",0.08506058673469388,True,group_0112,train
+benign,benign/images/benign (213).png,benign/masks/benign (213)_mask.png,224,224,66379c9699dd6cbcb56fc386bec1e259b31a35a7ebd98496f953d5c0bfb1f469,"[0, 255]",0.038006218112244895,True,group_0113,train
+benign,benign/images/benign (214).png,benign/masks/benign (214)_mask.png,224,224,52854600e12c1568ad592fdc99b6f7c317c82e85a1c61431385b1f6069a0c8c7,"[0, 255]",0.055743781887755105,True,group_0114,train
+benign,benign/images/benign (215).png,benign/masks/benign (215)_mask.png,224,224,8ab953034031da1f5bf39b7af678225f3c6b440ebc9e7c3f426cf84190cabc43,"[0, 255]",0.023776307397959183,True,group_0115,train
+benign,benign/images/benign (216).png,benign/masks/benign (216)_mask.png,224,224,6513b16085e19ca4b7796479033ad96801b39f917fdead8fcc47bc19c94e0c0e,"[0, 255]",0.05805564413265306,True,group_0116,train
+benign,benign/images/benign (217).png,benign/masks/benign (217)_mask.png,224,224,4a7cd7dd3311b7003933610a1b347502bb8e687a118609e5872b5cb416964cbf,"[0, 255]",0.08701371173469388,True,group_0117,train
+benign,benign/images/benign (218).png,benign/masks/benign (218)_mask.png,224,224,ecc1a78e850e4d6fe9d2fb3d331de5936f2777de47dea85e5cacfe73303b9c6a,"[0, 255]",0.1263751594387755,True,group_0118,train
+benign,benign/images/benign (219).png,benign/masks/benign (219)_mask.png,224,224,c333469b5175f3e468a6f9af75b3591a63e11ac7cb69ea2a83ee4d2615b05fa0,"[0, 255]",0.025430484693877552,True,group_0119,train
+benign,benign/images/benign (22).png,benign/masks/benign (22)_mask.png,224,224,380c4c17d3e6622c9073cbfef91a2bb642351237347de4b53283691063e84f4a,"[0, 255]",0.052236128826530615,True,group_0120,train
+benign,benign/images/benign (220).png,benign/masks/benign (220)_mask.png,224,224,9c7646ded28cb36e52c2031543e06d7cf32658f1a444eea28f1f5cac7e8051c0,"[0, 255]",0.03180803571428571,True,group_0121,test
+benign,benign/images/benign (221).png,benign/masks/benign (221)_mask.png,224,224,7bf4802449fe2297a91243c683f5924eb29f9604002b450160fa9159082036f3,"[0, 255]",0.00874920280612245,True,group_0122,train
+benign,benign/images/benign (222).png,benign/masks/benign (222)_mask.png,224,224,6d47284c2c3150a4388a8de4637b526267b40732e955babae9bff5086557b457,"[0, 255]",0.0349968112244898,True,group_0123,val
+benign,benign/images/benign (223).png,benign/masks/benign (223)_mask.png,224,224,8a37c24dcb38db6d1b712687b63a6fffb209f6fc2d3303c2b4390d06115da934,"[0, 255]",0.027622767857142856,True,group_0124,train
+benign,benign/images/benign (224).png,benign/masks/benign (224)_mask.png,224,224,2bc3a270ebba142509bfd376045423c85a9be55ae19bdee7a0330269e7067a94,"[0, 255]",0.12529894770408162,True,group_0125,train
+benign,benign/images/benign (225).png,benign/masks/benign (225)_mask.png,224,224,df11880c5816325a76e870b3794ee99408c43682c1f97715f76a37ff57b1400b,"[0, 255]",0.04506138392857143,True,group_0126,train
+benign,benign/images/benign (226).png,benign/masks/benign (226)_mask.png,224,224,b559be9a52185bfc69fcf19e62bb0292d0cb4cba9d01773fd8d12d41e0263c11,"[0, 255]",0.029296875,True,group_0127,train
+benign,benign/images/benign (227).png,benign/masks/benign (227)_mask.png,224,224,4b04521e536bdad721fa150a378e50842c21e21d9b74b3ea6a818d99142b16df,"[0, 255]",0.025510204081632654,True,group_0128,train
+benign,benign/images/benign (228).png,benign/masks/benign (228)_mask.png,224,224,e1f4af2a484973813dfa30a5bcd7b9d26d310189d589421c6d9e8063ca3fe7bb,"[0, 255]",0.11571269132653061,True,group_0129,train
+benign,benign/images/benign (229).png,benign/masks/benign (229)_mask.png,224,224,29ab893d1e607b57b4300c0b7cc967639906746c159f4c4d10a09920f285358c,"[0, 255]",0.05705915178571429,True,group_0130,test
+benign,benign/images/benign (23).png,benign/masks/benign (23)_mask.png,224,224,1427916df3c5088f30ed7c89afd315596018c1162778966790c32874a25c0992,"[0, 255]",0.04173309948979592,True,group_0131,val
+benign,benign/images/benign (230).png,benign/masks/benign (230)_mask.png,224,224,2aef8747f73be2c76bfb6294cef9274dd3e7d321c870060e078044a71a76684a,"[0, 255]",0.04647640306122449,True,group_0132,train
+benign,benign/images/benign (231).png,benign/masks/benign (231)_mask.png,224,224,063f1962aad30bfad1d616e99cdc7c1db3cbface5a34740684b3f0ce333f194e,"[0, 255]",0.05410953443877551,True,group_0133,train
+benign,benign/images/benign (232).png,benign/masks/benign (232)_mask.png,224,224,a74dbcec79553e97fbb6d62c899b13a3ec1fb446674c03770875a446fa9cbc31,"[0, 255]",0.11358019770408163,True,group_0134,test
+benign,benign/images/benign (233).png,benign/masks/benign (233)_mask.png,224,224,aa69e7a4e2d5b1f351ddad53e2184675c3a0850b91f8d68846d0ec6c77eb7942,"[0, 255]",0.16454081632653061,True,group_0135,train
+benign,benign/images/benign (234).png,benign/masks/benign (234)_mask.png,224,224,31d5f573edeabe7dc52d91cadffa5c17a29753aeef7e7b1549d7cccb9de6242e,"[0, 255]",0.12838807397959184,True,group_0136,train
+benign,benign/images/benign (235).png,benign/masks/benign (235)_mask.png,224,224,cff1925f9a5893ec85286b270000134d58bb30ce1ec730b4592c1bec2ec1f2d2,"[0, 255]",0.08296795280612244,True,group_0137,train
+benign,benign/images/benign (236).png,benign/masks/benign (236)_mask.png,224,224,6d4af94bd1e83b488ae36da92f67ec3a23bd64f9704e478a33604ef139ac8411,"[0, 255]",0.30369100765306123,True,group_0138,val
+benign,benign/images/benign (237).png,benign/masks/benign (237)_mask.png,224,224,52f3d46b9a44a0b092975565ed6bcd8de494fdb071b0f24dde49d6ead7872111,"[0, 255]",0.09510522959183673,True,group_0139,val
+benign,benign/images/benign (238).png,benign/masks/benign (238)_mask.png,224,224,f02c7ab1de7c69f6929f12afb01e88ac875553d97ec5b4777a8ce1ef4fbee57d,"[0, 255]",0.08896683673469388,True,group_0140,val
+benign,benign/images/benign (239).png,benign/masks/benign (239)_mask.png,224,224,2e1412ab7d39a6699d43c45294c9ee7d81b74abfa033e834799c535f765edac9,"[0, 255]",0.023736447704081634,True,group_0141,train
+benign,benign/images/benign (24).png,benign/masks/benign (24)_mask.png,224,224,aab55260f8cfecee9764a9da5c7fbdb0729638179d9b5b902b1e18f902f0e4d8,"[0, 255]",0.020946269132653062,True,group_0142,train
+benign,benign/images/benign (240).png,benign/masks/benign (240)_mask.png,224,224,c0a4fd55a421942fa20db8a5d0431d166c33d16853c21223516a444e86178c1d,"[0, 255]",0.10726243622448979,True,group_0143,train
+benign,benign/images/benign (241).png,benign/masks/benign (241)_mask.png,224,224,7fdc03e725216472440633ce9f0ef6a8aec74bdd345efb7cca6d7bfa45a570d5,"[0, 255]",0.045420121173469385,True,group_0144,train
+benign,benign/images/benign (242).png,benign/masks/benign (242)_mask.png,224,224,56836447e044752dac89c81db4b21a476295906ca749e721318b07474943bd3c,"[0, 255]",0.07360092474489796,True,group_0145,train
+benign,benign/images/benign (243).png,benign/masks/benign (243)_mask.png,224,224,b653776b89b76d7618841841edba56f2f36ac05e9fe9b98e2c8345fb6e412284,"[0, 255]",0.10467155612244898,True,group_0146,val
+benign,benign/images/benign (244).png,benign/masks/benign (244)_mask.png,224,224,d230eb32cdea0ad5e3e5981d83260901d5a562cfd60ccbca2c27379304cb0012,"[0, 255]",0.02068718112244898,True,group_0147,train
+benign,benign/images/benign (245).png,benign/masks/benign (245)_mask.png,224,224,eec695856227d2c47ac43e117c15079195c41989384f3a428b011cb99b77db29,"[0, 255]",0.021683673469387755,True,group_0148,train
+benign,benign/images/benign (246).png,benign/masks/benign (246)_mask.png,224,224,05413c24db218145b6715e0d8b88b3472b6b874b2dc841f0aa76eeff50aa5002,"[0, 255]",0.007932079081632654,True,group_0122,train
+benign,benign/images/benign (247).png,benign/masks/benign (247)_mask.png,224,224,bbe8d3e03d6d0c129479e0dfe85e7f56f8940672921cedbca3d2245f00fb20cc,"[0, 255]",0.014728156887755101,True,group_0138,val
+benign,benign/images/benign (248).png,benign/masks/benign (248)_mask.png,224,224,761712891c827999bf4e6e31e1974054bdc5751c642d7140525b2efcc0b6486e,"[0, 255]",0.011778539540816327,True,group_0097,train
+benign,benign/images/benign (249).png,benign/masks/benign (249)_mask.png,224,224,b5883df4d1e336f6dba4ef8e70ffd36d3d0ec47f55f85f320485883e72daa49d,"[0, 255]",0.049485809948979595,True,group_0104,train
+benign,benign/images/benign (25).png,benign/masks/benign (25)_mask.png,224,224,639ac934c18a442e5bbdb4ba5aaabfec03da34914b1e52cfab2c0272917bb252,"[0, 255]",0.012814891581632654,True,group_0054,test
+benign,benign/images/benign (250).png,benign/masks/benign (250)_mask.png,224,224,faa5c13371aa4c68226c399ef5223b9458db1b3e2d6885246f5bd7225d1d7714,"[0, 255]",0.024752869897959183,True,group_0128,train
+benign,benign/images/benign (251).png,benign/masks/benign (251)_mask.png,224,224,4d7df18098308dc4e80bc8d3f322718a131725ebb51e961e84bfabbbe69d6664,"[0, 255]",0.021185427295918366,True,group_0147,train
+benign,benign/images/benign (252).png,benign/masks/benign (252)_mask.png,224,224,a1f4b51390dba1191e099618a487dd8f72291dab9fc59aa7269814a1210161bb,"[0, 255]",0.04767219387755102,True,group_0132,train
+benign,benign/images/benign (253).png,benign/masks/benign (253)_mask.png,224,224,f1df2a9eb79b3c8f04fef7f0412b26dca7f638941b9e25fdc46848fc42fe1948,"[0, 255]",0.03724888392857143,True,group_0113,train
+benign,benign/images/benign (254).png,benign/masks/benign (254)_mask.png,224,224,c109662f2751b57bfa9d96d5b30e1e9d5014f6694f833ff2c064343c9596b56a,"[0, 255]",0.005580357142857143,True,group_0111,train
+benign,benign/images/benign (255).png,benign/masks/benign (255)_mask.png,224,224,371d81f74bf3feb75504d94f70b0d361eafe368f7e00ddd20094226ec51b7398,"[0, 255]",0.0738998724489796,True,group_0143,train
+benign,benign/images/benign (256).png,benign/masks/benign (256)_mask.png,224,224,cd9ef73be9f333b6102f51f5ed21266d9526fcf317ef62ed98215c51892f73c6,"[0, 255]",0.09534438775510204,True,group_0107,train
+benign,benign/images/benign (257).png,benign/masks/benign (257)_mask.png,224,224,df0c4de824af754b149f18876f8875bf58bc8cef9fa982a4f7ca64f2360b7d7f,"[0, 255]",0.023736447704081634,True,group_0124,train
+benign,benign/images/benign (258).png,benign/masks/benign (258)_mask.png,224,224,567b0445aff210a366933d5aab025171c5aa5a3384c20ff4a3a89f88a4630351,"[0, 255]",0.024613360969387755,True,group_0141,train
+benign,benign/images/benign (259).png,benign/masks/benign (259)_mask.png,224,224,56bb9f2317309413bf052dbd0889b46a5b6cd42b41845dc23bdf27c583ffa907,"[0, 255]",0.05135921556122449,True,group_0130,test
+benign,benign/images/benign (26).png,benign/masks/benign (26)_mask.png,224,224,ebfd6cfbb75aa7e2fa986318f5687eff2895b3d58b834e54906ae7e313149376,"[0, 255]",0.1287468112244898,True,group_0149,test
+benign,benign/images/benign (260).png,benign/masks/benign (260)_mask.png,224,224,62a51c10a53448b889e9f1348f85c5a980e8addeb7917076c81d44ba663598f6,"[0, 255]",0.05548469387755102,True,group_0114,train
+benign,benign/images/benign (261).png,benign/masks/benign (261)_mask.png,224,224,4364f6eab53624386a02ec096f264b0363fbc26f6f7c37218c0ce16c337dbf14,"[0, 255]",0.12256855867346939,True,group_0136,train
+benign,benign/images/benign (262).png,benign/masks/benign (262)_mask.png,224,224,0b91f204d7f4237b960f8a975c01fb0b4dbdf388a8ab053949c012be7791c09a,"[0, 255]",0.22604432397959184,True,group_0105,test
+benign,benign/images/benign (263).png,benign/masks/benign (263)_mask.png,224,224,ec02a55c0b93a07df546f8d78eaa2b3b7cc60efd0a58cd6f41b185506144acf9,"[0, 255]",0.031548947704081634,True,group_0127,train
+benign,benign/images/benign (264).png,benign/masks/benign (264)_mask.png,224,224,de920f29b551476796d108d86912b8239ca7d0be7ec1ee413f3b6c1b991041ce,"[0, 255]",0.09014269770408163,True,group_0139,val
+benign,benign/images/benign (265).png,benign/masks/benign (265)_mask.png,224,224,c41214fa30f0e50061f2b0d751d8db248ac4106cfa26ab65f5d2e6829501657c,"[0, 255]",0.06758211096938775,True,group_0116,train
+benign,benign/images/benign (266).png,benign/masks/benign (266)_mask.png,224,224,d769ee874d15cd75ed7c243c18f041b8ce1c8fa14e18aef84c7eb02fe33659a5,"[0, 255]",0.04396524234693878,True,group_0144,train
+benign,benign/images/benign (267).png,benign/masks/benign (267)_mask.png,224,224,d3d34ca5ac64f185ccfe19b55812f31d908ec1ec1570f16ed62883b78eca58a9,"[0, 255]",0.038364955357142856,True,group_0123,val
+benign,benign/images/benign (268).png,benign/masks/benign (268)_mask.png,224,224,759bc22ae4bd5011a6d8beee5834d04a2cc1451785745005501c678de18be371,"[0, 255]",0.09165736607142858,True,group_0117,train
+benign,benign/images/benign (27).png,benign/masks/benign (27)_mask.png,224,224,8a9469abba32967401616340463699edf739b27d0373b95fd95fbce68a08138c,"[0, 255]",0.015106823979591837,True,group_0150,train
+benign,benign/images/benign (270).png,benign/masks/benign (270)_mask.png,224,224,dcfe221bdafa46b2de9adbc1eb692f18555af30321099444c34d2dde5ecc408e,"[0, 255]",0.02220184948979592,True,group_0115,train
+benign,benign/images/benign (271).png,benign/masks/benign (271)_mask.png,224,224,2bb5db9db62208a40163ae964841f5d77853a4b8860e9fab775cf8520a4e0c34,"[0, 255]",0.03246572066326531,True,group_0121,test
+benign,benign/images/benign (272).png,benign/masks/benign (272)_mask.png,224,224,bd19ac19ef4dd37460e507f721301f3832a4b66830993a89cb248f6fdf586aaa,"[0, 255]",0.06536989795918367,True,group_0119,train
+benign,benign/images/benign (273).png,benign/masks/benign (273)_mask.png,224,224,7f04be29b1277f9319976ba06e1d9e48fdd7a4c7eada2ee60b12c90b42ca00d1,"[0, 255]",0.10487085459183673,True,group_0103,train
+benign,benign/images/benign (274).png,benign/masks/benign (274)_mask.png,224,224,6f55425408b1d2f4b942e388f3b746779a8cb2724aad8fca977fae7c83492d5d,"[0, 255]",0.1420001594387755,True,group_0100,train
+benign,benign/images/benign (275).png,benign/masks/benign (275)_mask.png,224,224,7ed05292847a2bf082c0e2391d05c57508099606519ce3e48982497033c96e94,"[0, 255]",0.029675542091836735,True,group_0109,train
+benign,benign/images/benign (276).png,benign/masks/benign (276)_mask.png,224,224,ca63fbbfd68a577b70cfeb61270fa8a530e9ab3c4885139d3f3f49f2b1cc944a,"[0, 255]",0.11660953443877552,True,group_0134,test
+benign,benign/images/benign (277).png,benign/masks/benign (277)_mask.png,224,224,d478ca5adf6ad4c22ea6ce8ad24ea82dfa2de953942521af5c2965b811b581f7,"[0, 255]",0.07774633290816327,True,group_0143,train
+benign,benign/images/benign (278).png,benign/masks/benign (278)_mask.png,224,224,64c0d76775984bdf469271ac3d42cabdd04f2fe721e63d9b83859dd59e1aa501,"[0, 255]",0.03146922831632653,True,group_0127,train
+benign,benign/images/benign (279).png,benign/masks/benign (279)_mask.png,224,224,d252daf404b93f6369c93794aa3dd6c5082271d35e88a393ddf1c3d6ef453ff6,"[0, 255]",0.04571906887755102,True,group_0144,train
+benign,benign/images/benign (28).png,benign/masks/benign (28)_mask.png,224,224,4c86cff3f470d3b35aadc476d70d6baaa744dd35327be536870e4c3635de8361,"[0, 255]",0.03200733418367347,True,group_0151,test
+benign,benign/images/benign (280).png,benign/masks/benign (280)_mask.png,224,224,bdcdf898afda4eaa4932dc6d41c766f9ecc85902cf55e2169f25b4b75b0098f6,"[0, 255]",0.05466757015306122,True,group_0130,test
+benign,benign/images/benign (281).png,benign/masks/benign (281)_mask.png,224,224,52212dbd74eb73552d11e6e4653b2b9846cfb822f3c69b4e265d9e8829c4dbfc,"[0, 255]",0.05389030612244898,True,group_0114,train
+benign,benign/images/benign (282).png,benign/masks/benign (282)_mask.png,224,224,676ff0ff73b2a84e191f13da5c4869ad06ff07bb1c4651dad698a9862d14ac4c,"[0, 255]",0.05022321428571429,True,group_0104,train
+benign,benign/images/benign (283).png,benign/masks/benign (283)_mask.png,224,224,6ab818222f587add8dbc70c2203ed91d3ca143efc3adcdd8e80b44dbd74e614b,"[0, 255]",0.011838329081632654,True,group_0152,train
+benign,benign/images/benign (284).png,benign/masks/benign (284)_mask.png,224,224,6b8b07c14e8947b14b0e45215f194a364194e83f823a512fa3700f08b74c770b,"[0, 255]",0.06246014030612245,True,group_0153,train
+benign,benign/images/benign (285).png,benign/masks/benign (285)_mask.png,224,224,cebf201e028cf7244afcf02468321da626770abd3ecaa2ed22ed2c05dfac2fc9,"[0, 255]",0.05873325892857143,True,group_0153,train
+benign,benign/images/benign (286).png,benign/masks/benign (286)_mask.png,224,224,73832bc00d7c70ae85088064b39ae5847038b8537f112a830563055bdd3b4ed4,"[0, 255]",0.12617586096938777,True,group_0154,train
+benign,benign/images/benign (287).png,benign/masks/benign (287)_mask.png,224,224,09a9eb417c47dcefb5e395a931c31dee8c447a47d651ffd4e917107847eb6975,"[0, 255]",0.11696827168367346,True,group_0134,test
+benign,benign/images/benign (288).png,benign/masks/benign (288)_mask.png,224,224,c4ded78650ab0f57cae56d077a94b32331f2b647e5c192350642a8f6470cabad,"[0, 255]",0.03704958545918367,True,group_0145,train
+benign,benign/images/benign (289).png,benign/masks/benign (289)_mask.png,224,224,8abf0b1bcc2165201837206640feb74b4eea1d4e2127c435656110ce3591baa1,"[0, 255]",0.10237962372448979,True,group_0103,train
+benign,benign/images/benign (29).png,benign/masks/benign (29)_mask.png,224,224,6715b5e41c3e81ec36777b9cb4f2b411396f322682ab430638db553a01dde5ec,"[0, 255]",0.0054807079081632655,True,group_0155,train
+benign,benign/images/benign (290).png,benign/masks/benign (290)_mask.png,224,224,4068b1175478246878f7aa85043dee4fc87267a7a42468a684ad7193c1917665,"[0, 255]",0.13251355229591838,True,group_0100,train
+benign,benign/images/benign (291).png,benign/masks/benign (291)_mask.png,224,224,5cfe7b8851d1c4fa36339b9064c885a5f0ff55a9c91c5a84a708cf5be86078af,"[0, 255]",0.011041135204081632,True,group_0108,train
+benign,benign/images/benign (292).png,benign/masks/benign (292)_mask.png,224,224,99be6f8e269e9710c470414adc3dddff839d40821f223ee9f70755a3c53e9f22,"[0, 255]",0.03997927295918367,True,group_0126,train
+benign,benign/images/benign (293).png,benign/masks/benign (293)_mask.png,224,224,c342c4f4a4742c2a3d89d6fed19298865d4445d46832a9ec468204e87f710a83,"[0, 255]",0.040716677295918366,True,group_0126,train
+benign,benign/images/benign (294).png,benign/masks/benign (294)_mask.png,224,224,d866bf8a3024964c906b690d031e6cb70aac3004ee2960617a0a27eafd98501f,"[0, 255]",0.07541454081632654,True,group_0137,train
+benign,benign/images/benign (295).png,benign/masks/benign (295)_mask.png,224,224,980dc3c0206709a4444ba1e4a5ebbaa25b7c0f39f5a978badd10bfe9fdb91e41,"[0, 255]",0.05526546556122449,True,group_0133,train
+benign,benign/images/benign (296).png,benign/masks/benign (296)_mask.png,224,224,615c8181452730fc6b4e1068eff012b0eda30e96aeee6cdc7c92f6f6cc6643fe,"[0, 255]",0.13111846301020408,True,group_0118,train
+benign,benign/images/benign (297).png,benign/masks/benign (297)_mask.png,224,224,950d7632e91838129f9de67d082584d1d89592fec6ae0e9e3d356fc1fe3b7a5f,"[0, 255]",0.029755261479591837,True,group_0109,train
+benign,benign/images/benign (298).png,benign/masks/benign (298)_mask.png,224,224,e73ec99420b94c3928fde5959daefd104e466da6b56d62be7dfe31b6e91ec8da,"[0, 255]",0.05032286352040816,True,group_0110,train
+benign,benign/images/benign (299).png,benign/masks/benign (299)_mask.png,224,224,cfb4e4cb704265792fded67f25fcc6cfc0ec0d77878e50f0966621be3dd2f923,"[0, 255]",0.058115433673469385,True,group_0135,train
+benign,benign/images/benign (3).png,benign/masks/benign (3)_mask.png,224,224,771f69fe8740ce752096c9a06a3d78c94ac6fa53a528a1f80d758779e3d6e97e,"[0, 255]",0.026785714285714284,True,group_0156,train
+benign,benign/images/benign (30).png,benign/masks/benign (30)_mask.png,224,224,e110b15143362165ede180ff1ccbbb26c51de3858a78fbdbde6bb95d98601e7a,"[0, 255]",0.014229910714285714,True,group_0027,train
+benign,benign/images/benign (300).png,benign/masks/benign (300)_mask.png,224,224,55bec59411fa87f4d919ed875b0b402c257563e19efbab7ce8e276d53098a16c,"[0, 255]",0.09568319515306123,True,group_0140,val
+benign,benign/images/benign (301).png,benign/masks/benign (301)_mask.png,224,224,b1c65e419383a235849e50b10be59a4a639c8ab4e629dbd41cb14aa1b458a9a9,"[0, 255]",0.004902742346938775,True,group_0102,test
+benign,benign/images/benign (302).png,benign/masks/benign (302)_mask.png,224,224,56e91b713653feba15c743dd5c01b894832823c656f6fb5f6019c8a37a915e6e,"[0, 255]",0.015206473214285714,True,group_0101,val
+benign,benign/images/benign (303).png,benign/masks/benign (303)_mask.png,224,224,5dbca017e2cb49a6651decaaf8015b25bd05f9023df9ec75b0c25e47e1ce69b6,"[0, 255]",0.05074139030612245,True,group_0106,test
+benign,benign/images/benign (304).png,benign/masks/benign (304)_mask.png,224,224,8a8fa17eb881f5f932f93b63395eff78c27a115c944089696cdf82e6830591a1,"[0, 255]",0.10961415816326531,True,group_0125,train
+benign,benign/images/benign (305).png,benign/masks/benign (305)_mask.png,224,224,aef3a9c4590435c8bebc90810ded0e2fe9937b49e3b90a32a2214a5ec41f056e,"[0, 255]",0.02295918367346939,True,group_0148,train
+benign,benign/images/benign (306).png,benign/masks/benign (306)_mask.png,224,224,7b16f1dcad6d0b208770da2ca2f9fe69b729cc055ed18466d611e44d2201da06,"[0, 255]",0.05572385204081633,True,group_0129,train
+benign,benign/images/benign (307).png,benign/masks/benign (307)_mask.png,224,224,2784b57508142dfb9adbae96b789f77ce1cc7c914b92fdac25a365f8d997a622,"[0, 255]",0.02658641581632653,True,group_0157,train
+benign,benign/images/benign (308).png,benign/masks/benign (308)_mask.png,224,224,c1b56e7fbb9736098041a6909d82f090064532448fd5b8a265508bb4942cfcb7,"[0, 255]",0.016222895408163265,True,group_0158,train
+benign,benign/images/benign (309).png,benign/masks/benign (309)_mask.png,224,224,f508d5c9ee3faa96be8263b643af9b15a33f1eca42df14cec1f7811a45db1d0f,"[0, 255]",0.16866629464285715,True,group_0159,train
+benign,benign/images/benign (31).png,benign/masks/benign (31)_mask.png,224,224,a68c2af6aaf8ebdd952ff8dec04a065a7df093d7f7eac049650e51bcb15ebecf,"[0, 255]",0.00625797193877551,True,group_0160,test
+benign,benign/images/benign (310).png,benign/masks/benign (310)_mask.png,224,224,38e0c76901b963cac795ad1e799568ba8f7c5e67f03569d2d9b476899070d268,"[0, 255]",0.07162786989795919,True,group_0161,test
+benign,benign/images/benign (311).png,benign/masks/benign (311)_mask.png,224,224,f72fe0d6eb1c7e99bc0330c30e63c66f3027dc3013b7b35179295d3f902ba0c8,"[0, 255]",0.14323580994897958,True,group_0162,train
+benign,benign/images/benign (312).png,benign/masks/benign (312)_mask.png,224,224,97c7c3352c75f4f3da11776f051966448fe138d02322f7b93d970850351e7155,"[0, 255]",0.14696269132653061,True,group_0163,val
+benign,benign/images/benign (313).png,benign/masks/benign (313)_mask.png,224,224,ab473dcb6faadcdb3a6732b805392e1c7ca787d8a223f4ebbe61e55f5beafed9,"[0, 255]",0.02060746173469388,True,group_0164,val
+benign,benign/images/benign (314).png,benign/masks/benign (314)_mask.png,224,224,c87655e72ee729b21cb01c85b41fb0fe70cc5e9b9b26d7e1d881f3ff39581a95,"[0, 255]",0.06568877551020408,True,group_0165,train
+benign,benign/images/benign (315).png,benign/masks/benign (315)_mask.png,224,224,9c9c789be6b19f125b135b645730851ad53c4cd5a95fe97167e0213ed51821e0,"[0, 255]",0.031748246173469385,True,group_0166,test
+benign,benign/images/benign (316).png,benign/masks/benign (316)_mask.png,224,224,f95f96617843fd8e880d9989e0951bbb87feea383271c2c20c2f5b816da27190,"[0, 255]",0.3540736607142857,True,group_0167,train
+benign,benign/images/benign (317).png,benign/masks/benign (317)_mask.png,224,224,434021b0e09ba26061b4f409dcb5037acbbcfd190bc86d50aec5b240b56b2533,"[0, 255]",0.08246970663265306,True,group_0168,train
+benign,benign/images/benign (318).png,benign/masks/benign (318)_mask.png,224,224,022c63464a68138104cabbe17ddb46c417cea6001ba4c97d41b83f695b395203,"[0, 255]",0.004264987244897959,True,group_0000,train
+benign,benign/images/benign (319).png,benign/masks/benign (319)_mask.png,224,224,802b0c741b5f314500797dabcd75f52c9b602eb5d121b8c35418136dd80178ab,"[0, 255]",0.037986288265306124,True,group_0098,train
+benign,benign/images/benign (32).png,benign/masks/benign (32)_mask.png,224,224,25cf2ea6e378fa1a51ba17ca43b829defa1450f89fe2fb22ee614f48e4d72628,"[0, 255]",0.12081473214285714,True,group_0169,test
+benign,benign/images/benign (320).png,benign/masks/benign (320)_mask.png,224,224,b48740f1a8031fea94879635341b4fad27c3cb01418b6a7bca3c1976f5c43d1b,"[0, 255]",0.026128029336734693,True,group_0156,train
+benign,benign/images/benign (321).png,benign/masks/benign (321)_mask.png,224,224,473972d7081540a3cb9f960406aa386c8e0d0b8aa1140a4477a7d3f3cafba2af,"[0, 255]",0.0031090561224489796,True,group_0170,train
+benign,benign/images/benign (322).png,benign/masks/benign (322)_mask.png,224,224,1f6eeb8cc7549a5b91315f81dc815da157c558c6d9d65e430a7551d9c3a3ea4a,"[0, 255]",0.011639030612244899,True,group_0171,train
+benign,benign/images/benign (323).png,benign/masks/benign (323)_mask.png,224,224,8f390b2b20076b90d90e78a3bb3229be44e41801f7c269bf4fe1b1cb2a4d05ed,"[0, 255]",0.02867904974489796,True,group_0172,train
+benign,benign/images/benign (324).png,benign/masks/benign (324)_mask.png,224,224,84a0ceb04c3e8af2dfe0aae68b2db7f84e7fd615e0b5239ffc71beabbb66ac2d,"[0, 255]",0.007254464285714286,True,group_0173,train
+benign,benign/images/benign (325).png,benign/masks/benign (325)_mask.png,224,224,bddae846d9119ae8ecf6147b07954c6dc2a9c07217efe98c104b117e513b941d,"[0, 255]",0.010144292091836735,True,group_0174,test
+benign,benign/images/benign (326).png,benign/masks/benign (326)_mask.png,224,224,7b1ddafe073207ce047a23864b505935ccef8a0997fb108abdc8beed9430ff72,"[0, 255]",0.10098453443877552,True,group_0175,train
+benign,benign/images/benign (327).png,benign/masks/benign (327)_mask.png,224,224,9438a475d5b10046e3782b037bad12e9e1941088854d1a74b800af39985733c3,"[0, 255]",0.08583785076530612,True,group_0001,test
+benign,benign/images/benign (328).png,benign/masks/benign (328)_mask.png,224,224,1f9d9dabbaf0b2c2af7407eef0be1b616659c2993d40ede3c355b5b0d65ab349,"[0, 255]",0.006098533163265306,True,group_0012,val
+benign,benign/images/benign (329).png,benign/masks/benign (329)_mask.png,224,224,d53b3c35109d307bc0a9c4a049a91935d7e9223ea7b78e7e9a8e64fecafebd20,"[0, 255]",0.00705516581632653,True,group_0020,test
+benign,benign/images/benign (33).png,benign/masks/benign (33)_mask.png,224,224,276797e504a5e2b3665e2a97dd66687b0ce957d00dd8edb87e4139f13232c649,"[0, 255]",0.05951052295918367,True,group_0030,train
+benign,benign/images/benign (330).png,benign/masks/benign (330)_mask.png,224,224,485db94d85fc0f1720b652c44e618e8e4515c7614d760c54a9aaa2e47b7527b0,"[0, 255]",0.13715720663265307,True,group_0029,train
+benign,benign/images/benign (331).png,benign/masks/benign (331)_mask.png,224,224,9c01633c230dd7b9013a1ce5edcb21f8e47f4f827c42e8ebd2a38883b656c9a3,"[0, 255]",0.017617984693877552,True,group_0039,train
+benign,benign/images/benign (332).png,benign/masks/benign (332)_mask.png,224,224,bedf91e5b4cec5d432b54e8a5d277f3baf34bee628bc9851a2e81c1b5e62d2f0,"[0, 255]",0.009526466836734694,True,group_0050,test
+benign,benign/images/benign (334).png,benign/masks/benign (334)_mask.png,224,224,f89d63c2d4d60eb42240da58e1655e0e4d77682e5156820acd68075b46e1e881,"[0, 255]",0.02401546556122449,True,group_0176,train
+benign,benign/images/benign (335).png,benign/masks/benign (335)_mask.png,224,224,113559f404de8b5da425eb27069f1a7fa3d17d5ad7e6f9aeab8f97de77438028,"[0, 255]",0.0677016900510204,True,group_0177,train
+benign,benign/images/benign (336).png,benign/masks/benign (336)_mask.png,224,224,bbd0b821504433f535d597292a0310b22f33ec48889cfe6648874d00a3b5705f,"[0, 255]",0.03983976403061224,True,group_0178,train
+benign,benign/images/benign (337).png,benign/masks/benign (337)_mask.png,224,224,f7e9d8144e711c6db9216426d2837a2be28ecac18cc4906f08779921ead88b0e,"[0, 255]",0.026327327806122448,True,group_0179,train
+benign,benign/images/benign (338).png,benign/masks/benign (338)_mask.png,224,224,a461830ca1c4b0400ed93bdfb5543371eaf88a934f484c1f3ad9cec412502332,"[0, 255]",0.01070232780612245,True,group_0180,val
+benign,benign/images/benign (339).png,benign/masks/benign (339)_mask.png,224,224,48038584be269dfeb18dfdf6fd8a32b704ef4c20b283026fa534554ed492c590,"[0, 255]",0.09966916454081633,True,group_0181,train
+benign,benign/images/benign (34).png,benign/masks/benign (34)_mask.png,224,224,3739a81861535a83a200c0c2bdc748250a8a19a3332a79f42ceeda74bcfe1fe7,"[0, 255]",0.05255500637755102,True,group_0182,train
+benign,benign/images/benign (340).png,benign/masks/benign (340)_mask.png,224,224,e0ee4cb81930de7edc773075006122cd51bce01b44efb7d6b7c33f8acd1ca783,"[0, 255]",0.25839046556122447,True,group_0183,train
+benign,benign/images/benign (341).png,benign/masks/benign (341)_mask.png,224,224,ba92b091dbbffd3ef2d4e61a80f885a16aaee098952efde740bf47c448d49316,"[0, 255]",0.14594626913265307,True,group_0184,train
+benign,benign/images/benign (342).png,benign/masks/benign (342)_mask.png,224,224,8d31e4f9e1871ad8e7005022331f27e831d939740d97bb331629b821e2c721be,"[0, 255]",0.24027423469387754,True,group_0185,train
+benign,benign/images/benign (343).png,benign/masks/benign (343)_mask.png,224,224,c988c218a335fee969894effde8c46bb7a1614a4d81cfb107a817242ce168499,"[0, 255]",0.07842394770408163,True,group_0186,train
+benign,benign/images/benign (344).png,benign/masks/benign (344)_mask.png,224,224,e3e844c51f24ea25f1d8400b262527f0f85550b11b16a21ef8fb22cf7f871ca3,"[0, 255]",0.049306441326530615,True,group_0187,test
+benign,benign/images/benign (345).png,benign/masks/benign (345)_mask.png,224,224,a2ffd4d6deccec4e8341b3b69e9438a362e5fd6cf891eb4f51e0e73dca80fe2d,"[0, 255]",0.009466677295918368,True,group_0188,test
+benign,benign/images/benign (346).png,benign/masks/benign (346)_mask.png,224,224,9c2d539b1e7f84ea821d6298b01b53d85f5c86207383998b715f85140bc6a0bd,"[0, 255]",0.1679089604591837,True,group_0189,test
+benign,benign/images/benign (347).png,benign/masks/benign (347)_mask.png,224,224,be0a2850c311c90515f7f0545e5f9880a7ee3f59d5eac95be347d07e50b3f984,"[0, 255]",0.014987244897959183,True,group_0190,test
+benign,benign/images/benign (348).png,benign/masks/benign (348)_mask.png,224,224,8cd25462696f5b2b45634850076cd0ad20b8439f0803388421810c1208c1ae5a,"[0, 255]",0.01385124362244898,True,group_0191,test
+benign,benign/images/benign (349).png,benign/masks/benign (349)_mask.png,224,224,a43b25d81349cd4a5d8894f00dca2822e747299c93fec8afa83629b88638bd1e,"[0, 255]",0.017458545918367346,True,group_0192,train
+benign,benign/images/benign (35).png,benign/masks/benign (35)_mask.png,224,224,0e01b6f625e780ce2f5ff790ed06b2f07c035dd0c664afdca3b81cf6403d011a,"[0, 255]",0.011419802295918368,True,group_0075,val
+benign,benign/images/benign (350).png,benign/masks/benign (350)_mask.png,224,224,6537bdd61e23d9b0a8c75cec93ace2fa322ff80021f3b308709c8a725843b162,"[0, 255]",0.1341876594387755,True,group_0193,train
+benign,benign/images/benign (351).png,benign/masks/benign (351)_mask.png,224,224,3338a14b57de7aac704dd7720d586691487dd614a3a694526d1a445424915748,"[0, 255]",0.027144451530612245,True,group_0194,train
+benign,benign/images/benign (352).png,benign/masks/benign (352)_mask.png,224,224,77fa40460f248f9dba3717349b58b8b929749795e05339e25c920203d4c67ba0,"[0, 255]",0.0107421875,True,group_0195,val
+benign,benign/images/benign (353).png,benign/masks/benign (353)_mask.png,224,224,050bc917c56df3c561b4c6774abae65650a0c2e9748f3c85792b881db3fd14d7,"[0, 255]",0.011340082908163265,True,group_0196,val
+benign,benign/images/benign (354).png,benign/masks/benign (354)_mask.png,224,224,a71c202c6a8128ab452db5835f633c0ec6aea845224ab7ddee2990905f33b653,"[0, 255]",0.08904655612244898,True,group_0197,train
+benign,benign/images/benign (355).png,benign/masks/benign (355)_mask.png,224,224,5e361bd8ef62b6a343e20de4303c4afc1f5cd5729e0beaf3f9c49ef671132163,"[0, 255]",0.14219945790816327,True,group_0198,train
+benign,benign/images/benign (356).png,benign/masks/benign (356)_mask.png,224,224,36d4bf7aec0f3ad9bbb41f97df09c90a3893699048eea12a588e466fae98d5e2,"[0, 255]",0.14823820153061223,True,group_0199,train
+benign,benign/images/benign (357).png,benign/masks/benign (357)_mask.png,224,224,625854e8ba36cc398bf8379b98430ae8b51833899a1ef051716d3ed647c2c14f,"[0, 255]",0.0380859375,True,group_0200,train
+benign,benign/images/benign (358).png,benign/masks/benign (358)_mask.png,224,224,e5d1cc93932c2b0cc905c1e376eec4e21d3341db730c22527273662ee9ac6d67,"[0, 255]",0.04450334821428571,True,group_0201,test
+benign,benign/images/benign (359).png,benign/masks/benign (359)_mask.png,224,224,3c0d1aa153345d3a573816bef8d7f44052c64c562b227dce1613cec0450972b9,"[0, 255]",0.016980229591836735,True,group_0202,train
+benign,benign/images/benign (36).png,benign/masks/benign (36)_mask.png,224,224,dd5b401d200ef3d11338b0a50534801b94a35f0abfb7634c54d28923cfb143c3,"[0, 255]",0.10166214923469388,True,group_0203,train
+benign,benign/images/benign (360).png,benign/masks/benign (360)_mask.png,224,224,f1489b49cef553452de268d5b35c465b513421808fe0c7588bafa810ee980374,"[0, 255]",0.040537308673469385,True,group_0204,train
+benign,benign/images/benign (361).png,benign/masks/benign (361)_mask.png,224,224,b0cf2bebc60344875fd600c1c40f0ec6bf6453d696bbe821ea39f95e8c807739,"[0, 255]",0.07884247448979592,True,group_0205,test
+benign,benign/images/benign (362).png,benign/masks/benign (362)_mask.png,224,224,93d9a60d134c9a86ab4a62761a263aa442272aee16ac5328314231368ff2e47b,"[0, 255]",0.012814891581632654,True,group_0206,train
+benign,benign/images/benign (363).png,benign/masks/benign (363)_mask.png,224,224,1673e9d50c77495310842c94d50ff3648d8656e623efba0ab6a0ffe73007c35b,"[0, 255]",0.02130500637755102,True,group_0207,train
+benign,benign/images/benign (364).png,benign/masks/benign (364)_mask.png,224,224,d500a210c0e2287b7f1e6d86f45a1d7bb7c3c511155261fbf4d963d93b6226cc,"[0, 255]",0.0515983737244898,True,group_0208,train
+benign,benign/images/benign (365).png,benign/masks/benign (365)_mask.png,224,224,f5ff5af82b5119ce6e59ec1a789d2432a0205a9f9ce647cadb854965ed613614,"[0, 255]",0.031110491071428572,True,group_0209,val
+benign,benign/images/benign (366).png,benign/masks/benign (366)_mask.png,224,224,0ac848d6b3e87743bec74c54602a61cdc417d032691609662e747cf133ee1b5c,"[0, 255]",0.07057158801020408,True,group_0210,val
+benign,benign/images/benign (367).png,benign/masks/benign (367)_mask.png,224,224,e28934bbbfe259759c0c4894189862487cdcd68c71a2584121bb8e0ffa040873,"[0, 255]",0.12960379464285715,True,group_0211,train
+benign,benign/images/benign (368).png,benign/masks/benign (368)_mask.png,224,224,852bddaf94622cd2ae956dcaab01774fb74b2a748939f1803835f258fcb9a0c6,"[0, 255]",0.019690688775510203,True,group_0212,train
+benign,benign/images/benign (369).png,benign/masks/benign (369)_mask.png,224,224,4fdc5778ff763b3640a0239a066a7312ad1fe34d7b1eef0da03a67487b5f5b15,"[0, 255]",0.011977838010204082,True,group_0213,val
+benign,benign/images/benign (37).png,benign/masks/benign (37)_mask.png,224,224,d08dba6562fbb97a1bc24e5b51a4536ea6e74a6209d3015161e5d3ba16dc96f4,"[0, 255]",0.017279177295918366,True,group_0026,train
+benign,benign/images/benign (370).png,benign/masks/benign (370)_mask.png,224,224,a5bb5baa8aeb7f5025371d3b7a473cb7405ee579ad06cd576a37347fbfe61ad0,"[0, 255]",0.15621014030612246,True,group_0214,test
+benign,benign/images/benign (371).png,benign/masks/benign (371)_mask.png,224,224,688e929b69ea8f9c15dff6f914a9154ac08488cf2141cdb9c488d386416c3ba6,"[0, 255]",0.18582589285714285,True,group_0215,train
+benign,benign/images/benign (372).png,benign/masks/benign (372)_mask.png,224,224,d883b314b6197738bf37d0a85bef0882d92d195a30d43adc966430898a8c5ab0,"[0, 255]",0.07627152423469388,True,group_0216,train
+benign,benign/images/benign (373).png,benign/masks/benign (373)_mask.png,224,224,f6cc65beb8d4112148e7bdd31b158c3bc15e723bce4093d2019fd3b1f4476714,"[0, 255]",0.04005899234693878,True,group_0217,test
+benign,benign/images/benign (374).png,benign/masks/benign (374)_mask.png,224,224,d19b48ba033a5a27cbcdc04b41e115fc5d539e4443b01864d057fe709afeeb7c,"[0, 255]",0.00564014668367347,True,group_0218,train
+benign,benign/images/benign (375).png,benign/masks/benign (375)_mask.png,224,224,c9823b468eada7d94f8a892d1d0b2d0ed35600e621ad1ce4153794aa57948fa6,"[0, 255]",0.07132892219387756,True,group_0219,train
+benign,benign/images/benign (376).png,benign/masks/benign (376)_mask.png,224,224,a6e716ee6aea691ce2c6915e90652d1efc423f54b8bbe5ee9ef128f54ea685a7,"[0, 255]",0.2308673469387755,True,group_0220,train
+benign,benign/images/benign (377).png,benign/masks/benign (377)_mask.png,224,224,bbaad22638b441ba190d87e828d86e384a03595908717f95e4735b1bfb7eb1d7,"[0, 255]",0.02166374362244898,True,group_0221,val
+benign,benign/images/benign (378).png,benign/masks/benign (378)_mask.png,224,224,f93a0bd2892486e4bf755bdfec1429f007fab7efaf44cd84de605a4ba54e86f3,"[0, 255]",0.03077168367346939,True,group_0222,val
+benign,benign/images/benign (379).png,benign/masks/benign (379)_mask.png,224,224,c58812e0e823228ead307e233e1d02129d9c64fad84f545eed602e2fae2ac4e2,"[0, 255]",0.0303531568877551,True,group_0223,val
+benign,benign/images/benign (38).png,benign/masks/benign (38)_mask.png,224,224,9584d5c3f6eb8a1eaf9675dea9b9b67930314e16f12083f8d230d63356d057f7,"[0, 255]",0.02264030612244898,True,group_0031,val
+benign,benign/images/benign (380).png,benign/masks/benign (380)_mask.png,224,224,ad232aaf3ace6ad88fbb15381079786b25abe52250a7961d438526b7b9ea87e4,"[0, 255]",0.016900510204081634,True,group_0224,train
+benign,benign/images/benign (381).png,benign/masks/benign (381)_mask.png,224,224,395221eab2efb8132081de13c545e5d680c39b244e98bf7fa949defd72c58374,"[0, 255]",0.07384008290816327,True,group_0225,val
+benign,benign/images/benign (382).png,benign/masks/benign (382)_mask.png,224,224,caa34383c44f4f107b00fc8359c9d5901213cd14a34bba39298e4dc70d0268b7,"[0, 255]",0.1351642219387755,True,group_0226,train
+benign,benign/images/benign (383).png,benign/masks/benign (383)_mask.png,224,224,33014aa41bb273bb8191fd5fa981fae44a26467b93f5c5d911a86c30aea20b32,"[0, 255]",0.05939094387755102,True,group_0227,test
+benign,benign/images/benign (384).png,benign/masks/benign (384)_mask.png,224,224,220340052bab04a04eaa110a3ece81d8bce888ac90376bdcfae0e2edeb51af7f,"[0, 255]",0.09498565051020408,True,group_0228,train
+benign,benign/images/benign (385).png,benign/masks/benign (385)_mask.png,224,224,26113e360d0ab9dd5c9a339a704abe6860b5f4eb6e63cc6bae6ca9a503508124,"[0, 255]",0.038185586734693876,True,group_0229,val
+benign,benign/images/benign (386).png,benign/masks/benign (386)_mask.png,224,224,5be0431b3804bc6fd32f324b8fa1bfd7a1817bfbb2107aff683cf60b2e1cbcaa,"[0, 255]",0.05759725765306122,True,group_0230,train
+benign,benign/images/benign (387).png,benign/masks/benign (387)_mask.png,224,224,a4bfb7750c35422ac441fe1d39a94b3d744d4442b2a511d9f2c5d7a9ffb585d3,"[0, 255]",0.07184709821428571,True,group_0231,train
+benign,benign/images/benign (388).png,benign/masks/benign (388)_mask.png,224,224,4e52b1ac6ecd35d7290d21ba4c246a202f13a67d43ba14fc023f327a420fa730,"[0, 255]",0.01819595025510204,True,group_0232,train
+benign,benign/images/benign (389).png,benign/masks/benign (389)_mask.png,224,224,9b56199f820b1efe47f3967c931a38b250a55632a12ef196c63849d9696414bf,"[0, 255]",0.027204241071428572,True,group_0233,train
+benign,benign/images/benign (39).png,benign/masks/benign (39)_mask.png,224,224,650df6310ec1c89656fd51ee45e4b97f03451218f835929592ec94289cd285d6,"[0, 255]",0.022660235969387755,True,group_0234,train
+benign,benign/images/benign (390).png,benign/masks/benign (390)_mask.png,224,224,e74984c4690cf0e72379c322fedb9e5ed5a5952c57c2a3b755ead02d8be0fe28,"[0, 255]",0.020129145408163265,True,group_0235,test
+benign,benign/images/benign (391).png,benign/masks/benign (391)_mask.png,224,224,0f18e4794ce0ad7e5c7117dcd50b37807b51f7977e32b91776a1f8378d9aaffb,"[0, 255]",0.13622050382653061,True,group_0236,train
+benign,benign/images/benign (392).png,benign/masks/benign (392)_mask.png,224,224,6b5442782f24bbf6d5bf36951a26e6dd853e61e351b882059da2c039c1174324,"[0, 255]",0.25386639030612246,True,group_0237,train
+benign,benign/images/benign (393).png,benign/masks/benign (393)_mask.png,224,224,ebd908555694d55fb02d943ea35c3b4d62c8be12454f3d5c62ff108c2111a808,"[0, 255]",0.25747369260204084,True,group_0238,train
+benign,benign/images/benign (394).png,benign/masks/benign (394)_mask.png,224,224,1d4620359c9c24210553bfa060c66420f5b051608ed7708bc9987c5c81e02e45,"[0, 255]",0.0372688137755102,True,group_0239,train
+benign,benign/images/benign (395).png,benign/masks/benign (395)_mask.png,224,224,993d7c1a3f01f9722eb8401455938b27eb0b9521f7a11976687d4c8ad7667727,"[0, 255]",0.11840322066326531,True,group_0240,train
+benign,benign/images/benign (396).png,benign/masks/benign (396)_mask.png,224,224,458126091d9b70be41791df5f3b5494d45a0e726b5dfdc05d20a5ab0216cc034,"[0, 255]",0.01403061224489796,True,group_0241,test
+benign,benign/images/benign (397).png,benign/masks/benign (397)_mask.png,224,224,fa5c0f2433e2a221361aa613728db82a0ce347bc5bc31025452b36c8408cd1d1,"[0, 255]",0.11830357142857142,True,group_0242,val
+benign,benign/images/benign (398).png,benign/masks/benign (398)_mask.png,224,224,c60277b4cb1b2a3882b0d30d07b5415d421c3a0a36d27c7a9cddf7bc5fd04ea9,"[0, 255]",0.21611926020408162,True,group_0243,test
+benign,benign/images/benign (4).png,benign/masks/benign (4)_mask.png,224,224,79a509f983b6b27e0ac32f2797d7368493c21f0c45f382aea610bd21b6d5900b,"[0, 255]",0.010064572704081632,True,group_0170,train
+benign,benign/images/benign (40).png,benign/masks/benign (40)_mask.png,224,224,6b4d9e086d08ca0629f56aae08f3e97d9ca4cb5991722d55d5e73b1d92ebda46,"[0, 255]",0.02317841198979592,True,group_0244,train
+benign,benign/images/benign (400).png,benign/masks/benign (400)_mask.png,224,224,c29eb5a3f91b222c8f56dc743b660c7f628b392ae35b6ddce9842ab9e5f9f170,"[0, 255]",0.37073501275510207,True,group_0245,val
+benign,benign/images/benign (401).png,benign/masks/benign (401)_mask.png,224,224,afb8107831b43baf9db11f90d108fbebcf417f2fb7a7c9b5446f031b46b39b36,"[0, 255]",0.10925542091836735,True,group_0246,train
+benign,benign/images/benign (402).png,benign/masks/benign (402)_mask.png,224,224,19fb8f5d3c835083459107d14ee1a702c2a1262d31757ed956fd5007a5b39304,"[0, 255]",0.045998086734693876,True,group_0247,train
+benign,benign/images/benign (403).png,benign/masks/benign (403)_mask.png,224,224,da3b91052e3562d7e75c987738083a896b891e24225b62f890950bebe3d7d7d8,"[0, 255]",0.13938934948979592,True,group_0248,train
+benign,benign/images/benign (404).png,benign/masks/benign (404)_mask.png,224,224,91af67239a89aa2690cdeb505844ebcec6f7171ba6b1ddba97d0ffc648b3be98,"[0, 255]",0.42948820153061223,True,group_0249,val
+benign,benign/images/benign (405).png,benign/masks/benign (405)_mask.png,224,224,2e6b86a9a2cdaf2d16722a734c22ab6cce8ae6ec3208941427255bcdc32ae78b,"[0, 255]",0.3061025191326531,True,group_0250,train
+benign,benign/images/benign (407).png,benign/masks/benign (407)_mask.png,224,224,1b9840d9ea7521c83a6c3a63d179687b8d63fc2f5de5854cc2c71773d9a34c5c,"[0, 255]",0.3577407525510204,True,group_0251,train
+benign,benign/images/benign (408).png,benign/masks/benign (408)_mask.png,224,224,f0907bc66b34c2ebb31b0a6de7903678c21664862e931623faafa29edb8f6fb0,"[0, 255]",0.07521524234693877,True,group_0252,test
+benign,benign/images/benign (409).png,benign/masks/benign (409)_mask.png,224,224,4dba1f04b99a6d48be8daccef4fe3aacc95c7a10e04ef8133cacdbb05c1395ee,"[0, 255]",0.3662906568877551,True,group_0253,train
+benign,benign/images/benign (41).png,benign/masks/benign (41)_mask.png,224,224,7e2d542617f04794097d1630a4e123fb4ae096343337eca6d0ec5d5c719b19b5,"[0, 255]",0.0891860650510204,True,group_0254,train
+benign,benign/images/benign (410).png,benign/masks/benign (410)_mask.png,224,224,6efc1d53cc0ff2a2570271321bf703522f5dba0a99a60ad22c17cc72c3971aa9,"[0, 255]",0.12131297831632654,True,group_0255,train
+benign,benign/images/benign (411).png,benign/masks/benign (411)_mask.png,224,224,534d99b1d77f4be2db8e12b6b358d3ef940d59c8d8952994056d90132593f5ce,"[0, 255]",0.11449697066326531,True,group_0240,train
+benign,benign/images/benign (412).png,benign/masks/benign (412)_mask.png,224,224,09c3edeedf5b6cc43356d5ef7d00023a8003e531dbce8d563f7d594070170a97,"[0, 255]",0.40090880102040816,True,group_0245,val
+benign,benign/images/benign (413).png,benign/masks/benign (413)_mask.png,224,224,9949308f784a42c7f0a5c2ce9e795a938b98175efeb7d918d0a822e3066ef753,"[0, 255]",0.01092155612244898,True,group_0241,test
+benign,benign/images/benign (414).png,benign/masks/benign (414)_mask.png,224,224,01844f19e119517804bf73dde94b308d81b632ac07670c230494d15ea91b2978,"[0, 255]",0.3076969068877551,True,group_0256,train
+benign,benign/images/benign (415).png,benign/masks/benign (415)_mask.png,224,224,dc470df67ad512b341885daaf39480fa5799ee9c8301fcbcd3af12c778474a2f,"[0, 255]",0.46346859056122447,True,group_0249,val
+benign,benign/images/benign (416).png,benign/masks/benign (416)_mask.png,224,224,0c755275854444c29b304e8ccedac58df3bd25173850599fc7c2a912288156f3,"[0, 255]",0.02979512117346939,True,group_0257,test
+benign,benign/images/benign (417).png,benign/masks/benign (417)_mask.png,224,224,1563b95bd720ae13040270dcbd163fac3b599d369d6dd0ec0b38383b6a82b366,"[0, 255]",0.028519610969387755,True,group_0258,val
+benign,benign/images/benign (418).png,benign/masks/benign (418)_mask.png,224,224,b5839cc3ed19dc42a68ee2da86e6787f067da370fbb91f69cefe1f229d05874e,"[0, 255]",0.02955596301020408,True,group_0259,test
+benign,benign/images/benign (419).png,benign/masks/benign (419)_mask.png,224,224,0a27866398fef7070b785d951ecaa68e58eb625d269ce691b71543fe7e1a836d,"[0, 255]",0.02375637755102041,True,group_0157,train
+benign,benign/images/benign (420).png,benign/masks/benign (420)_mask.png,224,224,86f7fcaf2c906d08360cfd3211f5556f55730c4b0ed878471ddbbf77544ee853,"[0, 255]",0.12571747448979592,True,group_0260,train
+benign,benign/images/benign (421).png,benign/masks/benign (421)_mask.png,224,224,03305250088b9a4753793b054e74f2353b20d5af855e8ddcde9b83ff22bafd0e,"[0, 255]",0.1490154655612245,True,group_0163,val
+benign,benign/images/benign (422).png,benign/masks/benign (422)_mask.png,224,224,b2b9f48f367735d5c625b61ca64e9a9797d1e513e0a3dc2cd64a5746c1404976,"[0, 255]",0.1835140306122449,True,group_0159,train
+benign,benign/images/benign (423).png,benign/masks/benign (423)_mask.png,224,224,1fd7a27158e6364c1859cac4b3cba175696ed7369cc04936bcd32dba77bc522d,"[0, 255]",0.06582828443877552,True,group_0161,test
+benign,benign/images/benign (424).png,benign/masks/benign (424)_mask.png,224,224,18275472b4149dcf9917ad7d7ddce226f3de6860ba47a786624ad9c0149c1d6d,"[0, 255]",0.021045918367346938,True,group_0158,train
+benign,benign/images/benign (425).png,benign/masks/benign (425)_mask.png,224,224,5be1358bab8ad067059473ad8454795c21361251e33969793c33b474cf8a8644,"[0, 255]",0.02000956632653061,True,group_0067,train
+benign,benign/images/benign (426).png,benign/masks/benign (426)_mask.png,224,224,e14e15cf3e27518c39abf65fd0f940f1dd12134d4e511ba44100ec64cde18348,"[0, 255]",0.3103874362244898,True,group_0167,train
+benign,benign/images/benign (427).png,benign/masks/benign (427)_mask.png,224,224,47ef9a80bc8e83bed22720d4ef2225bdbe3fc0c57407bf484ec5c64e0dedf2a3,"[0, 255]",0.028479751275510203,True,group_0261,train
+benign,benign/images/benign (428).png,benign/masks/benign (428)_mask.png,224,224,e7cb177d07a0f70f4b079a527570e53be4c6894316c305f343bce3ced153b984,"[0, 255]",0.06010841836734694,True,group_0262,train
+benign,benign/images/benign (429).png,benign/masks/benign (429)_mask.png,224,224,b6dc6ec760560f3acb716ba57d31d96e88052758fd6cbb34cef1d0c8ce78e13b,"[0, 255]",0.012675382653061224,True,group_0263,test
+benign,benign/images/benign (43).png,benign/masks/benign (43)_mask.png,224,224,f981c94fb32c493429c47a420346459474ab85005ebc62afa0bab1f07771255e,"[0, 255]",0.008290816326530613,True,group_0264,test
+benign,benign/images/benign (430).png,benign/masks/benign (430)_mask.png,224,224,20b0792cfa59d2237c104fac77d31a2cb2b66ac7f1bfeca4d542de55c9e18143,"[0, 255]",0.040318080357142856,True,group_0265,val
+benign,benign/images/benign (431).png,benign/masks/benign (431)_mask.png,224,224,b6bbac1e6b77eeca0dd2e459bb6c2d24e50f72d3b7fa46a5b7fe01247adf4e46,"[0, 255]",0.016262755102040817,True,group_0266,val
+benign,benign/images/benign (432).png,benign/masks/benign (432)_mask.png,224,224,3f46c110d0e4b56180c1bd3b53f0e4f4df5e3822ee31dd1bce41167f389d7a38,"[0, 255]",0.07788584183673469,True,group_0267,train
+benign,benign/images/benign (434).png,benign/masks/benign (434)_mask.png,224,224,890b112a1c16404e5eb5f00f4877ff9ca9f8c99d68c0424bb0889a23097cac97,"[0, 255]",0.16420200892857142,True,group_0268,train
+benign,benign/images/benign (435).png,benign/masks/benign (435)_mask.png,224,224,a757851fd75fc390ce30f197f34bd367adb20d42a2cb217a309c27655b892d8a,"[0, 255]",0.01482780612244898,True,group_0269,train
+benign,benign/images/benign (436).png,benign/masks/benign (436)_mask.png,224,224,0a605df06244ee2d4a20f6d9139f8d2888be6c4b69ee47323405494a9773c543,"[0, 255]",0.09620137117346939,True,group_0270,test
+benign,benign/images/benign (44).png,benign/masks/benign (44)_mask.png,224,224,8dd8ac04cf7f0131b2a258928d2bb5016f3fd6e20cc0a6d867762db63271a5f6,"[0, 255]",0.01331313775510204,True,group_0028,train
+benign,benign/images/benign (45).png,benign/masks/benign (45)_mask.png,224,224,a686ac98a585e375590011297b159d628329f14b5a0bc2852d3e8a50bc5fd613,"[0, 255]",0.06923628826530612,True,group_0271,train
+benign,benign/images/benign (46).png,benign/masks/benign (46)_mask.png,224,224,452d1b58a961366d9670aaa2ebec27ad8b395f237b90e03e8442842def2a2829,"[0, 255]",0.009207589285714286,True,group_0272,test
+benign,benign/images/benign (47).png,benign/masks/benign (47)_mask.png,224,224,68e1cf9f90d3370612397ad07c6936fc72ba3cfa9e33e014b018498cc53c3b18,"[0, 255]",0.005161830357142857,True,group_0273,test
+benign,benign/images/benign (48).png,benign/masks/benign (48)_mask.png,224,224,a386a24c6621ae84ff30b5572711e538632bc274c3e9663ab8330b6ab88b6f13,"[0, 255]",0.0732421875,True,group_0274,train
+benign,benign/images/benign (49).png,benign/masks/benign (49)_mask.png,224,224,af81accd928da519a403a6a05ad95f04de7a23a878f19f128510e31cebcea0ae,"[0, 255]",0.319515306122449,True,group_0275,train
+benign,benign/images/benign (5).png,benign/masks/benign (5)_mask.png,224,224,fc2fc3a8f513a48f3e1da2225ddf2700348bf9cef62d8a4e52b363ae4d3f7385,"[0, 255]",0.012555803571428572,True,group_0171,train
+benign,benign/images/benign (50).png,benign/masks/benign (50)_mask.png,224,224,abd5db5a8953fafa8ffac2dea5882dbe1100c47800e9bb4709c66e5896872e30,"[0, 255]",0.02857940051020408,True,group_0035,train
+benign,benign/images/benign (51).png,benign/masks/benign (51)_mask.png,224,224,2dccf912810c9f6bfe9cb121f03eab1897cc9b8a5ecd39af44f9dc3fde17355d,"[0, 255]",0.009247448979591837,True,group_0032,val
+benign,benign/images/benign (52).png,benign/masks/benign (52)_mask.png,224,224,1eab125cb5c08fb1bc4e4d70df85641e449585f53b2571e49d54572069d65c7b,"[0, 255]",0.010263871173469387,True,group_0033,train
+benign,benign/images/benign (53).png,benign/masks/benign (53)_mask.png,224,224,7261b0dd457432d1ce4438b9cb0630596ee9e4b884c5b9c9c16f92f97dd6eab1,"[0, 255]",0.018315529336734693,True,group_0276,test
+benign,benign/images/benign (54).png,benign/masks/benign (54)_mask.png,224,224,f029671113bc9500c1e71a014daac5ee396d689f2cc76850f26eb36ae1165c36,"[0, 255]",0.07224569515306123,True,group_0277,train
+benign,benign/images/benign (55).png,benign/masks/benign (55)_mask.png,224,224,55aa42ecc06e1bed0ab8d105654244f8c9ddec561c061cda46225490aa2ef2d3,"[0, 255]",0.01935188137755102,True,group_0278,train
+benign,benign/images/benign (56).png,benign/masks/benign (56)_mask.png,224,224,d135fb281ee1774237a205f8bfa77cbbe9b30754eb3711383f48504e23dc2ceb,"[0, 255]",0.06002869897959184,True,group_0279,train
+benign,benign/images/benign (57).png,benign/masks/benign (57)_mask.png,224,224,bd3942f3f4136e863c95ebe4bff79460c3e485531cf2a4507c215cc8b45359bb,"[0, 255]",0.01385124362244898,True,group_0280,train
+benign,benign/images/benign (58).png,benign/masks/benign (58)_mask.png,224,224,c62f142b39bc85995ed219d73e3ed5851dfc80a0b40abfa7120eca1d659d6640,"[0, 255]",0.03278459821428571,True,group_0034,test
+benign,benign/images/benign (59).png,benign/masks/benign (59)_mask.png,224,224,03b84e7699b2d0b2bf60ff1c461462edd7a61cf8a30a22524e8e0eecf3beafe3,"[0, 255]",0.0525749362244898,True,group_0281,val
+benign,benign/images/benign (6).png,benign/masks/benign (6)_mask.png,224,224,14be9bec60020077496030b096b5b191f8316a04bcbb47739abafa429264baa2,"[0, 255]",0.028439891581632654,True,group_0172,train
+benign,benign/images/benign (60).png,benign/masks/benign (60)_mask.png,224,224,8861aa6bae3ef9ba388b7a29d4ff17dda70cc815dd57916b47ca51bece93bcc6,"[0, 255]",0.005420918367346939,True,group_0037,val
+benign,benign/images/benign (61).png,benign/masks/benign (61)_mask.png,224,224,9e74db39a0a42d6b0c957ce0fdc4b3956b6540ab311df7296efe6bb2d1a86752,"[0, 255]",0.04298867984693878,True,group_0010,train
+benign,benign/images/benign (62).png,benign/masks/benign (62)_mask.png,224,224,9cef567a896ea2b0c2e1bdc7d4dd363b138c0ff31f621fe72315e50a8a74d9af,"[0, 255]",0.21570073341836735,True,group_0040,val
+benign,benign/images/benign (63).png,benign/masks/benign (63)_mask.png,224,224,a0864c344cc0fa65f6da0c1b89774b1823610c8a543606484ceee60143bc0387,"[0, 255]",0.009925063775510204,True,group_0282,train
+benign,benign/images/benign (64).png,benign/masks/benign (64)_mask.png,224,224,428c9e7684b0a64cda9382eca34f3a5cecc92dcfc2c836c02e06474611a442c0,"[0, 255]",0.44893973214285715,True,group_0041,train
+benign,benign/images/benign (65).png,benign/masks/benign (65)_mask.png,224,224,86e7451f42aa31a3ae77bcc81398d4168d312632a054905f14083cc643451b65,"[0, 255]",0.0418327487244898,True,group_0038,train
+benign,benign/images/benign (66).png,benign/masks/benign (66)_mask.png,224,224,4586e5779e37aaeeab74789972890ace65dbb32af61c5219d97c76a278c4f71e,"[0, 255]",0.03125,True,group_0283,test
+benign,benign/images/benign (67).png,benign/masks/benign (67)_mask.png,224,224,3cd52d6b59d7e586bd31394cf3cc54a2209e4760d806a22a2a709cc31bccb704,"[0, 255]",0.18357382015306123,True,group_0284,train
+benign,benign/images/benign (68).png,benign/masks/benign (68)_mask.png,224,224,9d4e03794c81f5f2efcdfd8dc3f49ba41289933c5db7e2368f1e99012e3eba3a,"[0, 255]",0.19748485331632654,True,group_0285,train
+benign,benign/images/benign (69).png,benign/masks/benign (69)_mask.png,224,224,1ad925409b87d7874cf4d5cafc46a58480bf3e640f3ffd7378dd66ff1873d7cd,"[0, 255]",0.00896843112244898,True,group_0286,val
+benign,benign/images/benign (7).png,benign/masks/benign (7)_mask.png,224,224,a261944e834930761dfad9c391a9b57d3a24fffc416d14771947a28682e5a6c2,"[0, 255]",0.006058673469387755,True,group_0173,train
+benign,benign/images/benign (70).png,benign/masks/benign (70)_mask.png,224,224,84bfd773ae43533265c2f24cb5f504e70186d164e747d14aa94efd39c8678a05,"[0, 255]",0.010463169642857142,True,group_0287,train
+benign,benign/images/benign (71).png,benign/masks/benign (71)_mask.png,224,224,d8aebc23423fecacc67595aba012c8dbbc6a0ba453a771a81f76218b2a630a8d,"[0, 255]",0.008769132653061224,True,group_0288,train
+benign,benign/images/benign (72).png,benign/masks/benign (72)_mask.png,224,224,78bb58c3653612a75b94321a6e5ab08123035ec5e0affea75dd57ff9b74c0f8f,"[0, 255]",0.08005819515306123,True,group_0289,train
+benign,benign/images/benign (73).png,benign/masks/benign (73)_mask.png,224,224,ec6f8df030dc304db84384240f1dec4ffe6e2e3bd5739a387bba389e60cd75fc,"[0, 255]",0.23479352678571427,True,group_0290,train
+benign,benign/images/benign (74).png,benign/masks/benign (74)_mask.png,224,224,77f51838e22deb00dcf112b938d129b41c26a87123a8fd9c28908eaad7495013,"[0, 255]",0.008131377551020409,True,group_0291,train
+benign,benign/images/benign (75).png,benign/masks/benign (75)_mask.png,224,224,f8580953ba4c25eba527752ed9e9bfa062edc1f2e6adf75dd50c00a07356f8a0,"[0, 255]",0.035634566326530615,True,group_0292,train
+benign,benign/images/benign (76).png,benign/masks/benign (76)_mask.png,224,224,4442afe9bf20e9aae96d7a25942f01cc417e70e1e3f3d686c1ecd41745e62e9b,"[0, 255]",0.017578125,True,group_0293,test
+benign,benign/images/benign (77).png,benign/masks/benign (77)_mask.png,224,224,9d6291555fed8545431c639df991bfd6e36f17d3696e56d38fa07c6e55144ba5,"[0, 255]",0.029735331632653062,True,group_0294,train
+benign,benign/images/benign (78).png,benign/masks/benign (78)_mask.png,224,224,2cfe0c031f91eb55637e5f42ca1266d519b3f6fe9d3ea2768473f6169e97a345,"[0, 255]",0.012994260204081632,True,group_0295,val
+benign,benign/images/benign (79).png,benign/masks/benign (79)_mask.png,224,224,6547b69a8353d5e2196f02625d9f466970666a81aea7471e9bd49bbed15ab4eb,"[0, 255]",0.047931281887755105,True,group_0296,train
+benign,benign/images/benign (8).png,benign/masks/benign (8)_mask.png,224,224,64c1e8e665d1508f60fe94d6bf95319b8e9420f29585f3d247553637932aecf4,"[0, 255]",0.011061065051020409,True,group_0174,test
+benign,benign/images/benign (80).png,benign/masks/benign (80)_mask.png,224,224,5a95d683099b398245cf06c8c35a62660c2dd910232e17757b517b35e6baccb1,"[0, 255]",0.2290935905612245,True,group_0297,train
+benign,benign/images/benign (81).png,benign/masks/benign (81)_mask.png,224,224,538e95e00d7a43e1d2711111e13bfbec68b754502ad05dc88e87f4b512ab04eb,"[0, 255]",0.01522640306122449,True,group_0095,train
+benign,benign/images/benign (82).png,benign/masks/benign (82)_mask.png,224,224,796e2cfe7336d1f5777232904d3b47c57e9d80fb405aa0e9e75c60a1cfda72a8,"[0, 255]",0.04803093112244898,True,group_0298,test
+benign,benign/images/benign (83).png,benign/masks/benign (83)_mask.png,224,224,a2e2c5b83aad59ec89181c7d50fe36eb8aaf26ce52d817fabcbcf1f037cb458f,"[0, 255]",0.016900510204081634,True,group_0299,train
+benign,benign/images/benign (84).png,benign/masks/benign (84)_mask.png,224,224,8f9472be91cbbc02a84f20374ff3306760a0dee0ac2f60fdcf76304210a05264,"[0, 255]",0.10540896045918367,True,group_0300,train
+benign,benign/images/benign (86).png,benign/masks/benign (86)_mask.png,224,224,0a2b8f97f47e562ee3eba755dbbcd193befcea4ba3a9515d1c8dd1829da7a5dc,"[0, 255]",0.0067362882653061226,True,group_0061,val
+benign,benign/images/benign (87).png,benign/masks/benign (87)_mask.png,224,224,bad99da1efc6f2f31b991d24ba2e0a7a466f077557400a452582e12dc183de0c,"[0, 255]",0.02032844387755102,True,group_0301,train
+benign,benign/images/benign (88).png,benign/masks/benign (88)_mask.png,224,224,3f76677f9ddd82b36dfb254e0e63b21838307513368c2bb260f160e7ddb544d1,"[0, 255]",0.07954001913265306,True,group_0302,train
+benign,benign/images/benign (89).png,benign/masks/benign (89)_mask.png,224,224,aa73f6051e1e9ea1d2dca76cf04bb3e3bd8f6b2867c924e3aea8e402e9b3f505,"[0, 255]",0.015684789540816327,True,group_0303,train
+benign,benign/images/benign (9).png,benign/masks/benign (9)_mask.png,224,224,bf6434bca0862c9efa6f60bd24889123f32270979fac0ff7812105580d31ccc6,"[0, 255]",0.11086973852040816,True,group_0175,train
+benign,benign/images/benign (90).png,benign/masks/benign (90)_mask.png,224,224,b5af23315820e1e2c60a03bcd13184ae7c459d6a89e7e01fe434e213d6255e03,"[0, 255]",0.007553411989795918,True,group_0304,val
+benign,benign/images/benign (91).png,benign/masks/benign (91)_mask.png,224,224,2e132f0dcf557d44f345e7fef9f7218726294add5048f7ec561ce6f690f65e3a,"[0, 255]",0.005998883928571429,True,group_0305,test
+benign,benign/images/benign (92).png,benign/masks/benign (92)_mask.png,224,224,412f53a1cb1623b76e01044af1574ea83ced6790d529c543424eb60ade27054e,"[0, 255]",0.06375558035714286,True,group_0306,val
+benign,benign/images/benign (93).png,benign/masks/benign (93)_mask.png,224,224,6330dd367b8d6113832695f36c7a005abc22c7887ac2719748e8d5b618514998,"[0, 255]",0.037228954081632654,True,group_0307,train
+benign,benign/images/benign (94).png,benign/masks/benign (94)_mask.png,224,224,ecafb76dd6c55eb3733e7d4433bf46c82903b8b708fa12002a9cb1833560ffce,"[0, 255]",0.023098692602040817,True,group_0010,train
+benign,benign/images/benign (95).png,benign/masks/benign (95)_mask.png,224,224,7fa05bf9c533a2fc821967d9350fca1f4ee9257f796b606988fdf49998e66564,"[0, 255]",0.013352997448979591,True,group_0308,val
+benign,benign/images/benign (96).png,benign/masks/benign (96)_mask.png,224,224,bc8b41c0514d68c2a9b0f0579515b20f3e7428545434819516e8edde201d94d0,"[0, 255]",0.1377551020408163,True,group_0056,train
+benign,benign/images/benign (97).png,benign/masks/benign (97)_mask.png,224,224,284a3d850ac82313cb097305580e61d89c42ad4703aedd162a1a76d97f443619,"[0, 255]",0.17295121173469388,True,group_0309,test
+benign,benign/images/benign (98).png,benign/masks/benign (98)_mask.png,224,224,5dceade001b15b3a7ddf9d9756e2b3375ce51728bd5ed5bef7eda707571e7687,"[0, 255]",0.31692442602040816,True,group_0310,test
+benign,benign/images/benign (99).png,benign/masks/benign (99)_mask.png,224,224,8afdc2732357525dfffb45d71d099bac286be8026fdf06cd58672ae892bf92fb,"[0, 255]",0.04243064413265306,True,group_0038,train
+malignant,malignant/images/malignant (1).png,malignant/masks/malignant (1)_mask.png,224,224,cc53ee74bd41feae5893f107955c17efd9a4687beafdbed103698667ed9e52d4,"[0, 255]",0.34022241709183676,True,group_0311,train
+malignant,malignant/images/malignant (10).png,malignant/masks/malignant (10)_mask.png,224,224,5b9b8ffbc71899e68f0c3f12617a0699a52681003171c854c097bc73858ce4b4,"[0, 255]",0.029994419642857144,True,group_0312,train
+malignant,malignant/images/malignant (100).png,malignant/masks/malignant (100)_mask.png,224,224,fdaf31998f6bede3409640d868a7cb3e5d0506835301edd3017a004de7547b56,"[0, 255]",0.05978954081632653,True,group_0313,val
+malignant,malignant/images/malignant (101).png,malignant/masks/malignant (101)_mask.png,224,224,a32e0ac2faadc7df33ef21c25da92fcebb81757054282ec6c2631d8a5c852c8d,"[0, 255]",0.13893096301020408,True,group_0314,test
+malignant,malignant/images/malignant (102).png,malignant/masks/malignant (102)_mask.png,224,224,f9c7b5f5ca288a3e929e38e7d5fd76e4a3c818e9bbb9e3c463fdff0ee1fc8921,"[0, 255]",0.12635522959183673,True,group_0315,val
+malignant,malignant/images/malignant (103).png,malignant/masks/malignant (103)_mask.png,224,224,d5d65bd5c540f53b86abc683ee9d3335977925bdd485dd92f3981058b75c0fe2,"[0, 255]",0.1974250637755102,True,group_0316,test
+malignant,malignant/images/malignant (104).png,malignant/masks/malignant (104)_mask.png,224,224,6d4a6b104ad552003b23895d167fb35206f857a17b168511fe12ee62d2ba60d7,"[0, 255]",0.17281170280612246,True,group_0317,train
+malignant,malignant/images/malignant (105).png,malignant/masks/malignant (105)_mask.png,224,224,cf123cdf12cf930b31284524a5307ea5bf9cc39841dda5b1ff60e9b11f263625,"[0, 255]",0.02810108418367347,True,group_0318,train
+malignant,malignant/images/malignant (106).png,malignant/masks/malignant (106)_mask.png,224,224,c55b006fec2a64d90fd099fb69381fb5de0806fe0099cec5de714813da9eeaf7,"[0, 255]",0.07148836096938775,True,group_0319,val
+malignant,malignant/images/malignant (107).png,malignant/masks/malignant (107)_mask.png,224,224,b7f5896a1653615e35283d0f6ea3ee8dcd81bf0757548cb21db781a791beccb0,"[0, 255]",0.12137276785714286,True,group_0319,val
+malignant,malignant/images/malignant (108).png,malignant/masks/malignant (108)_mask.png,224,224,65895d98ba4d65c2b54c0587683d261333ffc58deacdfafb7c5e096df6c4160f,"[0, 255]",0.15822305484693877,True,group_0320,train
+malignant,malignant/images/malignant (109).png,malignant/masks/malignant (109)_mask.png,224,224,966288e418321ac3916b135063f2f00f5ecb6e636140855d968ff88e0bf7d4cc,"[0, 255]",0.07686941964285714,True,group_0321,train
+malignant,malignant/images/malignant (11).png,malignant/masks/malignant (11)_mask.png,224,224,fa96263084351a6ef18272bf637f85c62958840be1db61e2c7ae12bac30ca9c9,"[0, 255]",0.06226084183673469,True,group_0322,train
+malignant,malignant/images/malignant (110).png,malignant/masks/malignant (110)_mask.png,224,224,52a84281b4abdcf27d1355ece97f43277f49b000d6ca93fbdb9f81ffbb9ed43b,"[0, 255]",0.03384088010204082,True,group_0323,train
+malignant,malignant/images/malignant (111).png,malignant/masks/malignant (111)_mask.png,224,224,86c2d332b60c27f7e997e8f43833d484e0b1dca27e1234f7da09ce3cfb67b2e6,"[0, 255]",0.21193399234693877,True,group_0324,train
+malignant,malignant/images/malignant (112).png,malignant/masks/malignant (112)_mask.png,224,224,f8ed9e5994be30b0f944d41ff81909a24a160a4a3b7cedd8f441e0b43b7b60ca,"[0, 255]",0.019909917091836735,True,group_0325,train
+malignant,malignant/images/malignant (113).png,malignant/masks/malignant (113)_mask.png,224,224,711b511854e0790695f6f896622f2bd2ddd537a80d9cafe22beff2ae7c6d0d54,"[0, 255]",0.053611288265306124,True,group_0326,train
+malignant,malignant/images/malignant (114).png,malignant/masks/malignant (114)_mask.png,224,224,c67950d191c227fd75e25acaa15fb2e53c1bfaa16d8f81426c829a8d6780255c,"[0, 255]",0.18751992984693877,True,group_0327,test
+malignant,malignant/images/malignant (115).png,malignant/masks/malignant (115)_mask.png,224,224,6c49adef7e856a10b93d39cb3a3f762023567cf9398a8f1f584fd13fc32aff82,"[0, 255]",0.0813735650510204,True,group_0328,test
+malignant,malignant/images/malignant (116).png,malignant/masks/malignant (116)_mask.png,224,224,1fe173ec5d5361bed86ced530a40cbe633249017aeb51a20ade5b7d6caa75d31,"[0, 255]",0.054009885204081634,True,group_0329,train
+malignant,malignant/images/malignant (117).png,malignant/masks/malignant (117)_mask.png,224,224,778032a12b321d2d85a721202ae8a27df7c4f71ac9c92dc88110267b0104d9e1,"[0, 255]",0.08466198979591837,True,group_0330,train
+malignant,malignant/images/malignant (118).png,malignant/masks/malignant (118)_mask.png,224,224,d42be3f3395986c7d3a15f8c7e5c7ae738a3f471d0dad1213399ef70b3f91a92,"[0, 255]",0.11577248086734694,True,group_0331,train
+malignant,malignant/images/malignant (119).png,malignant/masks/malignant (119)_mask.png,224,224,f8a107a822bb54e36b5c67ffe6ea77c0dd5820f60d9c7bfc91e24293e8b4624b,"[0, 255]",0.10923549107142858,True,group_0331,train
+malignant,malignant/images/malignant (12).png,malignant/masks/malignant (12)_mask.png,224,224,623a02fb500ed32a5f4812cd02bc9d57e106651869583e93e025c6ce8d006c80,"[0, 255]",0.028340242346938774,True,group_0323,train
+malignant,malignant/images/malignant (120).png,malignant/masks/malignant (120)_mask.png,224,224,e720a0583a9fe85da368ff317aaece775d0d8c38199d6ef772fdf4510bcc40e2,"[0, 255]",0.17012117346938777,True,group_0332,train
+malignant,malignant/images/malignant (121).png,malignant/masks/malignant (121)_mask.png,224,224,b70d4dfe985d69dca0c2170ef901a80e7cede873bab574ec59f1dae06cb3128b,"[0, 255]",0.01305404974489796,True,group_0333,train
+malignant,malignant/images/malignant (122).png,malignant/masks/malignant (122)_mask.png,224,224,55502bf000537242aa53dd65d854ca3300eff5ddabeb28f2547f572ec71f1ef4,"[0, 255]",0.19559151785714285,True,group_0334,test
+malignant,malignant/images/malignant (123).png,malignant/masks/malignant (123)_mask.png,224,224,4c6b98e3612490e786310dc8bc87305bc9f9fa5ce39bc1c0e93231c07276a6aa,"[0, 255]",0.19389748086734693,True,group_0327,test
+malignant,malignant/images/malignant (124).png,malignant/masks/malignant (124)_mask.png,224,224,78259281d60db47f84a5e16d37ffc3a2864a5036687dcfcfd051d67907963ee3,"[0, 255]",0.16701211734693877,True,group_0335,test
+malignant,malignant/images/malignant (125).png,malignant/masks/malignant (125)_mask.png,224,224,35296a5aaa0da710cd8d3a54783af90c8db66ccb534cd3951629b1f01a9f682b,"[0, 255]",0.050502232142857144,True,group_0336,train
+malignant,malignant/images/malignant (126).png,malignant/masks/malignant (126)_mask.png,224,224,6f96ec2af27474f8589000bd67ce6b2dee85e4a16991b74a98836cf87c7e1454,"[0, 255]",0.06995376275510204,True,group_0337,train
+malignant,malignant/images/malignant (127).png,malignant/masks/malignant (127)_mask.png,224,224,d064ea9be3d0055a2ab72b66ce6b1b32f63621f9f16c578b020fe1f3ffa51bcf,"[0, 255]",0.2938257334183674,True,group_0338,val
+malignant,malignant/images/malignant (128).png,malignant/masks/malignant (128)_mask.png,224,224,d925b75a487298014c8144fed3d185d6de0e86b8add9707976b8a42a2aba5df6,"[0, 255]",0.3614078443877551,True,group_0339,val
+malignant,malignant/images/malignant (129).png,malignant/masks/malignant (129)_mask.png,224,224,476ef493b13aad35996eed331f8e43c6fab2827c6ec3efdd915fbe7743ea61f8,"[0, 255]",0.39766023596938777,True,group_0339,val
+malignant,malignant/images/malignant (13).png,malignant/masks/malignant (13)_mask.png,224,224,83f2aade5d134c275a307adb06cba1d70b3b3d710b831c7c48dd7367c0e61df7,"[0, 255]",0.08424346301020408,True,group_0321,train
+malignant,malignant/images/malignant (130).png,malignant/masks/malignant (130)_mask.png,224,224,800775517b21d738db84b8af92455264ccc63e7106d277538b0b20cf53f89469,"[0, 255]",0.1253388073979592,True,group_0340,val
+malignant,malignant/images/malignant (131).png,malignant/masks/malignant (131)_mask.png,224,224,f0017443e2534a094f31b64934f8c920ac58a9452f344d4243cd2616621a2a78,"[0, 255]",0.04904735331632653,True,group_0341,train
+malignant,malignant/images/malignant (132).png,malignant/masks/malignant (132)_mask.png,224,224,919d9baa9f21afafb1a8c3f3d239356408ad4b80f9fc93c66a1306a0151b4475,"[0, 255]",0.3237802933673469,True,group_0342,test
+malignant,malignant/images/malignant (133).png,malignant/masks/malignant (133)_mask.png,224,224,66483ad794523e83fb634867c682c0982173ccb2663489d45b7848e4a625fb9f,"[0, 255]",0.37693319515306123,True,group_0343,train
+malignant,malignant/images/malignant (134).png,malignant/masks/malignant (134)_mask.png,224,224,72f27c092fcacf99ee228a237464cf8336fd637be7a28d72b3d1e98cee899120,"[0, 255]",0.062181122448979595,True,group_0344,train
+malignant,malignant/images/malignant (135).png,malignant/masks/malignant (135)_mask.png,224,224,8b5656b378af7be57395557897b0e4e36478ea6856b7f1df15ede10e01291974,"[0, 255]",0.07190688775510204,True,group_0345,test
+malignant,malignant/images/malignant (136).png,malignant/masks/malignant (136)_mask.png,224,224,cdeaf13222dbca7ec0096fba3b459eed37d13ba4970c2948cd84a37b2d24e7f9,"[0, 255]",0.07798549107142858,True,group_0346,train
+malignant,malignant/images/malignant (137).png,malignant/masks/malignant (137)_mask.png,224,224,cca7e9fc0b8f9a99c2989c505d47bec4f6cbe642c9fd98b6c5810f4d31e9ce71,"[0, 255]",0.43600526147959184,True,group_0347,test
+malignant,malignant/images/malignant (138).png,malignant/masks/malignant (138)_mask.png,224,224,2dd65715f9faf52e21c09451c89e7d065f0cce46d24f6dce4c53490c4ecd71b3,"[0, 255]",0.11989795918367346,True,group_0348,train
+malignant,malignant/images/malignant (139).png,malignant/masks/malignant (139)_mask.png,224,224,e7173f4cba380dbdb15ac41d7af3ffe7b3035c431a7fa68f702ad27adfc03257,"[0, 255]",0.12155213647959184,True,group_0349,train
+malignant,malignant/images/malignant (14).png,malignant/masks/malignant (14)_mask.png,224,224,30abf809573e3d893bdef97914993ba842acdc075c3b828fe079285e65639c10,"[0, 255]",0.16426179846938777,True,group_0327,test
+malignant,malignant/images/malignant (140).png,malignant/masks/malignant (140)_mask.png,224,224,1129ceb4069e588cec70cb271d818205e7858f35fe724a8b1864c1f172c39208,"[0, 255]",0.11627072704081633,True,group_0350,train
+malignant,malignant/images/malignant (141).png,malignant/masks/malignant (141)_mask.png,224,224,a13f6eb6ce83fd5920a28abff0df15157b71787635f3020ad473c2a6d24d0819,"[0, 255]",0.05311304209183673,True,group_0351,train
+malignant,malignant/images/malignant (142).png,malignant/masks/malignant (142)_mask.png,224,224,3b4edaac3b71e00d710c69ea45a89b57b093f77bea9e226335a3cc19531d9949,"[0, 255]",0.31222098214285715,True,group_0352,train
+malignant,malignant/images/malignant (143).png,malignant/masks/malignant (143)_mask.png,224,224,c857c8e039327f1ac15d7dddca36de9e010023084e381bdd5fcf0c474f057d49,"[0, 255]",0.047173947704081634,True,group_0353,train
+malignant,malignant/images/malignant (144).png,malignant/masks/malignant (144)_mask.png,224,224,49bf1cdd4092bb8ce83c49794a7ae8c3dd46ab4085c114e141aa0a0a8a863716,"[0, 255]",0.25864955357142855,True,group_0354,val
+malignant,malignant/images/malignant (146).png,malignant/masks/malignant (146)_mask.png,224,224,738646205c352376a3acd4bb1529b94587b2ae0af25d6c9d4b226c1dbfe9eb82,"[0, 255]",0.19391741071428573,True,group_0355,train
+malignant,malignant/images/malignant (147).png,malignant/masks/malignant (147)_mask.png,224,224,feb2df85b392d1aa1a023bcee2f4a26cc23e4d9a4aa0611278e64b67a678ed97,"[0, 255]",0.04565927933673469,True,group_0356,test
+malignant,malignant/images/malignant (148).png,malignant/masks/malignant (148)_mask.png,224,224,8d1f2b2845926f883a179f65ee8c57b193b222701ff21feb3b4068ef60b3eeaa,"[0, 255]",0.011120854591836735,True,group_0357,train
+malignant,malignant/images/malignant (149).png,malignant/masks/malignant (149)_mask.png,224,224,80203de3655a30d5de7bb23db414c6d877d3e274b9081a76660c910fcf7856be,"[0, 255]",0.07842394770408163,True,group_0358,train
+malignant,malignant/images/malignant (15).png,malignant/masks/malignant (15)_mask.png,224,224,2fa70bda0a614907e71540f50793b952232c48bc31c52fd6d4071ff6574d4a22,"[0, 255]",0.2619579081632653,True,group_0324,train
+malignant,malignant/images/malignant (150).png,malignant/masks/malignant (150)_mask.png,224,224,318aae6be0ce9cb00a1455df8cc8578cab1a3dea22de164bec70d9f267211926,"[0, 255]",0.39626514668367346,True,group_0359,test
+malignant,malignant/images/malignant (151).png,malignant/masks/malignant (151)_mask.png,224,224,b7f1deb64b63d1b0ff005db4e4f0d0316dd53c74f0817f87f510ad8cfaa503de,"[0, 255]",0.18307557397959184,True,group_0360,val
+malignant,malignant/images/malignant (152).png,malignant/masks/malignant (152)_mask.png,224,224,46a5c24335a6906c80f9d3a59077dca96f64a4c82a9c9ecfabe009580c6e8e71,"[0, 255]",0.2154815051020408,True,group_0361,train
+malignant,malignant/images/malignant (153).png,malignant/masks/malignant (153)_mask.png,224,224,741a0d7bdaee7e5e007e615d2f803f87deaa784827e64b891a4bb7f2108587b6,"[0, 255]",0.3525988520408163,True,group_0362,train
+malignant,malignant/images/malignant (154).png,malignant/masks/malignant (154)_mask.png,224,224,25c504b5f9889ce06ebb1d2960dba5f85cb10c0381510da5bf38109c18512e14,"[0, 255]",0.22446986607142858,True,group_0363,train
+malignant,malignant/images/malignant (155).png,malignant/masks/malignant (155)_mask.png,224,224,2502be70147c3c11570d96f85c4f235257515481c4113cc6089e4a794297328f,"[0, 255]",0.14182079081632654,True,group_0364,test
+malignant,malignant/images/malignant (156).png,malignant/masks/malignant (156)_mask.png,224,224,2b14ddd4dffe0704de0fc6cf6a04fb9f8e878b0a252f58feef0742d4e134b9ea,"[0, 255]",0.4245655293367347,True,group_0365,val
+malignant,malignant/images/malignant (157).png,malignant/masks/malignant (157)_mask.png,224,224,0cbab7cc4a17cd7058437a7abbe269c4528c0a7270b4de5c353bd5d4a05d286a,"[0, 255]",0.01985012755102041,True,group_0366,val
+malignant,malignant/images/malignant (158).png,malignant/masks/malignant (158)_mask.png,224,224,69fefb887afde29f7e7b669d0d83c295ac55f1576ee860e266a202b460456a09,"[0, 255]",0.2484454719387755,True,group_0367,train
+malignant,malignant/images/malignant (159).png,malignant/masks/malignant (159)_mask.png,224,224,6a489efeb98e26f4e73ff4f66ec99fc4702aa3e504b2cfb68a6febd2cfda3c6a,"[0, 255]",0.21287069515306123,True,group_0368,test
+malignant,malignant/images/malignant (16).png,malignant/masks/malignant (16)_mask.png,224,224,11aae458f1bf4ac607690fba0fdb2787b452ea59f7c54204966ee54e44454f8c,"[0, 255]",0.20342394770408162,True,group_0369,val
+malignant,malignant/images/malignant (160).png,malignant/masks/malignant (160)_mask.png,224,224,131c053fab6b8b101a1cf5e3eb6e035e44ea274d623282f01d9455ae4d72d4e9,"[0, 255]",0.20838647959183673,True,group_0370,train
+malignant,malignant/images/malignant (161).png,malignant/masks/malignant (161)_mask.png,224,224,e1100ed5bd2bfc7eee619b02bc47f18bffe332d98891bc2fcf2e21b085b6a4c0,"[0, 255]",0.24025430484693877,True,group_0371,train
+malignant,malignant/images/malignant (162).png,malignant/masks/malignant (162)_mask.png,224,224,14e9207746e4b17a76b01e6a521556bb0b155265d8e39d978242a58913bd5c8e,"[0, 255]",0.377750318877551,True,group_0372,train
+malignant,malignant/images/malignant (163).png,malignant/masks/malignant (163)_mask.png,224,224,b0f285c7543d24f707c9dc4f3e58042716183519bd63334c1ec670f560e64351,"[0, 255]",0.45663265306122447,True,group_0373,train
+malignant,malignant/images/malignant (164).png,malignant/masks/malignant (164)_mask.png,224,224,4067103767a4f5db07924935ff974c4a009021d12cd979c1a20e1c94423431e2,"[0, 255]",0.5634765625,True,group_0374,train
+malignant,malignant/images/malignant (165).png,malignant/masks/malignant (165)_mask.png,224,224,4b2e2a4acf509118c685e89222f2a528c5fc3d95c694c7621db9badf4a9a44e6,"[0, 255]",0.4221141581632653,True,group_0375,train
+malignant,malignant/images/malignant (166).png,malignant/masks/malignant (166)_mask.png,224,224,4acdf176cdc323796ee8111af0e5db52816d63a1fedc8e93496d92e7f9a728a8,"[0, 255]",0.03559470663265306,True,group_0376,train
+malignant,malignant/images/malignant (167).png,malignant/masks/malignant (167)_mask.png,224,224,7650d489aa8f557316c4627a8d18e62de02b5857d5eb994f8aedb65f82b03a47,"[0, 255]",0.22287547831632654,True,group_0377,test
+malignant,malignant/images/malignant (168).png,malignant/masks/malignant (168)_mask.png,224,224,dcf0556923aa0fb92d79c8849e7475f2437332fa99dab63323c9131faad0d125,"[0, 255]",0.1919842155612245,True,group_0378,train
+malignant,malignant/images/malignant (169).png,malignant/masks/malignant (169)_mask.png,224,224,050760a58758898fbd1468197bc058ee50f055a1274dcf1366cd6b652ca5868b,"[0, 255]",0.0049824617346938774,True,group_0379,train
+malignant,malignant/images/malignant (17).png,malignant/masks/malignant (17)_mask.png,224,224,3a7ed9c2db5e60ec5c2616f68f1bb2e0cbd010862b86a867be7491922945e12e,"[0, 255]",0.07912149234693877,True,group_0380,train
+malignant,malignant/images/malignant (170).png,malignant/masks/malignant (170)_mask.png,224,224,6800ba9f8d111704aee085f8efaa515cbbd5744e1dec46bd6e6b256fff64f3a0,"[0, 255]",0.31905691964285715,True,group_0381,train
+malignant,malignant/images/malignant (171).png,malignant/masks/malignant (171)_mask.png,224,224,339fc6cfe88e591a71858da5162493808dc20129ce43c57ae49103a95fc401f0,"[0, 255]",0.09091996173469388,True,group_0382,train
+malignant,malignant/images/malignant (172).png,malignant/masks/malignant (172)_mask.png,224,224,b36286713296c0f985441e5fa05acbfe5e00db97686d0085d780c95281b8c019,"[0, 255]",0.06592793367346939,True,group_0383,train
+malignant,malignant/images/malignant (173).png,malignant/masks/malignant (173)_mask.png,224,224,58d5d349d6006d58c036a6cb97df59abbcafb7fe7cc1d0fd96a8b367ecb9d1dc,"[0, 255]",0.05747767857142857,True,group_0384,train
+malignant,malignant/images/malignant (174).png,malignant/masks/malignant (174)_mask.png,224,224,ecce99e9189c3fabe753f1ebde27b22824010b43d50d465983c8579b0beb730f,"[0, 255]",0.08057637117346939,True,group_0385,train
+malignant,malignant/images/malignant (175).png,malignant/masks/malignant (175)_mask.png,224,224,b6b05f8b7482146a5f1b6c57d0782f06de0c34136e5357c87bbe3b0e32ced8dd,"[0, 255]",0.21458466198979592,True,group_0386,train
+malignant,malignant/images/malignant (176).png,malignant/masks/malignant (176)_mask.png,224,224,1be87275c6dae497a04282f8caeec99d1e7e151d9e7f777daabfab78a80d29ce,"[0, 255]",0.10660475127551021,True,group_0387,train
+malignant,malignant/images/malignant (177).png,malignant/masks/malignant (177)_mask.png,224,224,3e06473dc4b2f2fe20f31eeb05cdf499bc6231f96b4ceca4486a04c4213283bd,"[0, 255]",0.048549107142857144,True,group_0388,val
+malignant,malignant/images/malignant (178).png,malignant/masks/malignant (178)_mask.png,224,224,f35555ebf5614769e0ce947fa3ccb30ec0008d0c11dc33f57857e61c927cdf51,"[0, 255]",0.08749202806122448,True,group_0389,train
+malignant,malignant/images/malignant (179).png,malignant/masks/malignant (179)_mask.png,224,224,7d95f365e650184d11eef98513c9e2c9be8a250c17c61001eac15dee80535523,"[0, 255]",0.12765066964285715,True,group_0390,val
+malignant,malignant/images/malignant (18).png,malignant/masks/malignant (18)_mask.png,224,224,c58c3970b1cadd61729c014cbf4e09a5927b1e656e5a33e6257640f5c441081e,"[0, 255]",0.07579320790816327,True,group_0329,train
+malignant,malignant/images/malignant (180).png,malignant/masks/malignant (180)_mask.png,224,224,37216696648894cdc3f834630895fc446cab9ffd8a24e9edaa8b1a75cc9b9331,"[0, 255]",0.1071029974489796,True,group_0391,train
+malignant,malignant/images/malignant (181).png,malignant/masks/malignant (181)_mask.png,224,224,55c3abdfc778352cb78ebda149aae18b8e2b738859d124648d54842b46f11687,"[0, 255]",0.04551977040816327,True,group_0392,val
+malignant,malignant/images/malignant (182).png,malignant/masks/malignant (182)_mask.png,224,224,1c50dc488a214aeb6b4e20eba24211e7ca8657bbf6b729db5b325c60952f6a3c,"[0, 255]",0.21081792091836735,True,group_0393,train
+malignant,malignant/images/malignant (183).png,malignant/masks/malignant (183)_mask.png,224,224,754d46242db11126b533ec5a3ccaffbce16bad6d262149b4f7e228c050039b3f,"[0, 255]",0.21486367984693877,True,group_0394,val
+malignant,malignant/images/malignant (184).png,malignant/masks/malignant (184)_mask.png,224,224,6466337f868dd7cff4a19122eaceb2abaa781771cfda62eccb6c4dca027dfeca,"[0, 255]",0.13556281887755103,True,group_0395,train
+malignant,malignant/images/malignant (185).png,malignant/masks/malignant (185)_mask.png,224,224,26523cce51705f595f7997297c27c91068c1366826cf2a63025df75d85659cda,"[0, 255]",0.16784917091836735,True,group_0396,test
+malignant,malignant/images/malignant (186).png,malignant/masks/malignant (186)_mask.png,224,224,6f96ef6150cc072c7dbfdde9c21410bf1c66e7ed7a2e05c4c6512ae5393b44a6,"[0, 255]",0.31088568239795916,True,group_0397,train
+malignant,malignant/images/malignant (187).png,malignant/masks/malignant (187)_mask.png,224,224,c73d236e5f340c455145e7518654f7974106731c565ef9f6bd5bd03c8c029fcb,"[0, 255]",0.12185108418367346,True,group_0398,train
+malignant,malignant/images/malignant (188).png,malignant/masks/malignant (188)_mask.png,224,224,e2a5c2d0e3ae34393e84bda336c18e23e8c9bf74bbd88e118d7d203e1efb6238,"[0, 255]",0.1327327806122449,True,group_0399,val
+malignant,malignant/images/malignant (189).png,malignant/masks/malignant (189)_mask.png,224,224,95084d4b3b520fff96cfa420d9f60ae42e1cbfba5450581eb19242ec4a465cbd,"[0, 255]",0.01638233418367347,True,group_0400,train
+malignant,malignant/images/malignant (19).png,malignant/masks/malignant (19)_mask.png,224,224,57108dd05c9eba9d7f9e1c913fa4064670d91b5a54e0ca9cde464ca0cf2cee3a,"[0, 255]",0.18213887117346939,True,group_0401,train
+malignant,malignant/images/malignant (190).png,malignant/masks/malignant (190)_mask.png,224,224,ea8259d061d69064eb0974efbf54354f5821722693a190b8ceb41bf63425136e,"[0, 255]",0.09177694515306123,True,group_0402,train
+malignant,malignant/images/malignant (191).png,malignant/masks/malignant (191)_mask.png,224,224,565a152fddd7aafddec71ab5510aff27628736f706ff6fef8425b8c24594d9c6,"[0, 255]",0.0392219387755102,True,group_0403,test
+malignant,malignant/images/malignant (192).png,malignant/masks/malignant (192)_mask.png,224,224,4b9d5ae922d77962038297e75c17abd2a43f252f68e2f637c7f1ef96625cfa4b,"[0, 255]",0.021484375,True,group_0404,train
+malignant,malignant/images/malignant (193).png,malignant/masks/malignant (193)_mask.png,224,224,08391a33ffb4f7fee781d1c55e16e836d8e5f3e7b156203e62a3cc4b5264e8ad,"[0, 255]",0.0362922512755102,True,group_0405,test
+malignant,malignant/images/malignant (194).png,malignant/masks/malignant (194)_mask.png,224,224,5133f9431a669649885cf3da22fd54deb45a710e9a575805265ffeadcbed9363,"[0, 255]",0.12966358418367346,True,group_0406,train
+malignant,malignant/images/malignant (195).png,malignant/masks/malignant (195)_mask.png,224,224,f53d2e5d0a9346abd36ae7ba30ac2b750e13036de078f2c4e7b700291f5f038c,"[0, 255]",0.17737563775510204,True,group_0407,train
+malignant,malignant/images/malignant (196).png,malignant/masks/malignant (196)_mask.png,224,224,5accaac8178311ba5106adc1e179ea96ab41fc068ea6c0910fd475acf1af122d,"[0, 255]",0.10277822066326531,True,group_0408,train
+malignant,malignant/images/malignant (197).png,malignant/masks/malignant (197)_mask.png,224,224,56179f4326ad0a5f58900bc6eb5f92bf43d7284df9ab88f0d1f131c4a7b67539,"[0, 255]",0.10865752551020408,True,group_0409,test
+malignant,malignant/images/malignant (198).png,malignant/masks/malignant (198)_mask.png,224,224,fd085a948f28397a78e90849e3714a098dd4e98bdb8ab0c679b0d01c23698726,"[0, 255]",0.08043686224489796,True,group_0410,val
+malignant,malignant/images/malignant (199).png,malignant/masks/malignant (199)_mask.png,224,224,b515d83071360f193a4576fb89c2854729973028b2b9ce89c58f33ceb60a331c,"[0, 255]",0.06644610969387756,True,group_0411,train
+malignant,malignant/images/malignant (2).png,malignant/masks/malignant (2)_mask.png,224,224,578bb993d9b19a8f4c4e3dc33ba80c31cfb091a8d039ddae6b2581e28b8bd6ce,"[0, 255]",0.3408801020408163,True,group_0412,val
+malignant,malignant/images/malignant (20).png,malignant/masks/malignant (20)_mask.png,224,224,d46339116f9fbd1dcac2f2a1778800eae63e79cae186f1274cadcff0f14010f5,"[0, 255]",0.19389748086734693,True,group_0413,train
+malignant,malignant/images/malignant (200).png,malignant/masks/malignant (200)_mask.png,224,224,cfa439442d3a7db5d68c07dd51d25c508f9309b9d6a27ef612d9fa60c573f118,"[0, 255]",0.06273915816326531,True,group_0414,test
+malignant,malignant/images/malignant (201).png,malignant/masks/malignant (201)_mask.png,224,224,35b4eba677dbdd17e4de31501a0a5f49eb1629d846b31c6a84d0722c0e8ee18c,"[0, 255]",0.2010124362244898,True,group_0415,train
+malignant,malignant/images/malignant (202).png,malignant/masks/malignant (202)_mask.png,224,224,bf315516a72ae3b4637d750dd7b2c067bf8944a6b89a6383f5cd4642099fb2ea,"[0, 255]",0.13576211734693877,True,group_0416,train
+malignant,malignant/images/malignant (203).png,malignant/masks/malignant (203)_mask.png,224,224,9d34c6b257a32d5dd9a6fb2a9b22174521d0450d72f4801788f3a6d3b55dec37,"[0, 255]",0.2246890943877551,True,group_0417,train
+malignant,malignant/images/malignant (204).png,malignant/masks/malignant (204)_mask.png,224,224,fc20643dd2c6855edbe80ebd968d64bda08ee7abdee54ea495e89538b7b995b6,"[0, 255]",0.09241470025510204,True,group_0418,train
+malignant,malignant/images/malignant (205).png,malignant/masks/malignant (205)_mask.png,224,224,61c8fc5f6fdb569648bed9ca8047760a9af8c961b543370d3742eeae6fe57f39,"[0, 255]",0.3659119897959184,True,group_0419,train
+malignant,malignant/images/malignant (206).png,malignant/masks/malignant (206)_mask.png,224,224,b1b5d11ff6935be30e53eead5009ec3682c8353279ad5f58b969971cffaa0e89,"[0, 255]",0.3210299744897959,True,group_0420,train
+malignant,malignant/images/malignant (207).png,malignant/masks/malignant (207)_mask.png,224,224,89c4a555a05ece57fbfc046b5e3369baba0562b2ab569efd9e632f78baf9358a,"[0, 255]",0.11084980867346939,True,group_0421,val
+malignant,malignant/images/malignant (208).png,malignant/masks/malignant (208)_mask.png,224,224,956fb7afa482752f0e4f60baee506fc544288edaa1f2225e6641fa2b2e42fda9,"[0, 255]",0.3549107142857143,True,group_0422,train
+malignant,malignant/images/malignant (209).png,malignant/masks/malignant (209)_mask.png,224,224,6f896d6578c7559e5f4a508b165d75ae4a00cf067df9a16a04570deb2585577e,"[0, 255]",0.021065848214285716,True,group_0423,train
+malignant,malignant/images/malignant (21).png,malignant/masks/malignant (21)_mask.png,224,224,f47f21279bafe06a2994873ff581eb78362a568397490caaeb3ed9a158ba7fd5,"[0, 255]",0.19782366071428573,True,group_0424,test
+malignant,malignant/images/malignant (210).png,malignant/masks/malignant (210)_mask.png,224,224,c096495598bb094efddd0e4c958572c8ee1a8230312bbb3bebc1b12221651979,"[0, 255]",0.22122130102040816,True,group_0425,val
+malignant,malignant/images/malignant (22).png,malignant/masks/malignant (22)_mask.png,224,224,3ae2fc7c740d1ca57fec4e8ff65b40731ab7a383edaeb0ded0abfdc61f1ed843,"[0, 255]",0.15387834821428573,True,group_0426,test
+malignant,malignant/images/malignant (23).png,malignant/masks/malignant (23)_mask.png,224,224,7f23d59a9331d15567e2fc2e6fcf04b3eff5c2a735bd7144bfd44473dac40947,"[0, 255]",0.32728794642857145,True,group_0427,test
+malignant,malignant/images/malignant (24).png,malignant/masks/malignant (24)_mask.png,224,224,dc915f4e36a21ae79c20b973e85350bcb9dfa4a986f253194faca5acff383a77,"[0, 255]",0.21324936224489796,True,group_0428,train
+malignant,malignant/images/malignant (25).png,malignant/masks/malignant (25)_mask.png,224,224,a9c8e588d338d170e87c787baa920363ee6353bcc54b62ca4e3d2f1b8dc12a70,"[0, 255]",0.310546875,True,group_0429,train
+malignant,malignant/images/malignant (26).png,malignant/masks/malignant (26)_mask.png,224,224,8014f60e52c1df4426c90906ff6163d22c91851dc824fa3c124a9e4749fc5b26,"[0, 255]",0.048828125,True,group_0430,train
+malignant,malignant/images/malignant (27).png,malignant/masks/malignant (27)_mask.png,224,224,f9a70b761f8ca708405bc74c8dcb0f1b6e60fbd8f5f8f4a7c7b008e4dd312ec1,"[0, 255]",0.027802136479591837,True,group_0431,train
+malignant,malignant/images/malignant (28).png,malignant/masks/malignant (28)_mask.png,224,224,8ee3eb31e80b2b979594d8ba833b689f41da111af2da753eee2c1baefffeba2c,"[0, 255]",0.03322305484693878,True,group_0431,train
+malignant,malignant/images/malignant (29).png,malignant/masks/malignant (29)_mask.png,224,224,1f269b6656cfef438326fa63548ea6c6115ba71b59276521e267f7ad1bf46ae6,"[0, 255]",0.17394770408163265,True,group_0432,val
+malignant,malignant/images/malignant (3).png,malignant/masks/malignant (3)_mask.png,224,224,91a669c9778e0852c36b9131555cdbce93cb78180947c3b397910c7273391e48,"[0, 255]",0.06014827806122449,True,group_0433,train
+malignant,malignant/images/malignant (30).png,malignant/masks/malignant (30)_mask.png,224,224,31242d488d207c9e3f5047b482cd1ee0abd191004ff0aa96c910463b5a7d3e66,"[0, 255]",0.2624362244897959,True,group_0434,test
+malignant,malignant/images/malignant (31).png,malignant/masks/malignant (31)_mask.png,224,224,447c19936dec907552c31bd2fecab416ecd10b444dfc705ebab35527953694c7,"[0, 255]",0.3836296237244898,True,group_0435,train
+malignant,malignant/images/malignant (32).png,malignant/masks/malignant (32)_mask.png,224,224,47ef37cada1f6a5c6258e65be5fb2696cd35cacbb6d36936a992845533b1b9ef,"[0, 255]",0.1573062818877551,True,group_0436,val
+malignant,malignant/images/malignant (33).png,malignant/masks/malignant (33)_mask.png,224,224,4c3dc0ffc00c0ac2791192b44bef11fd217945ea5a9965b5ec838e056f1bed00,"[0, 255]",0.21976642219387754,True,group_0437,test
+malignant,malignant/images/malignant (34).png,malignant/masks/malignant (34)_mask.png,224,224,d19c282e29ca3a4ef6cd4db940345e02447398f9f5ab16aea84bc0ad44cfce1d,"[0, 255]",0.03804607780612245,True,group_0438,test
+malignant,malignant/images/malignant (35).png,malignant/masks/malignant (35)_mask.png,224,224,44d3e7480659ece6b20996d95d61d4cf219b39d3178ee201269b479a698be6db,"[0, 255]",0.1754424426020408,True,group_0439,train
+malignant,malignant/images/malignant (36).png,malignant/masks/malignant (36)_mask.png,224,224,d463c14dac606eebd7d87fade32216f375f9260545b6511475c167cdaa85d815,"[0, 255]",0.09883211096938775,True,group_0440,test
+malignant,malignant/images/malignant (37).png,malignant/masks/malignant (37)_mask.png,224,224,1bee692126dd8017d355012e6882a2720768c8ff0b6595565229dd5a35886390,"[0, 255]",0.21446508290816327,True,group_0441,train
+malignant,malignant/images/malignant (38).png,malignant/masks/malignant (38)_mask.png,224,224,fbc3934eca7fb52aba8afc59331bfdf40db8c07e58963b9031d55fd4ad5cc508,"[0, 255]",0.03463807397959184,True,group_0442,train
+malignant,malignant/images/malignant (39).png,malignant/masks/malignant (39)_mask.png,224,224,5e1fda179fb25ae9ac25134804f93f4892d76c3332b97a8e7f1700cae1958037,"[0, 255]",0.12601642219387754,True,group_0443,train
+malignant,malignant/images/malignant (4).png,malignant/masks/malignant (4)_mask.png,224,224,8903558f560233e70bce51e297435e1125f75214b858e9d01c4b2470891eda7e,"[0, 255]",0.06865832270408163,True,group_0444,val
+malignant,malignant/images/malignant (40).png,malignant/masks/malignant (40)_mask.png,224,224,bad6c72dc6c7809c6301336620600687ef1e8a5a76d6a78d90d7161ab1c38531,"[0, 255]",0.11053093112244898,True,group_0445,train
+malignant,malignant/images/malignant (41).png,malignant/masks/malignant (41)_mask.png,224,224,5d2c5675257eb1fe887497e073abe08abd09f6dbd6dddfe69d35d02dfa58ca7f,"[0, 255]",0.09145806760204081,True,group_0446,train
+malignant,malignant/images/malignant (42).png,malignant/masks/malignant (42)_mask.png,224,224,915910cdf74b0ca48a3fc18b2e86209d9f14eecc8b32256083ffae3927ada39b,"[0, 255]",0.11957908163265306,True,group_0443,train
+malignant,malignant/images/malignant (43).png,malignant/masks/malignant (43)_mask.png,224,224,d6b90bebc14a59cbe603d6152aeaa3493727410a0faf4fe3383f7f9efd8abe94,"[0, 255]",0.2749123086734694,True,group_0447,train
+malignant,malignant/images/malignant (44).png,malignant/masks/malignant (44)_mask.png,224,224,286f93d97c75c598568a84b7656d1538f468d56e219e7ca5ce9db5b237c3d74b,"[0, 255]",0.030652104591836735,True,group_0448,train
+malignant,malignant/images/malignant (45).png,malignant/masks/malignant (45)_mask.png,224,224,776e97e41619b567032c7dc802ace263e4a16ec08e841e5ce251eafd8b8df555,"[0, 255]",0.17386798469387754,True,group_0449,train
+malignant,malignant/images/malignant (46).png,malignant/masks/malignant (46)_mask.png,224,224,5ec3663193af1e0020182a61a88e577d402d679b54748f500a87bbdca3acc83b,"[0, 255]",0.05474728954081633,True,group_0450,train
+malignant,malignant/images/malignant (47).png,malignant/masks/malignant (47)_mask.png,224,224,844aa8528a732b9371f3c39482d7a549f8a4f1718f54bafabc4f4288d7f46ea8,"[0, 255]",0.2010124362244898,True,group_0451,train
+malignant,malignant/images/malignant (48).png,malignant/masks/malignant (48)_mask.png,224,224,247208cfedc8dc69f129ad849bb7e655bc10b7b36253e763ee4ab736af896696,"[0, 255]",0.046396683673469385,True,group_0452,val
+malignant,malignant/images/malignant (49).png,malignant/masks/malignant (49)_mask.png,224,224,ef823a2e450bf091ade3c420d5d3fee97122b008cf3b9b45b0ef4f12cd5caf87,"[0, 255]",0.06002869897959184,True,group_0453,train
+malignant,malignant/images/malignant (5).png,malignant/masks/malignant (5)_mask.png,224,224,00578a97330b5acbe91baf2ed9d7f61234b5aa79dbc2e5b417f49965f3c5676d,"[0, 255]",0.05803571428571429,True,group_0444,val
+malignant,malignant/images/malignant (50).png,malignant/masks/malignant (50)_mask.png,224,224,7cbd106ec36ceaec72a055a227120637570d8bf8f57e699794188ac419a1b606,"[0, 255]",0.08049665178571429,True,group_0454,train
+malignant,malignant/images/malignant (53).png,malignant/masks/malignant (53)_mask.png,224,224,868b7e742ab9e83f9a013d514f62b6cada8dd257cea91850dfde5ac456d098e5,"[0, 255]",0.05933115433673469,True,group_0455,train
+malignant,malignant/images/malignant (54).png,malignant/masks/malignant (54)_mask.png,224,224,725c87393ca379797995691b6b9e3169d108e497b49e0083e7d9891cbcf895f2,"[0, 255]",0.06074617346938776,True,group_0456,train
+malignant,malignant/images/malignant (55).png,malignant/masks/malignant (55)_mask.png,224,224,0dd42519ffb95d68f577e74841e7684568c280eb0a770859eb6feb9b522e4e6c,"[0, 255]",0.04745296556122449,True,group_0457,test
+malignant,malignant/images/malignant (56).png,malignant/masks/malignant (56)_mask.png,224,224,e734e9997d7bb936f97f4952197a6cc7ccf9be39e4f734f1ddbc9c68f581455c,"[0, 255]",0.19033003826530612,True,group_0458,train
+malignant,malignant/images/malignant (57).png,malignant/masks/malignant (57)_mask.png,224,224,6553eafef896e4fbe6b0534c540b28fdfcbcc0ee2de6a174a554001abcaa4bf5,"[0, 255]",0.12390385841836735,True,group_0459,train
+malignant,malignant/images/malignant (58).png,malignant/masks/malignant (58)_mask.png,224,224,c5add36070780b45e0c7a2601807a0e4aed18196c2d1a0565f51dc18cfadadbf,"[0, 255]",0.2012515943877551,True,group_0460,train
+malignant,malignant/images/malignant (59).png,malignant/masks/malignant (59)_mask.png,224,224,0cd2849390cb000af394001f392aaa36fd8374c92f81f89717e0dd679e70dfc0,"[0, 255]",0.2346141581632653,True,group_0461,train
+malignant,malignant/images/malignant (6).png,malignant/masks/malignant (6)_mask.png,224,224,022eea5e45ae7c0b3251a9161f7fd9a60b1d7d6df3b3bb6d98ec8432fe5d0982,"[0, 255]",0.06074617346938776,True,group_0462,train
+malignant,malignant/images/malignant (60).png,malignant/masks/malignant (60)_mask.png,224,224,8bf41a8d509de81e50751bf73295adcad81576f53e51421e64cce122979fc2e8,"[0, 255]",0.1638233418367347,True,group_0463,test
+malignant,malignant/images/malignant (61).png,malignant/masks/malignant (61)_mask.png,224,224,0f89a3a166465469c4c3a3927e8609fb24740119fd494974ce2dfbaf3735a4f5,"[0, 255]",0.032106983418367346,True,group_0464,val
+malignant,malignant/images/malignant (62).png,malignant/masks/malignant (62)_mask.png,224,224,30d5ce55ec0f0d7f28e7b7c6ee424897bc76bd5176433c6ec133fde17717578d,"[0, 255]",0.1385921556122449,True,group_0465,train
+malignant,malignant/images/malignant (63).png,malignant/masks/malignant (63)_mask.png,224,224,dfc16081b4a0f370ef078b8da7270c2a83cfc9da32ba25f3e47dd6a3f251770f,"[0, 255]",0.1610530931122449,True,group_0466,train
+malignant,malignant/images/malignant (64).png,malignant/masks/malignant (64)_mask.png,224,224,2920aa92bb900d0e7941319a36c5393502d1d13442dd86067ea4ffcb453ca43f,"[0, 255]",0.06897720025510204,True,group_0467,train
+malignant,malignant/images/malignant (65).png,malignant/masks/malignant (65)_mask.png,224,224,c49fedfd76a35b894e905f944044942b47a0ccf211500e290fe64fe49d96e7f1,"[0, 255]",0.03728874362244898,True,group_0468,test
+malignant,malignant/images/malignant (66).png,malignant/masks/malignant (66)_mask.png,224,224,e2bf65b198bc9f1d515d4ee56353fca9ddbd8d9354f46bf58ee3ea4431f4cb95,"[0, 255]",0.055982940051020405,True,group_0468,test
+malignant,malignant/images/malignant (67).png,malignant/masks/malignant (67)_mask.png,224,224,be946f0665c8df9f6b73b92b8d805595bc5cd7b7ecedc300b4161b7e3ec4cc92,"[0, 255]",0.042490433673469385,True,group_0469,val
+malignant,malignant/images/malignant (68).png,malignant/masks/malignant (68)_mask.png,224,224,bc0cd818e0277a79cbea5d752acd197e6e16063eec25af4034a4e62af3f1d12c,"[0, 255]",0.27596859056122447,True,group_0470,test
+malignant,malignant/images/malignant (69).png,malignant/masks/malignant (69)_mask.png,224,224,897cefbf141e24b0aacb793781cc459d3d606bc4b23e5dfea66c755ba210b2d1,"[0, 255]",0.06419403698979592,True,group_0471,test
+malignant,malignant/images/malignant (7).png,malignant/masks/malignant (7)_mask.png,224,224,14b6619eb0d63f931271452a62ff54ba781311876f7e5446c8709832508be160,"[0, 255]",0.04958545918367347,True,group_0444,val
+malignant,malignant/images/malignant (70).png,malignant/masks/malignant (70)_mask.png,224,224,2228cfdd876d5bd3ea8a228191b501ce6a06bdad49041a4a79ddeda178459249,"[0, 255]",0.052415497448979595,True,group_0472,val
+malignant,malignant/images/malignant (71).png,malignant/masks/malignant (71)_mask.png,224,224,1096975792f0e32e9f1c87dc1ec46a394f9fc63484b00aa19106fd73ded6880b,"[0, 255]",0.23740433673469388,True,group_0473,train
+malignant,malignant/images/malignant (72).png,malignant/masks/malignant (72)_mask.png,224,224,bdc9566d00b217a44d5f09832858fa178f32a21fc8f10498b1472544f7bbec58,"[0, 255]",0.3868781887755102,True,group_0474,train
+malignant,malignant/images/malignant (73).png,malignant/masks/malignant (73)_mask.png,224,224,d0fd2a22065edf12905a002f1cddc3456d600e3aba5420c5636a703d5e15ecac,"[0, 255]",0.03764748086734694,True,group_0475,train
+malignant,malignant/images/malignant (74).png,malignant/masks/malignant (74)_mask.png,224,224,130bfd9f25dd32e46e7307a82f41b327ed4dd6954324297bbbf0f43a29019947,"[0, 255]",0.04350685586734694,True,group_0476,train
+malignant,malignant/images/malignant (75).png,malignant/masks/malignant (75)_mask.png,224,224,4281a00e02935c4876ff8bfc2cf8c22f7cd8c0d8002efb7b9fcbc7cee7d45d0b,"[0, 255]",0.21609933035714285,True,group_0477,test
+malignant,malignant/images/malignant (76).png,malignant/masks/malignant (76)_mask.png,224,224,9ca8bd69fd1516fd286f1d62f84a65d5fdf53da7d44c5e082733fc1e6dded54b,"[0, 255]",0.16501913265306123,True,group_0478,train
+malignant,malignant/images/malignant (79).png,malignant/masks/malignant (79)_mask.png,224,224,8530513390f2ee04a603fc70c09be1f745de859510dd3227f2672955d4307164,"[0, 255]",0.1609733737244898,True,group_0479,val
+malignant,malignant/images/malignant (8).png,malignant/masks/malignant (8)_mask.png,224,224,d882562e411bcb0e19e4860b5020b777c86f7b03ef2c1e0e66a5d7abe59b9f2a,"[0, 255]",0.054986447704081634,True,group_0444,val
+malignant,malignant/images/malignant (80).png,malignant/masks/malignant (80)_mask.png,224,224,ba9ded5ffb4ade231280483b4e7ee3fd296e7ac8b83e6251f97b4f9b350c6116,"[0, 255]",0.09833386479591837,True,group_0480,test
+malignant,malignant/images/malignant (81).png,malignant/masks/malignant (81)_mask.png,224,224,492347e3769619edf70c4d1bbf57c6b5c0511609cfd25708f030c1a27d6cd1b3,"[0, 255]",0.08884725765306123,True,group_0480,test
+malignant,malignant/images/malignant (82).png,malignant/masks/malignant (82)_mask.png,224,224,c6ff04a1a30410795ecdb1a288a47586ce0a556dffec36a4e32309bf0d2c6d5f,"[0, 255]",0.11858258928571429,True,group_0481,train
+malignant,malignant/images/malignant (83).png,malignant/masks/malignant (83)_mask.png,224,224,155938a142c370ce006f666df5cdb2636d57917e92e2a7f23dea25a5a517d2b7,"[0, 255]",0.05199697066326531,True,group_0482,test
+malignant,malignant/images/malignant (84).png,malignant/masks/malignant (84)_mask.png,224,224,3c9df938c57a5410b132e2afdeeef95ed1e59790bca36e9e69e3a2b5d8a86f6d,"[0, 255]",0.09923070790816327,True,group_0483,test
+malignant,malignant/images/malignant (85).png,malignant/masks/malignant (85)_mask.png,224,224,99dca206517dee4d3203f2dc69adcf1c77d3601d77a12a5fea8bd4d19354fdcf,"[0, 255]",0.19505341198979592,True,group_0484,train
+malignant,malignant/images/malignant (86).png,malignant/masks/malignant (86)_mask.png,224,224,a2631a7cf74ffa07708d7e81f6a205feaec076cc5e8d3ae5801de988449cf8b0,"[0, 255]",0.23321906887755103,True,group_0484,train
+malignant,malignant/images/malignant (87).png,malignant/masks/malignant (87)_mask.png,224,224,1d4ea0ad65d493418ce9f84fbb67fa6b4682722ff13ddb30758eca08ce5e99f9,"[0, 255]",0.10933514030612244,True,group_0485,train
+malignant,malignant/images/malignant (88).png,malignant/masks/malignant (88)_mask.png,224,224,16053351e8de698645983679fa06934bc31cc8d4191915ca11480acdcc8e6883,"[0, 255]",0.07495615433673469,True,group_0380,train
+malignant,malignant/images/malignant (89).png,malignant/masks/malignant (89)_mask.png,224,224,1867ad5bdd3bbd0a3c19f3685e494a117860925d2736cde653f926d11a0bb952,"[0, 255]",0.23114636479591838,True,group_0486,test
+malignant,malignant/images/malignant (9).png,malignant/masks/malignant (9)_mask.png,224,224,3682a5a8dc5f336134bde8ac0b67af0ea3ce316e7065517bc09830b442773c76,"[0, 255]",0.05253507653061224,True,group_0444,val
+malignant,malignant/images/malignant (90).png,malignant/masks/malignant (90)_mask.png,224,224,a6f54af94ec2a671a745a292b17b428dd3871fc33226381c7f620b7654aa8031,"[0, 255]",0.10467155612244898,True,group_0487,val
+malignant,malignant/images/malignant (91).png,malignant/masks/malignant (91)_mask.png,224,224,271cdcda4ec3194550b948d68a301f098eff12a12924e712a620b9b3c1c41bc7,"[0, 255]",0.15359933035714285,True,group_0488,train
+malignant,malignant/images/malignant (92).png,malignant/masks/malignant (92)_mask.png,224,224,52e8edd7e624b18433b7e9659501b1c573025d0d62016f823430a64f97c5d40e,"[0, 255]",0.06170280612244898,True,group_0438,test
+malignant,malignant/images/malignant (95).png,malignant/masks/malignant (95)_mask.png,224,224,512b1e5d15aa36b39382545f79f97c5d2a62cf31140beff19d3787e4573886ae,"[0, 255]",0.14881616709183673,True,group_0489,train
+malignant,malignant/images/malignant (96).png,malignant/masks/malignant (96)_mask.png,224,224,5391d75d1bfece98d8496299b4ea52be80432ad25473e387bfc901b5d82f3d47,"[0, 255]",0.21275111607142858,True,group_0489,train
+malignant,malignant/images/malignant (97).png,malignant/masks/malignant (97)_mask.png,224,224,4468df4f102598940372ecf1f561fbae010ac5b6d840f40a6d32c764a48c61c5,"[0, 255]",0.1817203443877551,True,group_0489,train
+malignant,malignant/images/malignant (98).png,malignant/masks/malignant (98)_mask.png,224,224,717a378e9cdc6005acb663d0620b5e544f0d46d7c3a730c67a63a1f88fd36d03,"[0, 255]",0.03551498724489796,True,group_0490,train
+malignant,malignant/images/malignant (99).png,malignant/masks/malignant (99)_mask.png,224,224,f38b526b3d3dd082e957e76255ef701254f606a8d06ccc123007c70421af84b3,"[0, 255]",0.05801578443877551,True,group_0490,train

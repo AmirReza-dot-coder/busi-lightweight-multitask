@@ -1,0 +1,4 @@
+split,benign,malignant,normal
+train,281,127,91
+val,64,35,16
+test,82,41,24

@@ -1,0 +1,3 @@
+id,split,metric,status,expected,observed,absolute_difference
+old_cnn_transformer_attention_seed42,historical_test_recheck,val_normal_mean_foreground_percent,DIFFERENCE,0.988935613307823,0.9890186543367347,8.304102891176779e-05
+old_full_lprm_v1_seed43,historical_test_recheck,val_normal_mean_foreground_percent,DIFFERENCE,1.35074537627551,1.3506623352465987,8.304102891121268e-05

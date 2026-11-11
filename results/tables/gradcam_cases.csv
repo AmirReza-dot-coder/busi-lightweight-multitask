@@ -1,0 +1,7 @@
+validation_index,image,mask,class_name,group_id
+8,normal/images/normal (66).png,normal/masks/normal (66)_mask.png,normal,group_0550
+2,normal/images/normal (118).png,normal/masks/normal (118)_mask.png,normal,group_0510
+77,benign/images/benign (90).png,benign/masks/benign (90)_mask.png,benign,group_0304
+48,benign/images/benign (338).png,benign/masks/benign (338)_mask.png,benign,group_0180
+107,malignant/images/malignant (61).png,malignant/masks/malignant (61)_mask.png,malignant,group_0464
+103,malignant/images/malignant (32).png,malignant/masks/malignant (32)_mask.png,malignant,group_0436

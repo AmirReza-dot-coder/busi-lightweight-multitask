@@ -1,0 +1,10 @@
+mode,seed,parameters,trainable_parameters,shared_trainable_parameters
+classification_only,42,2890179,632195,467840
+segmentation_only,42,3113853,855869,467840
+multitask,42,3278208,1020224,467840
+classification_only,43,2890179,632195,467840
+segmentation_only,43,3113853,855869,467840
+multitask,43,3278208,1020224,467840
+classification_only,44,2890179,632195,467840
+segmentation_only,44,3113853,855869,467840
+multitask,44,3278208,1020224,467840

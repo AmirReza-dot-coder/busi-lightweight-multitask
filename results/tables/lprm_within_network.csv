@@ -1,0 +1,4 @@
+seed,status,changed_class_predictions,wrong_to_correct,correct_to_wrong,coarse_inconsistent_pairs,final_inconsistent_pairs,coarse_positive_dice,final_positive_dice,interpretation
+42,CHECKED,0,0,0,13,13,0.6320738545727401,0.6321222730130087,Within one trained network; not retraining an independent no-LPRM architecture
+43,CHECKED,0,0,0,13,13,0.6433095508225165,0.6433156522394733,Within one trained network; not retraining an independent no-LPRM architecture
+44,CHECKED,0,0,0,16,16,0.6428949891076612,0.6429117042834236,Within one trained network; not retraining an independent no-LPRM architecture
